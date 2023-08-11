@@ -1,0 +1,422 @@
+{"recipes": [
+
+  {
+  "name": "Pasta Carbonara",
+  "ingredients": [
+    "Spaghetti",
+    "Bacon",
+    "Eggs",
+    "Parmesan cheese",
+    "Black pepper",
+    "Salt"
+  ],
+  "instructions": [
+    "Cook the spaghetti according to package instructions.",
+    "In a skillet, cook the bacon until crispy. Remove from heat and crumble it.",
+    "In a bowl, whisk together eggs, Parmesan cheese, salt, and black pepper.",
+    "Drain the cooked spaghetti and add it to the skillet with bacon.",
+    "Pour the egg mixture over the spaghetti and quickly toss until the sauce thickens.",
+    "Serve hot and garnish with additional Parmesan cheese and black pepper."
+  ],
+  "cooking_time": "25 minutes",
+  "difficulty_level": "Easy",
+  "region": "Nord"
+},
+
+  {
+  "name": "Grilled Chicken Caesar Salad",
+  "ingredients": [
+    "Chicken breast",
+    "Romaine lettuce",
+    "Croutons",
+    "Parmesan cheese",
+    "Caesar dressing"
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and pepper.",
+    "Grill the chicken until cooked through.",
+    "Chop the romaine lettuce into bite-sized pieces.",
+    "In a large bowl, combine the lettuce, croutons, and Parmesan cheese.",
+    "Slice the grilled chicken and add it to the bowl.",
+    "Drizzle Caesar dressing over the salad and toss to coat.",
+    "Serve immediately."
+  ],
+  "cooking_time": "30 minutes",
+  "difficulty_level": "Intermediate",
+  "region": "South"
+},
+  {
+  "name": "Vegetable Stir-Fry",
+  "ingredients": [
+    "Mixed vegetables (broccoli, bell peppers, carrots, snow peas, etc.)",
+    "Garlic",
+    "Ginger",
+    "Soy sauce",
+    "Sesame oil",
+    "Cornstarch",
+    "Vegetable broth",
+    "Rice"
+  ],
+  "instructions": [
+    "Cook rice according to package instructions.",
+    "In a wok or large skillet, heat sesame oil over medium heat.",
+    "Add minced garlic and ginger, and cook for 1 minute.",
+    "Add mixed vegetables and stir-fry until crisp-tender.",
+    "In a small bowl, whisk together soy sauce, cornstarch, and vegetable broth.",
+    "Pour the sauce mixture over the vegetables and stir until thickened.",
+    "Serve the stir-fried vegetables over rice.",
+    "Optional: Garnish with sesame seeds or sliced green onions."
+  ],
+  "cooking_time": "20 minutes",
+  "difficulty_level": "Easy",
+  "region": "East"
+},
+  {
+  "name": "Chocolate Brownies",
+  "ingredients": [
+    "Butter",
+    "Sugar",
+    "Eggs",
+    "Vanilla extract",
+    "All-purpose flour",
+    "Cocoa powder",
+    "Salt",
+    "Chocolate chips",
+    "Chopped nuts (optional)"
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C) and grease a baking pan.",
+    "In a microwave-safe bowl, melt the butter and let it cool slightly.",
+    "In a separate bowl, whisk together sugar, eggs, and vanilla extract.",
+    "Add the melted butter to the egg mixture and mix well.",
+    "Sift in the flour, cocoa powder, and salt. Stir until just combined.",
+    "Fold in the chocolate chips and chopped nuts (if using).",
+    "Pour the batter into the greased baking pan and spread it evenly.",
+    "Bake for about 25-30 minutes, or until a toothpick inserted comes out with a few crumbs.",
+    "Let the brownies cool before cutting into squares.",
+    "Serve and enjoy!"
+  ],
+  "cooking_time": "45 minutes",
+  "difficulty_level": "Intermediate",
+  "region": "West"
+},
+  {
+  "name": "Margherita Pizza",
+  "ingredients": [
+    "Pizza dough",
+    "Tomatoes",
+    "Fresh basil leaves",
+    "Mozzarella cheese",
+    "Olive oil",
+    "Salt",
+    "Black pepper"
+  ],
+  "instructions": [
+    "Preheat the oven to the highest temperature (usually around 500°F or 260°C).",
+    "Roll out the pizza dough into a round shape.",
+    "Place the dough on a baking sheet or pizza stone.",
+    "Drizzle olive oil over the dough and spread it evenly.",
+    "Slice the tomatoes and arrange them on the dough.",
+    "Tear fresh basil leaves and sprinkle them over the tomatoes.",
+    "Slice the mozzarella cheese and distribute it evenly on top.",
+    "Season with salt and black pepper to taste.",
+    "Bake the pizza in the preheated oven for about 10-12 minutes, or until the crust is golden and the cheese is bubbly and slightly browned.",
+    "Remove from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "cooking_time": "30 minutes",
+  "difficulty_level": "Intermediate",
+  "region": "Nord"
+},
+  {
+  "name": "Chicken Noodle Soup",
+  "ingredients": [
+    "Chicken breast",
+    "Chicken broth",
+    "Carrots",
+    "Celery",
+    "Onion",
+    "Garlic",
+    "Egg noodles",
+    "Fresh parsley",
+    "Salt",
+    "Black pepper"
+  ],
+  "instructions": [
+    "In a large pot, bring chicken broth to a boil.",
+    "Add chicken breast, carrots, celery, onion, and garlic to the pot.",
+    "Reduce heat to low and let it simmer for about 20 minutes, or until the chicken is cooked through and vegetables are tender.",
+    "Remove the chicken breast from the pot and shred it using two forks.",
+    "Return the shredded chicken to the pot.",
+    "Add egg noodles and cook according to package instructions.",
+    "Season with salt and black pepper to taste.",
+    "Chop fresh parsley and stir it into the soup.",
+    "Simmer for an additional 5 minutes to allow the flavors to meld together.",
+    "Serve hot and enjoy!"
+  ],
+  "cooking_time": "45 minutes",
+  "difficulty_level": "Easy",
+  "region": "Nord"
+},
+  {
+  "name": "Berry Smoothie",
+  "ingredients": [
+    "Mixed berries (strawberries, blueberries, raspberries)",
+    "Banana",
+    "Greek yogurt",
+    "Milk (dairy or plant-based)",
+    "Honey or maple syrup (optional)"
+  ],
+  "instructions": [
+    "Add mixed berries, banana, Greek yogurt, and milk to a blender.",
+    "Blend until smooth and creamy.",
+    "Taste and add honey or maple syrup if desired for added sweetness.",
+    "Pour the smoothie into glasses and serve chilled.",
+    "Optional: Garnish with fresh berries or a sprig of mint."
+  ],
+  "cooking_time": "5 minutes",
+  "difficulty_level": "Easy",
+  "region": "paris"
+},
+  {
+  "name": "Caesar Salad",
+  "ingredients": [
+    "Romaine lettuce",
+    "Croutons",
+    "Parmesan cheese",
+    "Caesar dressing",
+    "Anchovies (optional)"
+  ],
+  "instructions": [
+    "Wash and dry the romaine lettuce leaves.",
+    "Tear the lettuce into bite-sized pieces and place them in a salad bowl.",
+    "Add croutons to the bowl.",
+    "Grate Parmesan cheese over the salad.",
+    "If desired, add anchovies for an extra flavor.",
+    "Drizzle Caesar dressing over the salad.",
+    "Toss the salad until all ingredients are well coated with dressing.",
+    "Serve immediately as a refreshing appetizer or side dish."
+  ],
+  "cooking_time": "10 minutes",
+  "difficulty_level": "Easy",
+  "region": "lille"
+},
+  {
+  "name": "Chocolate Chip Cookies",
+  "ingredients": [
+    "Butter",
+    "White sugar",
+    "Brown sugar",
+    "Eggs",
+    "Vanilla extract",
+    "All-purpose flour",
+    "Baking soda",
+    "Salt",
+    "Chocolate chips"
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a mixing bowl, cream together butter, white sugar, and brown sugar until light and fluffy.",
+    "Beat in eggs one at a time, then stir in vanilla extract.",
+    "In a separate bowl, combine all-purpose flour, baking soda, and salt.",
+    "Gradually add the dry ingredients to the butter mixture and mix well.",
+    "Stir in chocolate chips.",
+    "Drop rounded tablespoonfuls of dough onto ungreased baking sheets.",
+    "Bake for 8 to 10 minutes, or until lightly golden brown.",
+    "Allow the cookies to cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely."
+  ],
+  "cooking_time": "20 minutes",
+  "difficulty_level": "Intermediate",
+  "region": "Nord"
+},
+
+{
+  "name": "Chicken Stir-Fry",
+  "ingredients": [
+    "Chicken breast",
+    "Assorted vegetables (bell peppers, broccoli, carrots, snap peas)",
+    "Soy sauce",
+    "Garlic",
+    "Ginger",
+    "Cornstarch",
+    "Vegetable oil",
+    "Salt",
+    "Black pepper"
+  ],
+  "instructions": [
+    "Slice the chicken breast into thin strips.",
+    "In a small bowl, whisk together soy sauce, minced garlic, grated ginger, and cornstarch.",
+    "In a large skillet or wok, heat vegetable oil over medium-high heat.",
+    "Add the chicken strips to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set it aside.",
+    "In the same skillet, add the assorted vegetables and stir-fry until they are crisp-tender.",
+    "Return the cooked chicken to the skillet and pour the soy sauce mixture over the chicken and vegetables.",
+    "Stir-fry for an additional 2-3 minutes, or until the sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "cooking_time": "30 minutes",
+  "difficulty_level": "Intermediate",
+  "region": "Ile de france"
+},
+ {
+            "name": "salutations",
+            "ingredients": [
+                "salut",
+                "hi",
+                "hello",
+                "\u00c3\u00a7a va",
+                "good day",
+                "quoi de neuf",
+                "bonjour",
+                "bonsoir",
+                "coucou",
+                "tu es l\u00c3\u00a0?",
+                "vous \u00c3\u00aates l\u00c3\u00a0?"
+            ],
+            "instructions": [
+                "Salut!",
+                "Bonjour,que puis-je faire pour vous?",
+                "Bonsoir,que puis-je faire pour vous?",
+                "Coucou"
+            ],
+   "cooking_time": "20 minutes",
+  "difficulty_level": "Intermediate",
+       "region": "Ile de france"
+        },
+        {
+            "name": "goodbye",
+            "ingredients": [
+                "au revoir",
+                "\u00c3\u00a0 tout \u00c3\u00a0 l'heure",
+                "\u00c3\u00a0 bient\u00c3\u00b4t",
+                "je m'en vais",
+                "je me casse",
+                "bonne journ\u00c3\u00a9e",
+                "bonne soir\u00c3\u00a9e",
+                "bye",
+                "cya",
+                "ciao",
+                "see you soon"
+            ],
+            "instructions": [
+                "Au revoir",
+                "Bonne journ\u00c3\u00a9e, n'h\u00c3\u00a9sitez pas \u00c3\u00a0 revenir demander de l'aide, je suis l\u00c3\u00a0 pour vous",
+                "Bonne soir\u00c3\u00a9e, n'h\u00c3\u00a9sitez pas \u00c3\u00a0 revenir demander de l'aide, je suis l\u00c3\u00a0 pour vous",
+                "A Bient\u00c3\u00b4t!"
+            ],
+          "cooking_time": "20 minutes",
+  "difficulty_level": "Intermediate",
+          "region": "Ile de france"
+        },
+        {
+            "name": "age",
+            "ingredients": [
+                "How old are you",
+                "quel \u00c3\u00a2ge as tu?",
+                "quel \u00c3\u00a2ge avez vous?",
+                "age",
+                "are you new?",
+                "tu es nouveau",
+                "recent",
+                "quand tu es construit",
+                "quand tu es developp\u00c3\u00a9"
+            ],
+            "instructions": [
+                "1 Mois",
+                "Je suis un b\u00c3\u00a9b\u00c3\u00a9 d'une mois",
+                "Je suis developp\u00c3\u00a9 il y a une mois"
+            ],
+          "cooking_time": "20 minutes",
+  "difficulty_level": "Intermediate",
+          "region": "Ile de france"
+        },
+        {
+            "name": "nom",
+            "ingredients": [
+                "quel est ton nom?",
+                "nom",
+                "pr\u00c3\u00a9nom",
+                "tu t'appelle comment",
+                "vous vous appellez comment",
+                "on t'appelle comment",
+                "dis moi ton nom et pr\u00c3\u00a9nom"
+            ],
+            "instructions": [
+                "Je suis Kebab mdr!",
+                "Appelle moi Kebab",
+                "Je suis un chatbot, tu peux m'appeller comme tu veux",
+                "Je suis chatbot de GLZ, GEBRE LAMYA ZAKARIA"
+            ],
+          "cooking_time": "20 minutes",
+  "difficulty_level": "Intermediate",
+          "region": "Ile de france"
+        },
+        {
+            "name": "service",
+            "ingredients": [
+                "je voulais savoir quelque chose",
+                "service",
+                "qu'est ce que votre service",
+                "qu'est ce que tu me recommend",
+                "votre services?"
+            ],
+            "instructions": [
+                "J'ai les recettes de votre plat pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9. N'h\u00c3\u00a9site pas \u00c3\u00a0 me demander",
+                "Bonjour,J'ai les recettes de votre plat pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9. N'h\u00c3\u00a9site pas \u00c3\u00a0 me demander",
+                "Bonsoir,J'ai les recettes de votre plat pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9. N'h\u00c3\u00a9site pas \u00c3\u00a0 me demander",
+                "Recettes de cuisine!"
+            ],
+          "cooking_time": "20 minutes",
+  "difficulty_level": "Intermediate",
+          "region": "Ile de france"
+        },
+        {
+            "name": "hours",
+            "ingredients": [
+                "Quand Tu es disponible?",
+                "\u00c3\u00a0 quelle heure es tu disponible?",
+                "disponibilit\u00c3\u00a9",
+                "quel heure"
+            ],
+            "instructions": [
+                "Je suis l\u00c3\u00a0 pour vous 24/7 !!",
+                "24/7 et 365/365 !!"
+            ],
+          "cooking_time": "20 minutes",
+  "difficulty_level": "Intermediate",
+          "region": "Ile de france"
+        },
+
+        {
+            "name": "comment",
+            "ingredients": [
+                "how can i use your services?",
+                "comment vous pouvez m'aider",
+                "comment tu peux m'aider?",
+                "comment je peux trouver mes recettes?"
+            ],
+            "instructions": [
+                "Ecrivez ce que vous voulez cuisiner et je vous donnerai les recettes"
+            ],
+          "cooking_time": "20 minutes",
+  "difficulty_level": "Intermediate",
+          "region": "Ile de france"
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+}
