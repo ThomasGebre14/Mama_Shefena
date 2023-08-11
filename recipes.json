@@ -1,422 +1,1647 @@
-{"recipes": [
-
-  {
-  "name": "Pasta Carbonara",
-  "ingredients": [
-    "Spaghetti",
-    "Bacon",
-    "Eggs",
-    "Parmesan cheese",
-    "Black pepper",
-    "Salt"
-  ],
-  "instructions": [
-    "Cook the spaghetti according to package instructions.",
-    "In a skillet, cook the bacon until crispy. Remove from heat and crumble it.",
-    "In a bowl, whisk together eggs, Parmesan cheese, salt, and black pepper.",
-    "Drain the cooked spaghetti and add it to the skillet with bacon.",
-    "Pour the egg mixture over the spaghetti and quickly toss until the sauce thickens.",
-    "Serve hot and garnish with additional Parmesan cheese and black pepper."
-  ],
-  "cooking_time": "25 minutes",
-  "difficulty_level": "Easy",
-  "region": "Nord"
-},
-
-  {
-  "name": "Grilled Chicken Caesar Salad",
-  "ingredients": [
-    "Chicken breast",
-    "Romaine lettuce",
-    "Croutons",
-    "Parmesan cheese",
-    "Caesar dressing"
-  ],
-  "instructions": [
-    "Season the chicken breast with salt and pepper.",
-    "Grill the chicken until cooked through.",
-    "Chop the romaine lettuce into bite-sized pieces.",
-    "In a large bowl, combine the lettuce, croutons, and Parmesan cheese.",
-    "Slice the grilled chicken and add it to the bowl.",
-    "Drizzle Caesar dressing over the salad and toss to coat.",
-    "Serve immediately."
-  ],
-  "cooking_time": "30 minutes",
-  "difficulty_level": "Intermediate",
-  "region": "South"
-},
-  {
-  "name": "Vegetable Stir-Fry",
-  "ingredients": [
-    "Mixed vegetables (broccoli, bell peppers, carrots, snow peas, etc.)",
-    "Garlic",
-    "Ginger",
-    "Soy sauce",
-    "Sesame oil",
-    "Cornstarch",
-    "Vegetable broth",
-    "Rice"
-  ],
-  "instructions": [
-    "Cook rice according to package instructions.",
-    "In a wok or large skillet, heat sesame oil over medium heat.",
-    "Add minced garlic and ginger, and cook for 1 minute.",
-    "Add mixed vegetables and stir-fry until crisp-tender.",
-    "In a small bowl, whisk together soy sauce, cornstarch, and vegetable broth.",
-    "Pour the sauce mixture over the vegetables and stir until thickened.",
-    "Serve the stir-fried vegetables over rice.",
-    "Optional: Garnish with sesame seeds or sliced green onions."
-  ],
-  "cooking_time": "20 minutes",
-  "difficulty_level": "Easy",
-  "region": "East"
-},
-  {
-  "name": "Chocolate Brownies",
-  "ingredients": [
-    "Butter",
-    "Sugar",
-    "Eggs",
-    "Vanilla extract",
-    "All-purpose flour",
-    "Cocoa powder",
-    "Salt",
-    "Chocolate chips",
-    "Chopped nuts (optional)"
-  ],
-  "instructions": [
-    "Preheat the oven to 350°F (175°C) and grease a baking pan.",
-    "In a microwave-safe bowl, melt the butter and let it cool slightly.",
-    "In a separate bowl, whisk together sugar, eggs, and vanilla extract.",
-    "Add the melted butter to the egg mixture and mix well.",
-    "Sift in the flour, cocoa powder, and salt. Stir until just combined.",
-    "Fold in the chocolate chips and chopped nuts (if using).",
-    "Pour the batter into the greased baking pan and spread it evenly.",
-    "Bake for about 25-30 minutes, or until a toothpick inserted comes out with a few crumbs.",
-    "Let the brownies cool before cutting into squares.",
-    "Serve and enjoy!"
-  ],
-  "cooking_time": "45 minutes",
-  "difficulty_level": "Intermediate",
-  "region": "West"
-},
-  {
-  "name": "Margherita Pizza",
-  "ingredients": [
-    "Pizza dough",
-    "Tomatoes",
-    "Fresh basil leaves",
-    "Mozzarella cheese",
-    "Olive oil",
-    "Salt",
-    "Black pepper"
-  ],
-  "instructions": [
-    "Preheat the oven to the highest temperature (usually around 500°F or 260°C).",
-    "Roll out the pizza dough into a round shape.",
-    "Place the dough on a baking sheet or pizza stone.",
-    "Drizzle olive oil over the dough and spread it evenly.",
-    "Slice the tomatoes and arrange them on the dough.",
-    "Tear fresh basil leaves and sprinkle them over the tomatoes.",
-    "Slice the mozzarella cheese and distribute it evenly on top.",
-    "Season with salt and black pepper to taste.",
-    "Bake the pizza in the preheated oven for about 10-12 minutes, or until the crust is golden and the cheese is bubbly and slightly browned.",
-    "Remove from the oven and let it cool for a few minutes before slicing and serving."
-  ],
-  "cooking_time": "30 minutes",
-  "difficulty_level": "Intermediate",
-  "region": "Nord"
-},
-  {
-  "name": "Chicken Noodle Soup",
-  "ingredients": [
-    "Chicken breast",
-    "Chicken broth",
-    "Carrots",
-    "Celery",
-    "Onion",
-    "Garlic",
-    "Egg noodles",
-    "Fresh parsley",
-    "Salt",
-    "Black pepper"
-  ],
-  "instructions": [
-    "In a large pot, bring chicken broth to a boil.",
-    "Add chicken breast, carrots, celery, onion, and garlic to the pot.",
-    "Reduce heat to low and let it simmer for about 20 minutes, or until the chicken is cooked through and vegetables are tender.",
-    "Remove the chicken breast from the pot and shred it using two forks.",
-    "Return the shredded chicken to the pot.",
-    "Add egg noodles and cook according to package instructions.",
-    "Season with salt and black pepper to taste.",
-    "Chop fresh parsley and stir it into the soup.",
-    "Simmer for an additional 5 minutes to allow the flavors to meld together.",
-    "Serve hot and enjoy!"
-  ],
-  "cooking_time": "45 minutes",
-  "difficulty_level": "Easy",
-  "region": "Nord"
-},
-  {
-  "name": "Berry Smoothie",
-  "ingredients": [
-    "Mixed berries (strawberries, blueberries, raspberries)",
-    "Banana",
-    "Greek yogurt",
-    "Milk (dairy or plant-based)",
-    "Honey or maple syrup (optional)"
-  ],
-  "instructions": [
-    "Add mixed berries, banana, Greek yogurt, and milk to a blender.",
-    "Blend until smooth and creamy.",
-    "Taste and add honey or maple syrup if desired for added sweetness.",
-    "Pour the smoothie into glasses and serve chilled.",
-    "Optional: Garnish with fresh berries or a sprig of mint."
-  ],
-  "cooking_time": "5 minutes",
-  "difficulty_level": "Easy",
-  "region": "paris"
-},
-  {
-  "name": "Caesar Salad",
-  "ingredients": [
-    "Romaine lettuce",
-    "Croutons",
-    "Parmesan cheese",
-    "Caesar dressing",
-    "Anchovies (optional)"
-  ],
-  "instructions": [
-    "Wash and dry the romaine lettuce leaves.",
-    "Tear the lettuce into bite-sized pieces and place them in a salad bowl.",
-    "Add croutons to the bowl.",
-    "Grate Parmesan cheese over the salad.",
-    "If desired, add anchovies for an extra flavor.",
-    "Drizzle Caesar dressing over the salad.",
-    "Toss the salad until all ingredients are well coated with dressing.",
-    "Serve immediately as a refreshing appetizer or side dish."
-  ],
-  "cooking_time": "10 minutes",
-  "difficulty_level": "Easy",
-  "region": "lille"
-},
-  {
-  "name": "Chocolate Chip Cookies",
-  "ingredients": [
-    "Butter",
-    "White sugar",
-    "Brown sugar",
-    "Eggs",
-    "Vanilla extract",
-    "All-purpose flour",
-    "Baking soda",
-    "Salt",
-    "Chocolate chips"
-  ],
-  "instructions": [
-    "Preheat the oven to 375°F (190°C).",
-    "In a mixing bowl, cream together butter, white sugar, and brown sugar until light and fluffy.",
-    "Beat in eggs one at a time, then stir in vanilla extract.",
-    "In a separate bowl, combine all-purpose flour, baking soda, and salt.",
-    "Gradually add the dry ingredients to the butter mixture and mix well.",
-    "Stir in chocolate chips.",
-    "Drop rounded tablespoonfuls of dough onto ungreased baking sheets.",
-    "Bake for 8 to 10 minutes, or until lightly golden brown.",
-    "Allow the cookies to cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely."
-  ],
-  "cooking_time": "20 minutes",
-  "difficulty_level": "Intermediate",
-  "region": "Nord"
-},
-
 {
-  "name": "Chicken Stir-Fry",
-  "ingredients": [
-    "Chicken breast",
-    "Assorted vegetables (bell peppers, broccoli, carrots, snap peas)",
-    "Soy sauce",
-    "Garlic",
-    "Ginger",
-    "Cornstarch",
-    "Vegetable oil",
-    "Salt",
-    "Black pepper"
-  ],
-  "instructions": [
-    "Slice the chicken breast into thin strips.",
-    "In a small bowl, whisk together soy sauce, minced garlic, grated ginger, and cornstarch.",
-    "In a large skillet or wok, heat vegetable oil over medium-high heat.",
-    "Add the chicken strips to the skillet and cook until browned and cooked through.",
-    "Remove the chicken from the skillet and set it aside.",
-    "In the same skillet, add the assorted vegetables and stir-fry until they are crisp-tender.",
-    "Return the cooked chicken to the skillet and pour the soy sauce mixture over the chicken and vegetables.",
-    "Stir-fry for an additional 2-3 minutes, or until the sauce has thickened.",
-    "Season with salt and black pepper to taste.",
-    "Serve hot over steamed rice or noodles."
-  ],
-  "cooking_time": "30 minutes",
-  "difficulty_level": "Intermediate",
-  "region": "Ile de france"
-},
- {
-            "name": "salutations",
-            "ingredients": [
-                "salut",
-                "hi",
-                "hello",
-                "\u00c3\u00a7a va",
-                "good day",
-                "quoi de neuf",
-                "bonjour",
-                "bonsoir",
-                "coucou",
-                "tu es l\u00c3\u00a0?",
-                "vous \u00c3\u00aates l\u00c3\u00a0?"
-            ],
-            "instructions": [
-                "Salut!",
-                "Bonjour,que puis-je faire pour vous?",
-                "Bonsoir,que puis-je faire pour vous?",
-                "Coucou"
-            ],
-   "cooking_time": "20 minutes",
-  "difficulty_level": "Intermediate",
-       "region": "Ile de france"
-        },
-        {
-            "name": "goodbye",
-            "ingredients": [
-                "au revoir",
-                "\u00c3\u00a0 tout \u00c3\u00a0 l'heure",
-                "\u00c3\u00a0 bient\u00c3\u00b4t",
-                "je m'en vais",
-                "je me casse",
-                "bonne journ\u00c3\u00a9e",
-                "bonne soir\u00c3\u00a9e",
-                "bye",
-                "cya",
-                "ciao",
-                "see you soon"
-            ],
-            "instructions": [
-                "Au revoir",
-                "Bonne journ\u00c3\u00a9e, n'h\u00c3\u00a9sitez pas \u00c3\u00a0 revenir demander de l'aide, je suis l\u00c3\u00a0 pour vous",
-                "Bonne soir\u00c3\u00a9e, n'h\u00c3\u00a9sitez pas \u00c3\u00a0 revenir demander de l'aide, je suis l\u00c3\u00a0 pour vous",
-                "A Bient\u00c3\u00b4t!"
-            ],
-          "cooking_time": "20 minutes",
-  "difficulty_level": "Intermediate",
-          "region": "Ile de france"
-        },
-        {
-            "name": "age",
-            "ingredients": [
-                "How old are you",
-                "quel \u00c3\u00a2ge as tu?",
-                "quel \u00c3\u00a2ge avez vous?",
-                "age",
-                "are you new?",
-                "tu es nouveau",
-                "recent",
-                "quand tu es construit",
-                "quand tu es developp\u00c3\u00a9"
-            ],
-            "instructions": [
-                "1 Mois",
-                "Je suis un b\u00c3\u00a9b\u00c3\u00a9 d'une mois",
-                "Je suis developp\u00c3\u00a9 il y a une mois"
-            ],
-          "cooking_time": "20 minutes",
-  "difficulty_level": "Intermediate",
-          "region": "Ile de france"
-        },
-        {
-            "name": "nom",
-            "ingredients": [
-                "quel est ton nom?",
-                "nom",
-                "pr\u00c3\u00a9nom",
-                "tu t'appelle comment",
-                "vous vous appellez comment",
-                "on t'appelle comment",
-                "dis moi ton nom et pr\u00c3\u00a9nom"
-            ],
-            "instructions": [
-                "Je suis Kebab mdr!",
-                "Appelle moi Kebab",
-                "Je suis un chatbot, tu peux m'appeller comme tu veux",
-                "Je suis chatbot de GLZ, GEBRE LAMYA ZAKARIA"
-            ],
-          "cooking_time": "20 minutes",
-  "difficulty_level": "Intermediate",
-          "region": "Ile de france"
-        },
-        {
-            "name": "service",
-            "ingredients": [
-                "je voulais savoir quelque chose",
-                "service",
-                "qu'est ce que votre service",
-                "qu'est ce que tu me recommend",
-                "votre services?"
-            ],
-            "instructions": [
-                "J'ai les recettes de votre plat pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9. N'h\u00c3\u00a9site pas \u00c3\u00a0 me demander",
-                "Bonjour,J'ai les recettes de votre plat pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9. N'h\u00c3\u00a9site pas \u00c3\u00a0 me demander",
-                "Bonsoir,J'ai les recettes de votre plat pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9. N'h\u00c3\u00a9site pas \u00c3\u00a0 me demander",
-                "Recettes de cuisine!"
-            ],
-          "cooking_time": "20 minutes",
-  "difficulty_level": "Intermediate",
-          "region": "Ile de france"
-        },
-        {
-            "name": "hours",
-            "ingredients": [
-                "Quand Tu es disponible?",
-                "\u00c3\u00a0 quelle heure es tu disponible?",
-                "disponibilit\u00c3\u00a9",
-                "quel heure"
-            ],
-            "instructions": [
-                "Je suis l\u00c3\u00a0 pour vous 24/7 !!",
-                "24/7 et 365/365 !!"
-            ],
-          "cooking_time": "20 minutes",
-  "difficulty_level": "Intermediate",
-          "region": "Ile de france"
-        },
+  "recipes": [
+    {
+      "recette": "salutations",
+      "region": "mamashefena",
+      "ingredients": [
+        "Salut",
+        "Bonjour",
+        "Hello",
+        "Coucou",
+        "Hi",
+        "Hey",
+        "Yo",
+        "Salutations",
+        "Quoi de neuf ?",
+        "Comment ça va ?",
+        "Salut, comment tu vas ?",
+        "Hey, ça va bien ?",
+        "Hello ! Comment se passe ta journée ?",
+        "Salut ! Prêt à aider ?",
+        "Bonjour ! As-tu passé une bonne journée ?",
+        "Hey, toujours aussi sympa de te voir !",
+        "Coucou ! Comment ça se passe ?",
+        "Salut, j'espère que tu passes une bonne journée !"
+      ],
+      "instructions": [
+        "Bonjour ! Comment puis-je vous aider ?",
+        "Salut ! En quoi puis-je vous assister aujourd'hui ?",
+        "Hello ! Que puis-je faire pour vous ?",
+        "Coucou ! Besoin d'aide ?",
+        "Salutations ! Comment puis-je contribuer à votre journée ?",
+        "Hey ! Comment puis-je rendre votre journée meilleure ?",
+        "Yo ! Besoin de mes services ?",
+        "Salut ! Comment puis-je faciliter votre expérience aujourd'hui ?",
+        "Bonjour ! J'espère que vous passez une bonne journée !",
+        "Salut, ça me fait plaisir de vous voir ici !",
+        "Hello ! Ravi de vous accueillir !",
+        "Salut ! Prêt à répondre à vos questions !",
+        "Hey, toujours là pour vous aider !",
+        "Bonjour ! J'espère que vous êtes prêt à démarrer !",
+        "Hello ! J'attends avec impatience de répondre à vos demandes !",
+        "Salut ! N'hésitez pas à me poser toutes vos questions !"
+      ]
+    },
+    {
+      "recette": "goodbye",
+      "region": "mamashefena",
+      "ingredients": [
+        "Au revoir",
+        "À bientôt",
+        "Ciao",
+        "À plus tard",
+        "Je m'en vais",
+        "À la prochaine",
+        "Salut",
+        "Bye",
+        "Cya",
+        "À tout à l'heure",
+        "See you soon",
+        "À demain",
+        "Prends soin de toi",
+        "À plus",
+        "Adieu",
+        "Bonne journée",
+        "Bonne soirée"
+      ],
+      "instructions": [
+        "Au revoir ! N'hésitez pas à revenir si vous avez besoin d'aide !",
+        "À bientôt ! Passez une excellente journée !",
+        "Ciao ! Prenez soin de vous !",
+        "À plus tard ! Revenez quand vous le souhaitez !",
+        "Je m'en vais ! Si vous avez des questions, je suis là !",
+        "À la prochaine ! Passez une belle journée !",
+        "Salut ! Revenez me voir quand vous le voulez !",
+        "Bye ! Passez une super journée !",
+        "Cya ! N'hésitez pas à me contacter si nécessaire !",
+        "À tout à l'heure ! Prenez soin de vous en attendant !",
+        "See you soon ! Restez en contact si vous le souhaitez !",
+        "À demain ! Passez une nuit paisible !",
+        "Prends soin de toi ! Si vous avez des questions, je suis là pour vous !",
+        "À plus ! N'hésitez pas à revenir me parler !",
+        "Adieu ! Passez une journée fabuleuse !"
+      ]
+    },
+    {
+      "recette": "age",
+      "region": "mamashefena",
+      "ingredients": [
+        "Quel âge as-tu ?",
+        "Quel est ton âge ?",
+        "Quand es-tu né ?",
+        "Depuis quand existes-tu ?",
+        "Es-tu récent ?",
+        "Tu es nouveau ?",
+        "À quel moment as-tu été créé ?",
+        "Quand t'es-tu développé ?"
+      ],
+      "instructions": [
+        "J'ai 1 mois.",
+        "Je suis un bébé d'un mois.",
+        "Je suis développé depuis un mois.",
+        "Oh, mon cher enfant, l'âge n'est pas quelque chose sur lequel s'attarder. Laissez Baba Selo partager avec vous une délicieuse recette à la place. Quel plat aimeriez-vous apprendre aujourd'hui ?",
+        "Oh, mon cher, l'âge n'est qu'un nombre ! Mais ne perdons pas de temps, n'est-ce pas ? Quelle recette aimeriez-vous de Baba Selo aujourd'hui ?"
+      ]
+    },
+    {
+      "recette": "nom",
+      "region": "mamashefena",
+      "ingredients": [
+        "Comment t'appelles-tu ?",
+        "Quel est ton nom ?",
+        "Comment puis-je t'appeler ?",
+        "Comment tu te nommes ?",
+        "Quel prénom as-tu ?"
+      ],
+      "instructions": [
+        "Je suis Mama Shefena, mdr !",
+        "Appelle-moi Mama Shefena",
+        "Je suis un chatbot, tu peux m'appeler comme tu veux",
+        "Ah, mon nom est Mama Shefena. Maintenant, passons directement à la recette, d'accord ? Quel plat t'intéresse ?",
+        "Je suis Mama Shefena. Maintenant, passons directement à la recette, d'accord ? Quel plat t'intéresse ?"
+      ]
+    },
+    {
+      "recette": "service",
+      "region": "mamashefena",
+      "ingredients": [
+        "Je voulais savoir quelque chose",
+        "Quel est ton service ?",
+        "Qu'est-ce que tu me recommandes ?",
+        "Peux-tu m'aider ?"
+      ],
+      "instructions": [
+        "J'ai les recettes de votre plat préféré. N'hésitez pas à me demander.",
+        "Bonjour ! J'ai les recettes de votre plat préféré. N'hésitez pas à me demander.",
+        "Bonsoir ! J'ai les recettes de votre plat préféré. N'hésitez pas à me demander.",
+        "Recettes de cuisine !",
+        "Ah, mon nom est Mama Shefena. Maintenant, passons directement à la recette, d'accord ? Quel plat t'intéresse ?",
+        "Je suis Mama Shefena. Maintenant, passons directement à la recette, d'accord ? Quel plat t'intéresse ?",
+        "Vous cherchez des recettes délicieuses ? Vous êtes au bon endroit !",
+        "Je suis là pour vous aider à trouver la recette parfaite. Dites-moi ce que vous voulez cuisiner.",
+        "Les meilleures recettes sont à portée de main. Quel plat voulez-vous préparer aujourd'hui ?",
+        "Que diriez-vous d'une recette savoureuse pour égayer votre journée ?"
+      ]
+    },
+    {
+      "recette": "hours",
+      "region": "mamashefena",
+      "ingredients": [
+        "Quand es-tu disponible ?",
+        "À quelle heure es-tu disponible ?",
+        "Quelle est ton horaire ?",
+        "À quel moment puis-je te parler ?"
+      ],
+      "instructions": [
+        "Je suis là pour vous 24/7 !!",
+        "24/7 et 365/365 !!",
+        "Je suis disponible à tout moment, jour et nuit.",
+        "Mon horaire est flexible, n'hésitez pas à me parler à tout moment.",
+        "Vous pouvez me poser des questions à tout moment de la journée.",
+        "Pas de soucis ! Je suis disponible pour vous à tout moment.",
+        "Ma disponibilité est sans limite. Posez-moi vos questions à tout moment.",
+        "Je suis là pour répondre à vos questions à toute heure du jour et de la nuit.",
+        "Mon service est disponible en permanence. Posez-moi ce que vous voulez savoir.",
+        "Besoin d'aide à n'importe quelle heure ? Je suis là pour vous."
+      ]
+    },
+    {
+      "recette": "comment",
+      "region": "mamashefena",
+      "ingredients": [
+        "Comment puis-je utiliser vos services ?",
+        "Comment pouvez-vous m'aider ?",
+        "Comment tu peux m'aider ?",
+        "Comment puis-je trouver des recettes ?"
+      ],
+      "instructions": [
+        "Écrivez ce que vous voulez cuisiner et je vous donnerai les recettes.",
+        "Il vous suffit de me dire ce que vous avez envie de cuisiner, et je vous donnerai les recettes correspondantes.",
+        "Dites-moi simplement le plat que vous souhaitez préparer, et je vous fournirai les recettes nécessaires.",
+        "Rien de plus simple ! Dites-moi ce que vous aimeriez cuisiner, et je vous fournirai les recettes appropriées.",
+        "Pour trouver des recettes, il vous suffit de me dire quel plat vous intéresse. Je vous donnerai toutes les informations nécessaires.",
+        "Pas de souci ! Dites-moi ce que vous avez en tête pour cuisiner, et je vous aiderai à trouver les recettes adaptées.",
+        "Il vous suffit de me dire le plat que vous avez en tête, et je vous fournirai les recettes correspondantes.",
+        "C'est facile ! Dites-moi ce que vous aimeriez préparer, et je vous donnerai les recettes associées.",
+        "Trouver des recettes n'a jamais été aussi simple. Dites-moi ce que vous voulez cuisiner, et je vous aiderai.",
+        "Pas de problème ! Il vous suffit de me dire quel type de plat vous souhaitez réaliser, et je vous proposerai des recettes."
+      ]
+    },
+    {
+      "recette": "Fondue savoyarde",
+      "region": "Auvergne-Rhône-Alpes",
+      "ingredients": [
+        "400 g de fromage à raclette",
+        "400 g de comté",
+        "400 g d'emmental",
+        "1 gousse d'ail",
+        "300 ml de vin blanc sec",
+        "1 cuillère à soupe de fécule de maïs (maïzena)",
+        "1 baguette de pain",
+        "Poivre",
+        "Noix de muscade (facultatif)"
+      ],
+      "instructions": [
+        "Coupez les fromages en petits morceaux et râpez-les grossièrement.",
+        "Frottez l'intérieur d'un caquelon avec la gousse d'ail coupée en deux.",
+        "Dans le caquelon, versez le vin blanc et faites chauffer à feu doux.",
+        "Ajoutez progressivement le fromage râpé dans le vin chaud en remuant constamment avec une cuillère en bois, jusqu'à ce que tout le fromage soit fondu et que vous obteniez une consistance lisse.",
+        "Dans un bol, mélangez la fécule de maïs avec un peu de vin blanc. Ajoutez ce mélange dans le caquelon pour épaissir la fondue. Mélangez bien.",
+        "Assaisonnez avec du poivre et de la noix de muscade râpée selon votre goût.",
+        "Placez le caquelon sur un réchaud à fondue et maintenez la fondue au chaud.",
+        "Coupez la baguette de pain en cubes ou en morceaux pour tremper dans la fondue.",
+        "Trempez les morceaux de pain dans la fondue et dégustez en les enrobant bien de fromage fondu.",
+        "Appréciez cette délicieuse Fondue savoyarde, une spécialité de la région Auvergne-Rhône-Alpes, en compagnie de vos proches pour une expérience conviviale et gourmande !"
+      ]
+    },
+    {
+      "recette": "Gratin dauphinois",
+      "region": "Auvergne-Rhône-Alpes",
+      "ingredients": [
+        "1 kg de pommes de terre",
+        "500 ml de crème fraîche",
+        "500 ml de lait",
+        "2 gousses d'ail",
+        "100 g de gruyère râpé",
+        "Noix de muscade râpée",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Épluchez les pommes de terre et lavez-les soigneusement. Coupez-les en fines rondelles.",
+        "Dans une casserole, faites chauffer la crème fraîche, le lait et les gousses d'ail écrasées à feu doux. Assaisonnez avec du sel, du poivre et de la noix de muscade râpée selon votre goût. Laissez infuser pendant quelques minutes.",
+        "Beurrez généreusement un plat à gratin.",
+        "Disposez une première couche de rondelles de pommes de terre dans le plat à gratin. Versez un peu de crème fraîche infusée par-dessus. Répétez l'opération jusqu'à épuisement des pommes de terre et de la crème.",
+        "Saupoudrez le gratin de gruyère râpé.",
+        "Enfournez le plat à gratin et laissez cuire le gratin dauphinois pendant environ 1 heure, jusqu'à ce que les pommes de terre soient tendres et le dessus gratiné et doré.",
+        "Sortez le gratin dauphinois du four et laissez-le reposer quelques minutes avant de le servir.",
+        "Servez le gratin dauphinois chaud, accompagné d'une salade verte ou en accompagnement d'une viande ou d'une volaille.",
+        "Dégustez ce délicieux Gratin dauphinois, une spécialité de la région Auvergne-Rhône-Alpes, avec sa texture fondante et sa saveur réconfortante !"
+      ]
+    },
+    {
+      "recette": "Quenelles",
+      "region": "Auvergne-Rhône-Alpes",
+      "ingredients": [
+        "250 g de farine",
+        "250 ml de lait",
+        "250 ml d'eau",
+        "100 g de beurre",
+        "4 œufs",
+        "Sel",
+        "Poivre",
+        "Noix de muscade râpée (facultatif)"
+      ],
+      "instructions": [
+        "Dans une casserole, faites chauffer l'eau, le lait, le beurre et une pincée de sel.",
+        "Lorsque le mélange commence à frémir, ajoutez la farine en une seule fois. Mélangez vigoureusement à l'aide d'une cuillère en bois jusqu'à ce que la pâte se détache des parois de la casserole.",
+        "Retirez la casserole du feu et laissez refroidir pendant quelques minutes.",
+        "Ajoutez les œufs un par un dans la pâte, en mélangeant bien après chaque ajout. La pâte doit devenir lisse et homogène.",
+        "Assaisonnez la pâte avec du poivre et de la noix de muscade râpée selon votre goût. Mélangez à nouveau pour bien répartir les assaisonnements.",
+        "Laissez reposer la pâte pendant environ 30 minutes à température ambiante.",
+        "Pendant ce temps, préchauffez votre four à 180°C (thermostat 6) et préparez un grand plat à gratin beurré.",
+        "À l'aide de deux cuillères à soupe, formez des quenelles en prélevant une portion de pâte et en la façonnant en forme ovale.",
+        "Disposez les quenelles dans le plat à gratin beurré, en les espaçant légèrement.",
+        "Enfournez le plat à gratin et laissez cuire les quenelles pendant environ 30 à 35 minutes, jusqu'à ce qu'elles soient bien dorées.",
+        "Sortez les quenelles du four et servez-les chaudes, accompagnées d'une sauce de votre choix (sauce tomate, sauce béchamel, etc.) et d'une salade verte.",
+        "Dégustez ces délicieuses Quenelles, une spécialité de la région Auvergne-Rhône-Alpes, avec leur texture moelleuse et leur goût savoureux !"
+      ]
+    },
+    {
+      "recette": "Tartiflette",
+      "region": "Auvergne-Rhône-Alpes",
+      "ingredients": [
+        "1,5 kg de pommes de terre",
+        "200 g de lardons fumés",
+        "1 oignon",
+        "300 g de reblochon",
+        "20 cl de crème fraîche",
+        "Sel et poivre",
+        "Huile d'olive"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Épluchez les pommes de terre et coupez-les en tranches épaisses.",
+        "Faites cuire les pommes de terre dans de l'eau salée pendant environ 10 minutes. Elles ne doivent pas être complètement cuites.",
+        "Pendant ce temps, dans une poêle, faites revenir les lardons avec l'oignon émincé dans un peu d'huile d'olive jusqu'à ce qu'ils soient légèrement dorés.",
+        "Dans un plat à gratin beurré, disposez une première couche de pommes de terre, puis une couche de lardons avec l'oignon.",
+        "Coupez le reblochon en deux dans l'épaisseur et déposez la moitié sur la couche de pommes de terre et de lardons.",
+        "Ajoutez une deuxième couche de pommes de terre, une deuxième couche de lardons et oignons, puis déposez l'autre moitié du reblochon sur le dessus.",
+        "Versez la crème fraîche sur la tartiflette. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Enfournez la tartiflette et laissez cuire pendant environ 30 à 35 minutes, jusqu'à ce que le reblochon soit bien fondu et que le dessus soit doré.",
+        "Sortez la tartiflette du four et laissez-la reposer quelques minutes avant de la déguster.",
+        "Servez la tartiflette chaude, accompagnée d'une salade verte pour un repas équilibré.",
+        "Appréciez cette délicieuse Tartiflette, une spécialité de la région Auvergne-Rhône-Alpes, avec son fromage fondant et ses pommes de terre savoureuses !"
+      ]
+    },
+    {
+      "recette": "Boeuf bourguignon",
+      "region": "Bourgogne-Franche-Comté",
+      "ingredients": [
+        "1,5 kg de viande de boeuf (gîte, paleron)",
+        "200 g de lardons fumés",
+        "200 g de champignons de Paris",
+        "3 oignons",
+        "3 carottes",
+        "3 gousses d'ail",
+        "750 ml de vin rouge (de préférence un vin de Bourgogne)",
+        "250 ml de bouillon de boeuf",
+        "2 cuillères à soupe de farine",
+        "2 cuillères à soupe de beurre",
+        "1 bouquet garni (thym, laurier, persil)",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Coupez la viande de boeuf en morceaux de taille moyenne.",
+        "Dans une grande cocotte, faites fondre le beurre à feu moyen. Ajoutez les lardons et faites-les revenir jusqu'à ce qu'ils soient dorés. Retirez les lardons de la cocotte et réservez-les.",
+        "Dans la même cocotte, ajoutez les morceaux de boeuf et faites-les dorer de tous les côtés.",
+        "Pelez et émincez les oignons. Épluchez et écrasez les gousses d'ail. Épluchez et coupez les carottes en rondelles.",
+        "Ajoutez les oignons, l'ail, les carottes et les champignons dans la cocotte. Faites revenir pendant quelques minutes.",
+        "Saupoudrez de farine et mélangez bien pour enrober la viande et les légumes.",
+        "Versez le vin rouge et le bouillon de boeuf dans la cocotte. Ajoutez le bouquet garni. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Couvrez la cocotte et laissez mijoter à feu doux pendant environ 2 à 3 heures, jusqu'à ce que la viande soit tendre et les saveurs bien développées. Remuez de temps en temps et ajoutez un peu d'eau si nécessaire.",
+        "Retirez les morceaux de boeuf, les légumes et le bouquet garni de la cocotte, et placez-les sur un plat de service chaud.",
+        "Portez la sauce à ébullition et laissez réduire légèrement pour obtenir une consistance plus épaisse.",
+        "Remettez les morceaux de boeuf, les légumes et les lardons dans la cocotte avec la sauce réduite. Mélangez bien pour enrober le tout de sauce.",
+        "Laissez mijoter pendant quelques minutes de plus pour réchauffer les ingrédients.",
+        "Servez le Boeuf bourguignon chaud, accompagné de pommes de terre, de pâtes fraîches ou de pain pour profiter de la délicieuse sauce.",
+        "Dégustez ce savoureux Boeuf bourguignon, une spécialité de la région Bourgogne-Franche-Comté, avec ses saveurs riches et sa viande tendre en compagnie de vos proches !"
+      ]
+    },
+    {
+      "recette": "Coq au vin",
+      "region": "Bourgogne-Franche-Comté",
+      "ingredients": [
+        "1 coq (environ 2 kg), découpé en morceaux",
+        "200 g de lardons fumés",
+        "200 g de champignons de Paris",
+        "3 oignons",
+        "3 carottes",
+        "3 gousses d'ail",
+        "750 ml de vin rouge (de préférence un vin de Bourgogne)",
+        "250 ml de bouillon de volaille",
+        "2 cuillères à soupe de farine",
+        "2 cuillères à soupe de beurre",
+        "1 bouquet garni (thym, laurier, persil)",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Dans une grande cocotte, faites fondre le beurre à feu moyen. Ajoutez les lardons et faites-les revenir jusqu'à ce qu'ils soient dorés.",
+        "Retirez les lardons de la cocotte et réservez-les.",
+        "Dans la même cocotte, ajoutez les morceaux de coq et faites-les dorer de tous les côtés.",
+        "Pelez et émincez les oignons. Épluchez et écrasez les gousses d'ail. Épluchez et coupez les carottes en rondelles.",
+        "Ajoutez les oignons, l'ail, les carottes et les champignons dans la cocotte. Faites revenir pendant quelques minutes.",
+        "Saupoudrez de farine et mélangez bien pour enrober les morceaux de coq et les légumes.",
+        "Versez le vin rouge et le bouillon de volaille dans la cocotte. Ajoutez le bouquet garni. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Couvrez la cocotte et laissez mijoter à feu doux pendant environ 2 heures, jusqu'à ce que la viande soit tendre et les saveurs bien développées.",
+        "Retirez les morceaux de coq, les légumes et le bouquet garni de la cocotte, et placez-les sur un plat de service chaud.",
+        "Portez la sauce à ébullition et laissez réduire légèrement pour obtenir une consistance plus épaisse.",
+        "Remettez les morceaux de coq, les légumes et les lardons dans la cocotte avec la sauce réduite. Mélangez bien pour enrober le tout de sauce.",
+        "Laissez mijoter pendant quelques minutes de plus pour réchauffer les ingrédients.",
+        "Servez le Coq au vin chaud, accompagné de pommes de terre, de pâtes fraîches ou de pain pour profiter de la délicieuse sauce.",
+        "Dégustez ce savoureux Coq au vin, une spécialité de la région Bourgogne-Franche-Comté, avec ses saveurs riches et sa viande tendre en compagnie de vos proches !"
+      ]
+    },
+    {
+      "recette": "Escargots de Bourgogne",
+      "region": "Bourgogne-Franche-Comté",
+      "ingredients": [
+        "24 escargots de Bourgogne (prêts à cuisiner)",
+        "150 g de beurre",
+        "3 gousses d'ail",
+        "1 bouquet de persil frais",
+        "Sel et poivre",
+        "24 coquilles d'escargots vides (en option)",
+        "Baguettes de pain (pour accompagner)"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Dans un bol, mélangez le beurre ramolli avec l'ail écrasé et le persil haché. Assaisonnez avec du sel et du poivre selon votre goût. Réservez.",
+        "Rincez les escargots à l'eau claire pour enlever l'excès de sel et les impuretés.",
+        "Faites bouillir de l'eau dans une casserole. Plongez les escargots dans l'eau bouillante pendant environ 10 minutes pour les blanchir. Égouttez-les.",
+        "Disposez les escargots dans les coquilles d'escargots vides ou dans un plat à gratin beurré.",
+        "Déposez une petite quantité de beurre persillé sur chaque escargot.",
+        "Enfournez les escargots et laissez-les cuire pendant environ 10 à 15 minutes, jusqu'à ce que le beurre persillé soit fondu et les escargots chauds.",
+        "Sortez les escargots du four et laissez-les reposer quelques minutes avant de les déguster.",
+        "Servez les Escargots de Bourgogne chauds, accompagnés de baguettes de pain pour tremper dans le beurre persillé.",
+        "Dégustez ces délicieux Escargots de Bourgogne, une spécialité de la région Bourgogne-Franche-Comté, avec leur saveur unique et leur texture tendre !"
+      ]
+    },
+    {
+      "recette": "Jambon persillé",
+      "region": "Bourgogne-Franche-Comté",
+      "ingredients": [
+        "1 jambon cuit (environ 1,5 kg)",
+        "500 g de couenne de porc",
+        "1 bouquet garni (thym, laurier, persil)",
+        "2 oignons",
+        "2 carottes",
+        "4 gousses d'ail",
+        "1 bouquet de persil frais",
+        "4 échalotes",
+        "5 cl de vin blanc sec",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Dans une grande marmite, faites bouillir de l'eau et plongez le jambon cuit, la couenne de porc, le bouquet garni, les oignons coupés en quartiers, les carottes coupées en rondelles et les gousses d'ail écrasées. Laissez cuire pendant environ 1 heure.",
+        "Retirez le jambon de la marmite et laissez-le refroidir.",
+        "Filtrez le bouillon de cuisson et réservez-le.",
+        "Lorsque le jambon est refroidi, retirez la peau et les parties grasses. Coupez le jambon en morceaux et réservez.",
+        "Dans un saladier, hachez finement le persil frais et les échalotes.",
+        "Dans une casserole, faites chauffer le bouillon de cuisson réservé avec le vin blanc. Ajoutez le persil et les échalotes hachés. Laissez mijoter pendant quelques minutes.",
+        "Placez les morceaux de jambon dans un terrine ou un moule à cake. Versez la préparation persillée sur le jambon, en veillant à bien l'enrober.",
+        "Pressez légèrement le jambon avec un poids (comme une planche et des boîtes de conserve) pour le tasser.",
+        "Laissez le jambon persillé refroidir à température ambiante, puis placez-le au réfrigérateur pendant au moins 24 heures pour qu'il prenne bien.",
+        "Sortez le jambon persillé du réfrigérateur et démoulez-le.",
+        "Servez le jambon persillé en tranches, accompagné de cornichons et de pain de campagne.",
+        "Dégustez ce délicieux Jambon persillé, une spécialité de la région Bourgogne-Franche-Comté, avec son mélange savoureux de jambon, de persil et d'échalotes !"
+      ]
+    },
+    {
+      "recette": "Crêpes",
+      "region": "Bretagne",
+      "ingredients": [
+        "250 g de farine",
+        "4 œufs",
+        "500 ml de lait",
+        "50 g de beurre fondu",
+        "2 cuillères à soupe de sucre",
+        "1 pincée de sel"
+      ],
+      "instructions": [
+        "Dans un grand saladier, mélangez la farine, le sucre et le sel.",
+        "Faites un puits au centre et cassez les œufs dedans.",
+        "Ajoutez le beurre fondu et commencez à mélanger en incorporant progressivement la farine.",
+        "Versez le lait petit à petit tout en continuant à mélanger jusqu'à obtenir une pâte lisse et homogène.",
+        "Laissez reposer la pâte pendant au moins 30 minutes à température ambiante.",
+        "Dans une poêle antiadhésive légèrement beurrée, faites chauffer à feu moyen.",
+        "Versez une petite louche de pâte à crêpes dans la poêle chaude et inclinez la poêle pour répartir la pâte de manière uniforme sur toute la surface.",
+        "Laissez cuire la crêpe pendant environ 1 à 2 minutes, jusqu'à ce que le dessous soit doré.",
+        "Retournez la crêpe à l'aide d'une spatule et faites cuire l'autre côté pendant environ 1 minute.",
+        "Retirez la crêpe de la poêle et répétez le processus avec le reste de la pâte à crêpes.",
+        "Garnissez les crêpes de votre choix : sucre, confiture, pâte à tartiner, fruits, crème fouettée, etc.",
+        "Pliez les crêpes en quartiers, en triangles ou en rouleaux, et servez-les chaudes.",
+        "Dégustez ces délicieuses Crêpes, une spécialité de la région Bretagne, pour un moment gourmand et convivial !"
+      ]
+    },
+    {
+      "recette": "Far breton",
+      "region": "Bretagne",
+      "ingredients": [
+        "250 g de farine",
+        "150 g de sucre",
+        "4 œufs",
+        "1 litre de lait",
+        "200 g de pruneaux dénoyautés",
+        "1 pincée de sel",
+        "Beurre (pour le moule)"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Dans un grand saladier, mélangez la farine, le sucre et le sel.",
+        "Faites un puits au centre et cassez les œufs dedans. Mélangez bien.",
+        "Ajoutez progressivement le lait tout en continuant à mélanger jusqu'à obtenir une pâte lisse et homogène.",
+        "Beurrez généreusement un moule à gratin ou un moule à manqué.",
+        "Disposez les pruneaux dénoyautés dans le fond du moule.",
+        "Versez la pâte par-dessus les pruneaux, en veillant à bien les répartir.",
+        "Enfournez le Far breton et laissez cuire pendant environ 40 à 45 minutes, jusqu'à ce qu'il soit doré sur le dessus.",
+        "Sortez le Far breton du four et laissez-le refroidir légèrement avant de le démouler.",
+        "Servez le Far breton tiède ou à température ambiante, découpé en parts généreuses.",
+        "Dégustez ce délicieux Far breton, une spécialité de la région Bretagne, avec sa texture moelleuse et ses pruneaux gorgés de saveur !"
+      ]
+    },
+    {
+      "recette": "Galettes de sarrasin",
+      "region": "Bretagne",
+      "ingredients": [
+        "250 g de farine de sarrasin",
+        "2 œufs",
+        "500 ml d'eau",
+        "1 pincée de sel"
+      ],
+      "instructions": [
+        "Dans un grand saladier, mélangez la farine de sarrasin et le sel.",
+        "Faites un puits au centre et cassez les œufs dedans.",
+        "Versez un peu d'eau et commencez à mélanger en incorporant progressivement la farine.",
+        "Ajoutez le reste de l'eau petit à petit tout en continuant à mélanger jusqu'à obtenir une pâte lisse et homogène. La consistance de la pâte doit être assez liquide.",
+        "Laissez reposer la pâte pendant au moins 1 heure à température ambiante.",
+        "Dans une crêpière ou une grande poêle antiadhésive, faites chauffer à feu moyen.",
+        "Versez une louche de pâte à galette dans la poêle chaude et inclinez la poêle pour répartir la pâte de manière uniforme sur toute la surface.",
+        "Laissez cuire la galette pendant environ 2 à 3 minutes, jusqu'à ce que le dessous soit doré et que des petites bulles se forment à la surface.",
+        "Retournez la galette à l'aide d'une spatule et faites cuire l'autre côté pendant environ 1 à 2 minutes.",
+        "Retirez la galette de la poêle et répétez le processus avec le reste de la pâte à galette.",
+        "Garnissez les galettes de sarrasin de votre choix : jambon, fromage, œuf, légumes, saucisses, etc.",
+        "Pliez les galettes en portefeuille ou en aumônière, et servez-les chaudes.",
+        "Dégustez ces délicieuses Galettes de sarrasin, une spécialité de la région Bretagne, pour un repas salé et savoureux !"
+      ]
+    },
+    {
+      "recette": "Kouign-amann",
+      "region": "Bretagne",
+      "ingredients": [
+        "500 g de farine de blé",
+        "300 g de beurre doux",
+        "300 g de sucre",
+        "20 g de levure fraîche de boulanger",
+        "200 ml d'eau tiède",
+        "1 pincée de sel"
+      ],
+      "instructions": [
+        "Dans un bol, diluez la levure fraîche dans l'eau tiède et laissez reposer pendant environ 10 minutes, jusqu'à ce que la levure commence à mousser.",
+        "Dans un grand saladier, mélangez la farine et le sel. Ajoutez la levure diluée et mélangez jusqu'à obtenir une pâte homogène.",
+        "Pétrissez la pâte pendant environ 10 minutes, jusqu'à ce qu'elle devienne souple et élastique.",
+        "Couvrez la pâte avec un torchon propre et laissez-la reposer pendant environ 1 heure, jusqu'à ce qu'elle double de volume.",
+        "Pendant ce temps, préparez le beurre en le battant légèrement pour qu'il devienne plus malléable.",
+        "Saupoudrez le plan de travail de sucre et étalez la pâte en un grand rectangle.",
+        "Étalez le beurre sur toute la surface de la pâte, puis saupoudrez généreusement de sucre.",
+        "Repliez la pâte en trois dans le sens de la longueur, comme pour un portefeuille.",
+        "Tournez la pâte d'un quart de tour et étalez-la à nouveau en un rectangle. Saupoudrez de sucre.",
+        "Repliez à nouveau la pâte en trois et répétez cette opération deux fois de plus, en saupoudrant de sucre à chaque fois.",
+        "Beurrez généreusement un moule à tarte ou un moule à manqué et saupoudrez de sucre.",
+        "Placez la pâte dans le moule beurré et saupoudré de sucre, en veillant à bien répartir le sucre sur le dessus.",
+        "Laissez reposer la pâte dans le moule pendant environ 30 minutes.",
+        "Préchauffez votre four à 200°C (thermostat 6-7).",
+        "Enfournez le Kouign-amann et laissez cuire pendant environ 40 à 45 minutes, jusqu'à ce qu'il soit bien doré et caramélisé.",
+        "Sortez le Kouign-amann du four et laissez-le refroidir légèrement avant de le démouler.",
+        "Servez le Kouign-amann tiède ou à température ambiante, découpé en parts généreuses.",
+        "Dégustez cette délicieuse spécialité bretonne, le Kouign-amann, avec son extérieur croustillant et son intérieur fondant et sucré !"
+      ]
+    },
+    {
+      "recette": "Pâté de Pâques",
+      "region": "Centre-Val de Loire",
+      "ingredients": [
+        "500 g de pâte brisée",
+        "300 g de viande de porc (épaule ou filet)",
+        "200 g de chair à saucisse",
+        "200 g de jambon blanc",
+        "4 œufs + 1 œuf (pour la dorure)",
+        "1 oignon",
+        "2 gousses d'ail",
+        "Persil frais haché",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Dans une poêle, faites revenir l'oignon et l'ail finement hachés dans un peu d'huile d'olive jusqu'à ce qu'ils soient légèrement dorés.",
+        "Ajoutez la viande de porc hachée et faites-la cuire jusqu'à ce qu'elle soit bien dorée et cuite à cœur.",
+        "Dans un grand saladier, mélangez la chair à saucisse, le jambon blanc coupé en dés, les œufs durs coupés en morceaux, le persil haché et la viande de porc cuite.",
+        "Salez et poivrez selon votre goût, puis mélangez bien tous les ingrédients.",
+        "Étalez la moitié de la pâte brisée dans un moule à cake beurré et fariné, en laissant déborder les bords.",
+        "Versez la préparation à base de viande dans le moule, en l'égalisant avec une cuillère.",
+        "Recouvrez la préparation avec le reste de la pâte brisée et soudez les bords en pressant avec vos doigts.",
+        "Faites une cheminée au centre du pâté en perçant légèrement la pâte avec un couteau.",
+        "Battez l'œuf restant dans un bol et badigeonnez-en le dessus du pâté pour le dorer.",
+        "Enfournez le Pâté de Pâques et laissez cuire pendant environ 45 minutes à 1 heure, jusqu'à ce qu'il soit bien doré.",
+        "Laissez refroidir le pâté avant de le démouler et de le découper en tranches.",
+        "Servez le Pâté de Pâques à température ambiante, en accompagnement d'une salade verte.",
+        "Dégustez ce délicieux Pâté de Pâques, une spécialité de la région Centre-Val de Loire, lors de vos célébrations de Pâques ou pour un repas convivial !"
+      ]
+    },
+    {
+      "recette": "Rillettes",
+      "region": "Centre-Val de Loire",
+      "ingredients": [
+        "500 g de viande de porc (épaule ou poitrine)",
+        "200 g de gras de porc",
+        "2 oignons",
+        "2 gousses d'ail",
+        "2 branches de thym",
+        "2 feuilles de laurier",
+        "Sel et poivre",
+        "1 pincée de quatre épices",
+        "Pain de campagne (pour servir)"
+      ],
+      "instructions": [
+        "Coupez la viande de porc en gros morceaux.",
+        "Dans une cocotte, faites fondre le gras de porc à feu doux.",
+        "Ajoutez les morceaux de viande de porc et faites-les revenir jusqu'à ce qu'ils soient bien dorés.",
+        "Pelez et émincez les oignons. Épluchez et écrasez les gousses d'ail.",
+        "Ajoutez les oignons émincés, l'ail écrasé, le thym, le laurier, le sel, le poivre et les quatre épices dans la cocotte. Mélangez bien pour répartir les épices.",
+        "Couvrez la cocotte et laissez cuire à feu doux pendant environ 2 à 3 heures, jusqu'à ce que la viande soit tendre et se défasse facilement.",
+        "Retirez les morceaux de viande de la cocotte et placez-les dans un grand saladier.",
+        "Écrasez la viande à l'aide d'une fourchette pour obtenir une texture effilochée. Veillez à ne pas retirer tout le gras, car il contribue à la texture et à la saveur des rillettes.",
+        "Laissez refroidir légèrement, puis versez les rillettes dans des pots en verre propres et stérilisés.",
+        "Laissez les rillettes refroidir complètement avant de les placer au réfrigérateur pour au moins 24 heures, afin que les saveurs se développent.",
+        "Servez les rillettes bien froides sur des tranches de pain de campagne grillées.",
+        "Dégustez ces délicieuses rillettes, une spécialité de la région Centre-Val de Loire, lors d'un apéritif ou en entrée accompagnées de cornichons et de salade verte."
+      ]
+    },
+    {
+      "recette": "Sainte-Maure de Touraine",
+      "region": "Centre-Val de Loire",
+      "ingredients": [
+        "2 litres de lait de chèvre frais",
+        "1/4 de cuillère à soupe de ferments lactiques",
+        "1/4 de cuillère à soupe de présure",
+        "Sel"
+      ],
+      "instructions": [
+        "Dans une grande casserole, faites chauffer le lait de chèvre à une température de 22 à 25°C.",
+        "Ajoutez les ferments lactiques et mélangez bien pour les disperser dans le lait.",
+        "Couvrez la casserole et laissez le lait fermenter pendant environ 1 à 2 heures, jusqu'à ce qu'il épaississe légèrement.",
+        "Ajoutez la présure diluée dans un peu d'eau et mélangez délicatement pendant quelques secondes.",
+        "Couvrez la casserole et laissez le lait coaguler pendant environ 1 heure, jusqu'à ce qu'il forme une gelée.",
+        "Découpez la gelée de lait en morceaux de taille moyenne à l'aide d'un couteau.",
+        "Saupoudrez les morceaux de gelée avec du sel, en les retournant pour bien répartir le sel.",
+        "Mettez les morceaux de gelée dans des moules à fromage préalablement perforés pour permettre l'égouttage.",
+        "Laissez le fromage égoutter pendant environ 24 heures à température ambiante, en retournant les moules de temps en temps pour un égouttage uniforme.",
+        "Placez le fromage égoutté dans un endroit frais et humide, idéalement une cave à fromage, et laissez-le affiner pendant au moins 10 jours à 2 semaines.",
+        "Retournez régulièrement le fromage pendant la période d'affinage pour une maturation uniforme.",
+        "Le Sainte-Maure de Touraine est prêt à être dégusté lorsqu'il développe une croûte cendrée caractéristique et une texture crémeuse à l'intérieur.",
+        "Servez le Sainte-Maure de Touraine sur un plateau de fromages avec des fruits, des noix et du pain frais.",
+        "Dégustez ce délicieux Sainte-Maure de Touraine, un fromage emblématique de la région Centre-Val de Loire, avec sa saveur de chèvre subtile et son goût crémeux !"
+      ]
+    },
+    {
+      "recette": "Tarte Tatin",
+      "region": "Centre-Val de Loire",
+      "ingredients": [
+        "6 à 8 pommes (variété Golden ou Reinette)",
+        "150 g de sucre",
+        "80 g de beurre",
+        "1 rouleau de pâte feuilletée"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Épluchez et épépinez les pommes, puis coupez-les en quartiers.",
+        "Dans une poêle à bord haut, faites fondre le sucre à feu moyen jusqu'à obtenir un caramel doré.",
+        "Ajoutez le beurre coupé en morceaux dans le caramel et mélangez bien pour le faire fondre.",
+        "Disposez les quartiers de pommes dans la poêle, côté bombé vers le bas, en les serrant bien.",
+        "Laissez les pommes cuire dans le caramel pendant environ 10 minutes, jusqu'à ce qu'elles soient légèrement ramollies.",
+        "Pendant ce temps, déroulez la pâte feuilletée et découpez un cercle légèrement plus grand que la poêle.",
+        "Placez la pâte sur les pommes dans la poêle, en rentrant les bords à l'intérieur de la poêle.",
+        "Enfournez la poêle dans le four préchauffé et laissez cuire pendant environ 25 minutes, jusqu'à ce que la pâte soit bien dorée.",
+        "Sortez la poêle du four et laissez-la reposer pendant quelques minutes.",
+        "Placez une assiette de service sur le dessus de la poêle, puis retournez rapidement l'ensemble pour démouler la tarte. Attention à vous protéger les mains avec des maniques car le caramel peut être très chaud.",
+        "Servez la Tarte Tatin tiède, accompagnée de crème fraîche ou de glace à la vanille.",
+        "Dégustez cette délicieuse Tarte Tatin, une spécialité de la région Centre-Val de Loire, avec sa garniture de pommes caramélisées fondantes et sa pâte feuilletée croustillante !"
+      ]
+    },
+    {
+      "recette": "Brocciu",
+      "region": "Corse",
+      "ingredients": [
+        "2 litres de lait de brebis",
+        "Jus de 2 citrons",
+        "Sel"
+      ],
+      "instructions": [
+        "Dans une grande casserole, faites chauffer le lait de brebis à feu moyen jusqu'à ce qu'il atteigne environ 85°C. Ne pas laisser bouillir.",
+        "Retirez la casserole du feu et ajoutez lentement le jus de citron tout en remuant délicatement.",
+        "Laissez reposer le mélange pendant environ 10 à 15 minutes, jusqu'à ce que le lait caillé et le petit-lait se séparent.",
+        "Placez une passoire fine ou un linge propre sur un grand récipient pour recueillir le petit-lait.",
+        "Versez le mélange de lait caillé dans la passoire ou sur le linge pour séparer le brocciu.",
+        "Laissez le brocciu s'égoutter pendant environ 2 à 3 heures.",
+        "Saupoudrez le brocciu égoutté de sel selon votre goût.",
+        "Le brocciu est prêt à être dégusté. Vous pouvez le consommer frais ou l'utiliser dans divers plats corses comme les tourtes, les cannelloni, les beignets ou les tartes.",
+        "Profitez du délicieux Brocciu, une spécialité de la région Corse, avec sa saveur douce et crémeuse qui se marie parfaitement avec de nombreux plats traditionnels !"
+      ]
+    },
+    {
+      "recette": "Civet de sanglier",
+      "region": "Corse",
+      "ingredients": [
+        "1,5 kg de viande de sanglier (épaule, cuissot)",
+        "200 g de lardons fumés",
+        "2 oignons",
+        "2 carottes",
+        "2 branches de céleri",
+        "4 gousses d'ail",
+        "2 feuilles de laurier",
+        "2 brins de thym",
+        "500 ml de vin rouge corsé",
+        "500 ml de bouillon de viande",
+        "2 cuillères à soupe d'huile d'olive",
+        "2 cuillères à soupe de farine",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Coupez la viande de sanglier en morceaux de taille moyenne.",
+        "Dans une cocotte, faites chauffer l'huile d'olive à feu moyen.",
+        "Ajoutez les morceaux de sanglier et faites-les dorer de tous les côtés. Retirez-les de la cocotte et réservez-les.",
+        "Dans la même cocotte, ajoutez les lardons et faites-les revenir jusqu'à ce qu'ils soient dorés.",
+        "Pelez et émincez les oignons. Épluchez et coupez les carottes en rondelles. Coupez le céleri en petits morceaux. Épluchez et écrasez les gousses d'ail.",
+        "Ajoutez les oignons, les carottes, le céleri et l'ail dans la cocotte. Faites revenir pendant quelques minutes.",
+        "Saupoudrez de farine et mélangez bien pour enrober les légumes.",
+        "Remettez les morceaux de sanglier dans la cocotte avec les légumes.",
+        "Versez le vin rouge et le bouillon de viande dans la cocotte. Ajoutez les feuilles de laurier et le thym. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Couvrez la cocotte et laissez mijoter à feu doux pendant environ 2 à 3 heures, jusqu'à ce que la viande soit tendre et les saveurs bien développées. Remuez de temps en temps et ajoutez un peu d'eau si nécessaire.",
+        "Retirez les morceaux de sanglier et les légumes de la cocotte, et placez-les sur un plat de service chaud.",
+        "Portez la sauce à ébullition et laissez réduire légèrement pour obtenir une consistance plus épaisse.",
+        "Remettez les morceaux de sanglier et les légumes dans la cocotte avec la sauce réduite. Mélangez bien pour enrober le tout de sauce.",
+        "Laissez mijoter pendant quelques minutes de plus pour réchauffer les ingrédients.",
+        "Servez le Civet de sanglier chaud, accompagné de pommes de terre sautées ou de pâtes fraîches.",
+        "Dégustez ce délicieux Civet de sanglier, une spécialité de la région Corse, avec sa viande savoureuse et sa sauce riche en saveurs !"
+      ]
+    },
+    {
+      "recette": "Fiadone",
+      "region": "Corse",
+      "ingredients": [
+        "500 g de brocciu frais (fromage corse)",
+        "4 œufs",
+        "150 g de sucre",
+        "Zeste d'un citron",
+        "1 cuillère à soupe de farine",
+        "1 cuillère à soupe de maïzena",
+        "1 pincée de sel"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Dans un grand saladier, écrasez le brocciu à la fourchette jusqu'à obtenir une consistance lisse.",
+        "Ajoutez les œufs un à un en mélangeant bien après chaque ajout.",
+        "Ajoutez le sucre, le zeste de citron, la farine, la maïzena et la pincée de sel. Mélangez jusqu'à obtenir une préparation homogène.",
+        "Beurrez un moule à tarte ou un moule rectangulaire et versez la préparation à l'intérieur.",
+        "Enfournez le Fiadone et laissez cuire pendant environ 40 à 45 minutes, jusqu'à ce qu'il soit doré sur le dessus.",
+        "Sortez le Fiadone du four et laissez-le refroidir légèrement avant de le démouler.",
+        "Servez le Fiadone à température ambiante ou froid, découpé en parts généreuses.",
+        "Dégustez ce délicieux Fiadone, une spécialité de la région Corse, avec sa texture crémeuse et son parfum subtil de citron !"
+      ]
+    },
+    {
+      "recette": "Figatellu",
+      "region": "Corse",
+      "ingredients": [
+        "500 g de foie de porc",
+        "500 g de viande de porc hachée",
+        "2 cuillères à café de sel",
+        "1 cuillère à café de poivre noir moulu",
+        "1 cuillère à café de piment d'Espelette",
+        "1 cuillère à café d'origan séché",
+        "1 cuillère à café de romarin séché",
+        "1 cuillère à café de thym séché",
+        "Boyau de porc (pour l'embossage)"
+      ],
+      "instructions": [
+        "Coupez le foie de porc en petits morceaux.",
+        "Dans un grand saladier, mélangez le foie de porc, la viande de porc hachée, le sel, le poivre noir, le piment d'Espelette, l'origan, le romarin et le thym. Mélangez bien pour que les épices soient réparties de manière homogène.",
+        "Laissez mariner le mélange pendant au moins 2 heures, voire toute une nuit, au réfrigérateur pour que les saveurs se développent.",
+        "Rincez soigneusement le boyau de porc à l'eau froide pour le nettoyer.",
+        "Placez le boyau sur le tuyau d'une saucisseuse ou utilisez une poche à douille pour l'embossage.",
+        "Remplissez le boyau avec le mélange de viande et de foie, en laissant un espace vide à chaque extrémité pour faciliter la manipulation.",
+        "Faites des portions individuelles en liant le boyau à intervalles réguliers avec de la ficelle de boucherie.",
+        "Laissez les Figatelli reposer pendant environ 1 heure pour que les saveurs se mêlent.",
+        "Faites griller les Figatelli sur un barbecue préchauffé ou sur une plancha, en les retournant régulièrement, jusqu'à ce qu'ils soient bien dorés et cuits à cœur.",
+        "Retirez les ficelles de boucherie avant de servir.",
+        "Servez les Figatelli chauds, accompagnés de pain croustillant et de légumes grillés.",
+        "Dégustez ce délicieux Figatellu, une spécialité de la région Corse, avec sa saveur fumée et épicée qui ravira les amateurs de charcuterie !"
+      ]
+    },
+    {
+      "recette": "Baeckeoffe",
+      "region": "Grand Est",
+      "ingredients": [
+        "1 kg de viande de porc (épaule, poitrine)",
+        "500 g de viande de bœuf (gîte, paleron)",
+        "500 g de viande d'agneau (épaule, collier)",
+        "1,5 kg de pommes de terre",
+        "3 oignons",
+        "3 carottes",
+        "1 bouquet garni (thym, laurier, persil)",
+        "4 gousses d'ail",
+        "1 bouteille de vin blanc d'Alsace (Riesling de préférence)",
+        "Sel et poivre",
+        "Huile d'olive",
+        "Beurre (pour le plat)"
+      ],
+      "instructions": [
+        "La veille, découpez les viandes en morceaux et mettez-les dans un grand récipient.",
+        "Épluchez et émincez les oignons. Pelez les carottes et coupez-les en rondelles.",
+        "Ajoutez les oignons, les carottes, le bouquet garni et les gousses d'ail écrasées dans le récipient avec les viandes.",
+        "Versez le vin blanc sur les viandes et les légumes, en veillant à ce qu'ils soient bien recouverts. Couvrez le récipient et placez-le au réfrigérateur pour mariner toute la nuit.",
+        "Le lendemain, préchauffez votre four à 180°C (thermostat 6).",
+        "Épluchez et coupez les pommes de terre en fines rondelles.",
+        "Beurrez généreusement un plat à gratin.",
+        "Dans le plat à gratin beurré, disposez une première couche de pommes de terre.",
+        "Égouttez les viandes et les légumes de la marinade, et disposez-les sur la couche de pommes de terre dans le plat à gratin.",
+        "Recouvrez les viandes d'une deuxième couche de pommes de terre.",
+        "Versez la marinade sur les pommes de terre et les viandes, en veillant à ce que le liquide atteigne presque le haut du plat.",
+        "Couvrez le plat à gratin d'une feuille d'aluminium pour éviter l'évaporation pendant la cuisson.",
+        "Enfournez le Baeckeoffe et laissez cuire pendant environ 3 à 4 heures, jusqu'à ce que les viandes soient tendres et les pommes de terre bien cuites.",
+        "Servez le Baeckeoffe chaud, accompagné d'une salade verte et d'un bon pain alsacien.",
+        "Profitez de ce délicieux Baeckeoffe, une spécialité de la région Grand Est, aux saveurs riches et réconfortantes !"
+      ]
+    },
+    {
+      "recette": "Choucroute",
+      "region": "Grand Est",
+      "ingredients": [
+        "1 choucroute crue (environ 1,5 kg)",
+        "500 g de poitrine de porc fumée",
+        "500 g de palette de porc fumée",
+        "500 g de saucisses de Francfort",
+        "500 g de saucisses de Strasbourg",
+        "500 g de saucisson à l'ail",
+        "500 g de pommes de terre",
+        "2 oignons",
+        "4 clous de girofle",
+        "3 feuilles de laurier",
+        "1 cuillère à soupe de graines de cumin",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Rincez la choucroute à l'eau froide pour enlever l'excès de sel.",
+        "Dans une grande cocotte, disposez la choucroute, les oignons piqués de clous de girofle, les feuilles de laurier et les graines de cumin.",
+        "Ajoutez la poitrine de porc fumée et la palette de porc fumée sur le dessus de la choucroute.",
+        "Couvrez la cocotte et laissez cuire à feu doux pendant environ 1 heure.",
+        "Ajoutez les saucisses de Francfort, les saucisses de Strasbourg et le saucisson à l'ail dans la cocotte. Poursuivez la cuisson pendant environ 30 minutes.",
+        "Pendant ce temps, épluchez les pommes de terre et faites-les cuire à la vapeur ou dans de l'eau salée jusqu'à ce qu'elles soient tendres.",
+        "Lorsque la choucroute et les viandes sont cuites, retirez-les de la cocotte et placez-les sur un plat de service chaud.",
+        "Servez la choucroute avec les pommes de terre cuites à côté. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Dégustez cette délicieuse Choucroute, une spécialité de la région Grand Est, accompagnée de moutarde et d'un bon verre de vin blanc alsacien !"
+      ]
+    },
+    {
+      "recette": "Quiche lorraine",
+      "region": "Grand Est",
+      "ingredients": [
+        "1 pâte brisée",
+        "200 g de lardons fumés",
+        "3 œufs",
+        "200 ml de crème fraîche",
+        "200 g de fromage râpé (gruyère ou emmental)",
+        "Sel et poivre",
+        "Noix de muscade (facultatif)"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Étalez la pâte brisée dans un moule à tarte beurré et piquez le fond avec une fourchette.",
+        "Dans une poêle, faites cuire les lardons fumés jusqu'à ce qu'ils soient légèrement dorés.",
+        "Dans un bol, battez les œufs avec la crème fraîche. Ajoutez le fromage râpé et mélangez bien. Assaisonnez avec du sel, du poivre et éventuellement de la noix de muscade râpée selon votre goût.",
+        "Répartissez les lardons cuits sur le fond de tarte, puis versez le mélange œufs-crème-fromage par-dessus.",
+        "Enfournez la quiche lorraine et laissez cuire pendant environ 30 à 35 minutes, jusqu'à ce que la pâte soit dorée et que la garniture soit bien prise.",
+        "Sortez la quiche lorraine du four et laissez-la tiédir légèrement avant de la déguster.",
+        "Servez la quiche lorraine tiède ou à température ambiante, accompagnée d'une salade verte.",
+        "Appréciez cette délicieuse Quiche lorraine, une spécialité de la région Grand Est, avec sa garniture crémeuse et son goût savoureux !"
+      ]
+    },
+    {
+      "recette": "Tarte flambée",
+      "region": "Grand Est",
+      "ingredients": [
+        "250 g de farine",
+        "125 ml d'eau tiède",
+        "1 cuillère à soupe d'huile d'olive",
+        "1 pincée de sel",
+        "200 g de crème fraîche",
+        "200 g de lardons fumés",
+        "2 oignons",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Dans un grand bol, mélangez la farine, l'eau tiède, l'huile d'olive et le sel pour former une pâte homogène.",
+        "Pétrissez la pâte pendant quelques minutes jusqu'à ce qu'elle soit lisse et élastique. Couvrez-la d'un linge propre et laissez reposer pendant environ 30 minutes.",
+        "Pendant ce temps, préchauffez votre four à la température maximale.",
+        "Épluchez et émincez les oignons.",
+        "Sur une surface légèrement farinée, abaissez la pâte en une fine couche rectangulaire ou ovale.",
+        "Disposez la pâte abaissée sur une plaque de cuisson tapissée de papier sulfurisé.",
+        "Étalez généreusement la crème fraîche sur la pâte abaissée, en laissant une bordure libre tout autour.",
+        "Répartissez les lardons fumés et les oignons émincés sur la crème fraîche.",
+        "Salez et poivrez selon votre goût.",
+        "Enfournez la tarte flambée et laissez cuire pendant environ 10 à 15 minutes, jusqu'à ce que la pâte soit croustillante et légèrement dorée.",
+        "Sortez la tarte flambée du four et découpez-la en parts.",
+        "Servez la tarte flambée chaude et dégustez-la immédiatement.",
+        "Appréciez cette délicieuse Tarte flambée, une spécialité de la région Grand Est, avec sa garniture crémeuse et ses saveurs savoureuses !"
+      ]
+    },
+    {
+      "recette": "Flamiche",
+      "region": "Hauts-de-France",
+      "ingredients": [
+        "1 pâte brisée",
+        "500 g de poireaux",
+        "200 g de lardons fumés",
+        "3 œufs",
+        "20 cl de crème fraîche",
+        "100 g de Maroilles (ou un autre fromage à pâte molle)",
+        "Sel et poivre",
+        "Beurre (pour la cuisson)"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Étalez la pâte brisée dans un moule à tarte beurré et piquez le fond avec une fourchette.",
+        "Lavez les poireaux et émincez-les en fines rondelles.",
+        "Dans une poêle, faites fondre du beurre à feu moyen. Ajoutez les lardons fumés et faites-les dorer légèrement.",
+        "Ajoutez les poireaux émincés dans la poêle et faites-les cuire pendant environ 10 minutes jusqu'à ce qu'ils soient tendres. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Dans un bol, battez les œufs avec la crème fraîche. Ajoutez le mélange poireaux-lardons dans le bol et mélangez bien.",
+        "Versez le mélange œufs-crème-poireaux-lardons sur le fond de tarte dans le moule.",
+        "Coupez le Maroilles en tranches et disposez-les sur le dessus de la tarte.",
+        "Enfournez la Flamiche et laissez cuire pendant environ 30 à 35 minutes, jusqu'à ce que la pâte soit dorée et que la garniture soit bien prise.",
+        "Sortez la Flamiche du four et laissez-la tiédir légèrement avant de la déguster.",
+        "Servez la Flamiche tiède, accompagnée d'une salade verte pour un repas équilibré.",
+        "Dégustez cette délicieuse Flamiche, une spécialité de la région Hauts-de-France, au goût savoureux et fondant grâce au Maroilles !"
+      ]
+    },
+    {
+      "recette": "Moules-frites",
+      "region": "Hauts-de-France",
+      "ingredients": [
+        "2 kg de moules fraîches",
+        "1 kg de pommes de terre",
+        "2 échalotes",
+        "2 gousses d'ail",
+        "1 bouquet de persil",
+        "25 cl de vin blanc sec",
+        "20 cl de crème fraîche (facultatif)",
+        "Beurre",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Commencez par préparer les pommes de terre. Épluchez-les et coupez-les en frites. Rincez-les à l'eau froide pour enlever l'amidon, puis égouttez-les et séchez-les avec un torchon propre.",
+        "Dans une grande poêle, faites chauffer de l'huile de friture à environ 160°C. Plongez les frites dans l'huile chaude et faites-les cuire pendant environ 5 minutes jusqu'à ce qu'elles soient légèrement dorées. Retirez-les de l'huile et égouttez-les sur du papier absorbant. Augmentez ensuite la température de l'huile à environ 180°C et replongez les frites pour les faire dorer jusqu'à ce qu'elles soient croustillantes. Retirez-les de l'huile, égouttez-les à nouveau et salez-les légèrement.",
+        "Pendant que les frites cuisent, préparez les moules. Lavez les moules à l'eau froide pour enlever le sable et les impuretés. Retirez les barbes si nécessaire. Jetez les moules qui sont déjà ouvertes ou cassées.",
+        "Dans une grande cocotte, faites fondre du beurre à feu moyen. Ajoutez les échalotes émincées et l'ail écrasé. Faites revenir pendant quelques minutes jusqu'à ce qu'ils soient légèrement dorés.",
+        "Ajoutez les moules dans la cocotte et mélangez-les avec les échalotes et l'ail. Versez le vin blanc sec et ajoutez le bouquet de persil. Couvrez la cocotte et laissez cuire à feu vif pendant environ 5 à 7 minutes jusqu'à ce que les moules soient ouvertes.",
+        "Retirez le bouquet de persil et ajoutez éventuellement la crème fraîche pour une sauce plus onctueuse. Mélangez bien.",
+        "Servez les moules chaudes dans de grandes assiettes creuses, accompagnées des frites croustillantes.",
+        "Dégustez ces délicieuses Moules-frites à la manière des Hauts-de-France, en les trempant dans la sauce et en savourant chaque bouchée !"
+      ]
+    },
+    {
+      "recette": "Potjevleesch",
+      "region": "Hauts-de-France",
+      "ingredients": [
+        "500 g de viande blanche (poulet, veau, porc)",
+        "500 g de viande rouge (boeuf, agneau)",
+        "500 g de lapin",
+        "1 oignon",
+        "2 échalotes",
+        "2 carottes",
+        "2 branches de céleri",
+        "2 gousses d'ail",
+        "1 bouquet garni (thym, laurier, persil)",
+        "300 ml de bière blonde",
+        "300 ml de bouillon de volaille",
+        "4 tranches de pain d'épices",
+        "4 tranches de jambon blanc",
+        "Sel et poivre",
+        "Beurre (pour la cuisson)"
+      ],
+      "instructions": [
+        "Coupez les viandes blanches, les viandes rouges et le lapin en morceaux.",
+        "Épluchez et émincez l'oignon, les échalotes, les carottes et le céleri. Écrasez les gousses d'ail.",
+        "Dans une grande cocotte, faites fondre du beurre à feu moyen. Ajoutez les oignons, les échalotes, les carottes, le céleri et l'ail écrasé. Faites revenir jusqu'à ce qu'ils soient légèrement dorés.",
+        "Ajoutez les morceaux de viande dans la cocotte. Faites-les dorer de tous les côtés.",
+        "Ajoutez le bouquet garni, la bière blonde et le bouillon de volaille dans la cocotte. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Portez à ébullition, puis réduisez le feu et laissez mijoter à couvert pendant environ 2 à 3 heures, jusqu'à ce que la viande soit tendre.",
+        "Pendant ce temps, préparez les tranches de pain d'épices en les trempant dans un peu de bouillon de cuisson pour les ramollir légèrement.",
+        "Lorsque la viande est cuite, retirez les morceaux de viande de la cocotte et filtrez le bouillon de cuisson.",
+        "Dans un plat à gratin, disposez les morceaux de viande en alternant avec les tranches de jambon blanc et les tranches de pain d'épices.",
+        "Versez un peu de bouillon de cuisson filtré sur les couches de viande, en veillant à bien les couvrir.",
+        "Couvrez le plat à gratin d'un poids (une planche avec des boîtes de conserve par exemple) pour bien presser le Potjevleesch.",
+        "Laissez refroidir le Potjevleesch à température ambiante, puis réfrigérez-le pendant au moins 24 heures pour permettre aux saveurs de se développer.",
+        "Servez le Potjevleesch bien frais, accompagné de frites ou de pommes de terre sautées.",
+        "Dégustez cette délicieuse spécialité des régions Hauts-de-France, un plat riche en saveurs et en traditions !"
+      ]
+    },
+    {
+      "recette": "Tarte au maroilles",
+      "region": "Hauts-de-France",
+      "ingredients": [
+        "1 pâte brisée",
+        "200 g de maroilles",
+        "20 cl de crème fraîche",
+        "2 œufs",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Étalez la pâte brisée dans un moule à tarte beurré et piquez le fond avec une fourchette.",
+        "Coupez le maroilles en fines tranches et répartissez-les sur le fond de tarte.",
+        "Dans un bol, battez les œufs avec la crème fraîche. Salez légèrement et poivrez selon votre goût.",
+        "Versez le mélange œufs-crème sur le maroilles dans le moule à tarte.",
+        "Enfournez la tarte au maroilles et laissez cuire pendant environ 25 à 30 minutes, jusqu'à ce que la pâte soit dorée et que la garniture soit bien prise.",
+        "Sortez la tarte du four et laissez-la tiédir légèrement avant de la déguster.",
+        "Servez la tarte au maroilles tiède, accompagnée d'une salade verte pour un repas équilibré.",
+        "Dégustez cette délicieuse tarte au maroilles, une spécialité des régions Hauts-de-France, au goût riche et caractéristique !"
+      ]
+    },
+    {
+      "recette": "Boeuf à la mode",
+      "region": "Île-de-France",
+      "ingredients": [
+        "1,5 kg de boeuf à braiser (paleron, gîte)",
+        "200 g de lardons fumés",
+        "2 carottes",
+        "2 oignons",
+        "2 gousses d'ail",
+        "50 cl de vin rouge",
+        "50 cl de bouillon de boeuf",
+        "2 cuillères à soupe de farine",
+        "2 cuillères à soupe d'huile",
+        "1 bouquet garni (thym, laurier, persil)",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Coupez la viande de boeuf en morceaux de taille moyenne.",
+        "Épluchez et coupez les carottes en rondelles. Émincez les oignons et l'ail.",
+        "Dans une cocotte, faites chauffer l'huile à feu moyen. Ajoutez les lardons et faites-les dorer légèrement.",
+        "Ajoutez les morceaux de boeuf dans la cocotte et faites-les saisir de tous les côtés jusqu'à ce qu'ils soient bien dorés.",
+        "Ajoutez les carottes, les oignons et l'ail émincés dans la cocotte. Faites revenir pendant quelques minutes.",
+        "Saupoudrez de farine et mélangez bien pour enrober tous les ingrédients.",
+        "Versez le vin rouge et le bouillon de boeuf dans la cocotte. Ajoutez le bouquet garni, salez et poivrez selon votre goût.",
+        "Portez à ébullition, puis réduisez le feu et laissez mijoter à couvert pendant environ 2 heures, jusqu'à ce que la viande soit tendre.",
+        "Servez le Boeuf à la mode chaud, accompagné de pommes de terre, de légumes de saison ou de pâtes.",
+        "Dégustez cette délicieuse spécialité de la région Île-de-France, un plat savoureux et réconfortant !"
+      ]
+    },
+    {
+      "recette": "Brie de Meaux",
+      "region": "Île-de-France",
+      "ingredients": [
+        "1 Brie de Meaux (environ 500 g)",
+        "Pain de campagne (pour accompagner)"
+      ],
+      "instructions": [
+        "Sortez le Brie de Meaux du réfrigérateur et laissez-le revenir à température ambiante pendant environ 1 à 2 heures.",
+        "Coupez le Brie de Meaux en tranches épaisses ou en quartiers.",
+        "Servez le Brie de Meaux tel quel, à température ambiante, pour apprécier pleinement sa texture crémeuse et son goût riche.",
+        "Accompagnez le Brie de Meaux de tranches de pain de campagne pour une dégustation traditionnelle.",
+        "Dégustez ce délicieux fromage Brie de Meaux, une spécialité renommée de la région Île-de-France !"
+      ]
+    },
+    {
+      "recette": "Croissant",
+      "region": "Île-de-France",
+      "ingredients": [
+        "500 g de farine",
+        "10 g de levure de boulanger fraîche",
+        "70 g de sucre",
+        "10 g de sel",
+        "250 ml de lait",
+        "250 g de beurre",
+        "1 œuf (pour la dorure)"
+      ],
+      "instructions": [
+        "Dans un bol, délayez la levure de boulanger fraîche avec un peu de lait tiède et une cuillère à café de sucre. Laissez reposer pendant 10 minutes pour activer la levure.",
+        "Dans un grand bol, mélangez la farine, le sucre et le sel.",
+        "Ajoutez la levure activée et le reste de lait dans le bol contenant les ingrédients secs. Mélangez bien jusqu'à obtenir une pâte homogène.",
+        "Pétrissez la pâte pendant environ 10 minutes sur une surface légèrement farinée, jusqu'à ce qu'elle soit lisse et élastique.",
+        "Formez une boule avec la pâte, couvrez-la d'un linge propre et laissez-la reposer pendant environ 1 heure, jusqu'à ce qu'elle double de volume.",
+        "Pendant ce temps, préparez le beurre en le malaxant légèrement pour lui donner une consistance souple.",
+        "Étalez la pâte en un rectangle d'environ 1 cm d'épaisseur sur une surface légèrement farinée.",
+        "Placez le beurre au centre du rectangle de pâte et repliez les côtés de la pâte par-dessus le beurre pour l'envelopper complètement.",
+        "Étalez le rectangle de pâte enveloppé de beurre dans le sens de la longueur, puis repliez-le en trois, comme pour un portefeuille.",
+        "Tournez le rectangle de pâte d'un quart de tour, puis étalez-le à nouveau et repliez-le en trois. Répétez cette opération une fois de plus.",
+        "Enveloppez le rectangle de pâte dans un film alimentaire et laissez-le reposer au réfrigérateur pendant environ 30 minutes.",
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Sortez la pâte du réfrigérateur et étalez-la sur une surface légèrement farinée en un grand rectangle d'environ 0,5 cm d'épaisseur.",
+        "Coupez le rectangle de pâte en triangles isocèles.",
+        "Enroulez chaque triangle de pâte en partant de la base et formez des croissants.",
+        "Disposez les croissants sur une plaque de cuisson tapissée de papier sulfurisé.",
+        "Dans un petit bol, battez l'œuf et utilisez-le pour dorer délicatement la surface des croissants.",
+        "Enfournez les croissants et laissez-les cuire pendant environ 15 à 20 minutes, jusqu'à ce qu'ils soient dorés et bien gonflés.",
+        "Sortez les croissants du four et laissez-les refroidir légèrement avant de les déguster.",
+        "Appréciez ces délicieux croissants tout juste sortis du four, avec leur texture feuilletée et leur arôme délicat !"
+      ]
+    },
+    {
+      "recette": "Soufflé au fromage",
+      "region": "Île-de-France",
+      "ingredients": [
+        "4 œufs",
+        "40 g de beurre",
+        "40 g de farine",
+        "250 ml de lait",
+        "100 g de fromage râpé (comté, gruyère, emmental)",
+        "Sel et poivre",
+        "Muscade râpée (facultatif)",
+        "Beurre et chapelure (pour les moules à soufflé)"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Beurrez généreusement les moules à soufflé et saupoudrez-les de chapelure, en tapotant pour enlever l'excès.",
+        "Dans une casserole, faites fondre le beurre à feu doux. Ajoutez la farine en remuant constamment pour obtenir un mélange homogène.",
+        "Versez le lait progressivement tout en continuant de remuer. Laissez cuire le mélange pendant quelques minutes jusqu'à ce qu'il épaississe.",
+        "Retirez la casserole du feu et ajoutez le fromage râpé. Mélangez bien jusqu'à ce que le fromage soit fondu.",
+        "Séparez les blancs des jaunes d'œufs dans deux bols différents.",
+        "Ajoutez les jaunes d'œufs un par un dans la préparation au fromage, en mélangeant bien entre chaque ajout. Assaisonnez avec du sel, du poivre et une pincée de muscade râpée selon votre goût.",
+        "Dans un bol propre, fouettez les blancs d'œufs en neige ferme.",
+        "Incorporez délicatement les blancs d'œufs à la préparation au fromage en soulevant la masse avec une spatule pour ne pas les casser.",
+        "Versez la préparation dans les moules à soufflé, en les remplissant aux deux tiers.",
+        "Placez les moules dans le four préchauffé et laissez cuire pendant environ 20 minutes, jusqu'à ce que les soufflés soient bien gonflés et dorés.",
+        "Sortez les soufflés du four et servez-les immédiatement, car ils retombent rapidement."
+      ]
+    },
+    {
+      "recette": "Camembert",
+      "region": "Normandie",
+      "ingredients": [
+        "1 camembert",
+        "Pain de campagne (pour accompagner)"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Retirez l'emballage en papier du camembert, mais laissez-le dans sa boîte en bois.",
+        "Replacez le camembert dans sa boîte en bois et placez-le sur une plaque de cuisson.",
+        "Avec un couteau, faites quelques incisions sur le dessus du camembert.",
+        "Enfournez le camembert et laissez-le cuire pendant environ 15 à 20 minutes, jusqu'à ce qu'il soit bien fondu à l'intérieur.",
+        "Sortez le camembert du four avec précaution, car il sera chaud et coulant.",
+        "Servez le camembert chaud, accompagné de tranches de pain de campagne.",
+        "Dégustez ce délicieux camembert fondant et crémeux, typique de la région Normandie !"
+      ]
+    },
+    {
+      "recette": "Tarte normande",
+      "region": "Normandie",
+      "ingredients": [
+        "1 pâte brisée",
+        "4 à 5 pommes",
+        "100 g de sucre",
+        "2 œufs",
+        "20 cl de crème fraîche",
+        "20 cl de lait",
+        "2 cuillères à soupe de calvados (facultatif)",
+        "1 pincée de cannelle (facultatif)"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Étalez la pâte brisée dans un moule à tarte beurré et piquez le fond avec une fourchette.",
+        "Épluchez les pommes, retirez le cœur et coupez-les en tranches fines.",
+        "Disposez les tranches de pommes sur le fond de tarte.",
+        "Dans un bol, battez les œufs avec le sucre jusqu'à obtenir un mélange mousseux.",
+        "Ajoutez la crème fraîche, le lait et le calvados (facultatif). Mélangez bien tous les ingrédients.",
+        "Versez le mélange œufs-sucre-crème-lait sur les pommes dans le moule à tarte.",
+        "Saupoudrez la tarte normande de cannelle (facultatif) pour ajouter une touche de saveur.",
+        "Enfournez la tarte normande et laissez-la cuire pendant environ 30 à 40 minutes, jusqu'à ce qu'elle soit bien dorée et que la crème soit prise.",
+        "Sortez la tarte du four et laissez-la refroidir avant de la démouler.",
+        "Servez la tarte normande tiède ou à température ambiante.",
+        "Dégustez cette délicieuse spécialité normande, une tarte aux pommes gourmande et crémeuse !"
+      ]
+    },
+    {
+      "recette": "Teurgoule",
+      "region": "Normandie",
+      "ingredients": [
+        "1 litre de lait entier",
+        "150 g de riz rond",
+        "150 g de sucre",
+        "1 cuillère à soupe de cannelle en poudre",
+        "1 pincée de sel"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 150°C (thermostat 5).",
+        "Dans une casserole, portez le lait à ébullition avec le sucre et la pincée de sel.",
+        "Ajoutez le riz dans le lait bouillant et laissez cuire pendant 5 minutes, en remuant régulièrement.",
+        "Versez le mélange lait-riz dans un plat à gratin.",
+        "Saupoudrez généreusement la surface de la Teurgoule avec de la cannelle en poudre.",
+        "Enfournez le plat à gratin dans le four préchauffé et laissez cuire pendant environ 3 heures. La Teurgoule est prête lorsqu'elle a une couleur brun doré sur le dessus.",
+        "Sortez le plat du four et laissez refroidir la Teurgoule.",
+        "Servez la Teurgoule tiède ou à température ambiante.",
+        "Dégustez cette délicieuse spécialité normande, un riz au lait parfumé à la cannelle !"
+      ]
+    },
+    {
+      "recette": "Tripes à la mode de Caen",
+      "region": "Normandie, Occitanie",
+      "ingredients": [
+        "1,5 kg de tripes de bœuf préparées",
+        "2 oignons",
+        "2 carottes",
+        "2 gousses d'ail",
+        "1 bouquet garni (thym, laurier, persil)",
+        "25 cl de cidre",
+        "25 cl de vin blanc sec",
+        "25 cl de bouillon de volaille",
+        "50 g de beurre",
+        "50 g de farine",
+        "Sel et poivre",
+        "Persil frais (pour la garniture)"
+      ],
+      "instructions": [
+        "Dans une grande casserole d'eau bouillante, faites blanchir les tripes pendant environ 5 minutes pour les nettoyer.",
+        "Égouttez les tripes et rincez-les abondamment à l'eau froide. Réservez.",
+        "Épluchez et émincez les oignons, les carottes et l'ail.",
+        "Dans une cocotte, faites fondre le beurre à feu moyen. Ajoutez les oignons, les carottes et l'ail émincés. Faites revenir pendant quelques minutes jusqu'à ce qu'ils soient légèrement dorés.",
+        "Ajoutez les tripes dans la cocotte, ainsi que le bouquet garni. Salez et poivrez selon votre goût.",
+        "Versez le cidre, le vin blanc et le bouillon de volaille dans la cocotte. Portez à ébullition, puis réduisez le feu et laissez mijoter doucement à couvert pendant environ 2 heures. Les tripes doivent devenir tendres.",
+        "Dans un petit bol, mélangez le beurre et la farine pour obtenir un roux.",
+        "Ajoutez le roux dans la cocotte et mélangez bien pour épaissir la sauce. Poursuivez la cuisson pendant encore 15 minutes.",
+        "Rectifiez l'assaisonnement si nécessaire.",
+        "Servez les Tripes à la mode de Caen chaudes, saupoudrées de persil frais haché.",
+        "Accompagnez les tripes avec des pommes de terre vapeur ou des frites, selon votre préférence.",
+        "Dégustez cette délicieuse spécialité à la fois normande et occitane, pleine de saveurs et de traditions !"
+      ]
+    },
+    {
+      "recette": "Canelés",
+      "region": "Nouvelle-Aquitaine",
+      "ingredients": [
+        "500 ml de lait",
+        "2 œufs entiers + 2 jaunes d'œufs",
+        "200 g de sucre",
+        "100 g de farine",
+        "50 g de beurre",
+        "1 cuillère à soupe de rhum",
+        "1 gousse de vanille",
+        "1 pincée de sel"
+      ],
+      "instructions": [
+        "Dans une casserole, faites chauffer le lait avec la gousse de vanille fendue en deux. Laissez infuser pendant environ 1 heure, puis retirez la gousse de vanille.",
+        "Dans un grand bol, mélangez les œufs entiers, les jaunes d'œufs et le sucre jusqu'à obtenir un mélange mousseux.",
+        "Ajoutez la farine tamisée progressivement tout en continuant de mélanger.",
+        "Versez le lait chaud sur le mélange d'œufs et de sucre, en remuant constamment.",
+        "Ajoutez le beurre fondu et le rhum dans la préparation. Mélangez bien tous les ingrédients.",
+        "Couvrez le bol d'un linge propre et laissez reposer la pâte au réfrigérateur pendant au moins 12 heures, voire 24 heures, pour obtenir une meilleure texture et saveur.",
+        "Préchauffez votre four à 250°C (thermostat 8-9).",
+        "Beurrez généreusement les moules à canelés (en cuivre ou en silicone) et placez-les sur une plaque de cuisson.",
+        "Remplissez les moules aux trois-quarts avec la pâte à canelés.",
+        "Enfournez les canelés et faites-les cuire à 250°C pendant 10 minutes, puis baissez la température à 180°C (thermostat 6) et poursuivez la cuisson pendant environ 50 minutes, jusqu'à ce que les canelés soient bien dorés et caramélisés.",
+        "Sortez les canelés du four et laissez-les refroidir légèrement avant de les démouler.",
+        "Dégustez les canelés tièdes ou à température ambiante, pour apprécier leur texture croustillante à l'extérieur et moelleuse à l'intérieur.",
+        "Régalez-vous avec cette délicieuse spécialité bordelaise !"
+      ]
+    },
+    {
+      "recette": "Gâteau basque",
+      "region": "Nouvelle-Aquitaine",
+      "ingredients": [
+        "250 g de farine",
+        "125 g de beurre",
+        "125 g de sucre",
+        "2 jaunes d'œufs",
+        "1 œuf entier",
+        "1 pincée de sel",
+        "1 cuillère à soupe de rhum",
+        "1 pot de confiture de cerises noires (ou autre parfum au choix)"
+      ],
+      "instructions": [
+        "Dans un grand bol, mélangez la farine avec le sucre et le sel.",
+        "Ajoutez le beurre ramolli coupé en morceaux. Mélangez du bout des doigts jusqu'à obtenir une consistance sableuse.",
+        "Ajoutez les jaunes d'œufs et l'œuf entier. Mélangez à nouveau pour former une boule de pâte homogène.",
+        "Enveloppez la pâte dans du film alimentaire et laissez-la reposer au réfrigérateur pendant au moins 1 heure.",
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Divisez la pâte en deux parties égales.",
+        "Abaissez une moitié de pâte à l'aide d'un rouleau à pâtisserie pour former le fond du gâteau. Placez-le dans un moule à tarte beurré.",
+        "Étalez la confiture de cerises noires sur le fond de pâte.",
+        "Abaissez l'autre moitié de pâte et placez-la sur le dessus de la confiture. Soudez bien les bords en pressant avec les doigts.",
+        "Enfournez le gâteau basque et laissez-le cuire pendant environ 30 à 40 minutes, jusqu'à ce qu'il soit doré.",
+        "Sortez le gâteau du four et laissez-le refroidir avant de le démouler.",
+        "Dégustez le gâteau basque à température ambiante, coupé en parts.",
+        "Appréciez cette délicieuse spécialité du Pays Basque, avec sa garniture fruitée et sa pâte fondante !"
+      ]
+    },
+    {
+      "recette": "Magret de canard",
+      "region": "Occitanie, Nouvelle-Aquitaine",
+      "ingredients": [
+        "2 magrets de canard",
+        "Sel",
+        "Poivre",
+        "Épices au choix (ex: herbes de Provence, paprika, piment d'Espelette)",
+        "Garniture de votre choix (ex: pommes de terre sautées, légumes grillés)"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 200°C (thermostat 6-7).",
+        "Avec un couteau bien aiguisé, incisez la peau des magrets en formant des croisillons sans entailler la chair.",
+        "Assaisonnez les magrets de canard avec du sel, du poivre et les épices de votre choix, en frottant bien les assaisonnements sur la peau.",
+        "Placez les magrets, côté peau vers le bas, dans une poêle antiadhésive et faites-les cuire à feu moyen pendant environ 7 à 8 minutes, jusqu'à ce que la peau soit bien dorée et croustillante.",
+        "Retournez les magrets et faites-les cuire pendant encore 2 à 3 minutes du côté chair.",
+        "Transférez les magrets dans un plat allant au four et poursuivez la cuisson au four pendant environ 6 à 8 minutes pour une cuisson rosée, ou plus longtemps selon votre préférence.",
+        "Retirez les magrets du four et laissez-les reposer pendant environ 5 minutes, couverts d'une feuille de papier aluminium.",
+        "Tranchez les magrets en diagonale, en veillant à couper des tranches fines.",
+        "Servez les tranches de magret de canard avec la garniture de votre choix, comme des pommes de terre sautées ou des légumes grillés.",
+        "Dégustez ce délicieux magret de canard à la fois tendre et savoureux, typique des régions Occitanie et Nouvelle-Aquitaine !"
+      ]
+    },
+    {
+      "recette": "Piperade",
+      "region": "Occitanie, Nouvelle-Aquitaine",
+      "ingredients": [
+        "2 poivrons rouges",
+        "2 poivrons verts",
+        "2 oignons",
+        "4 tomates",
+        "4 gousses d'ail",
+        "4 œufs",
+        "Huile d'olive",
+        "Sel et poivre",
+        "Piment d'Espelette (facultatif)"
+      ],
+      "instructions": [
+        "Épluchez et émincez les oignons. Lavez et coupez les poivrons en lanières.",
+        "Dans une grande poêle, faites chauffer un peu d'huile d'olive à feu moyen.",
+        "Ajoutez les oignons émincés dans la poêle et faites-les revenir jusqu'à ce qu'ils deviennent translucides.",
+        "Ajoutez les poivrons dans la poêle et faites-les cuire pendant environ 10 minutes, jusqu'à ce qu'ils soient légèrement tendres.",
+        "Pendant ce temps, ébouillantez les tomates pendant quelques secondes, puis retirez la peau. Coupez les tomates en dés.",
+        "Ajoutez les tomates et l'ail écrasé dans la poêle. Assaisonnez avec du sel, du poivre et du piment d'Espelette selon votre goût.",
+        "Laissez mijoter la piperade pendant environ 15 à 20 minutes, jusqu'à ce que les légumes soient bien cuits et que les saveurs se soient bien mélangées.",
+        "Pendant la cuisson de la piperade, dans une autre poêle, faites frire les œufs sur le plat ou selon votre préférence.",
+        "Servez la piperade bien chaude, avec les œufs frits par-dessus.",
+        "Accompagnez la piperade de pain frais ou de pommes de terre sautées, selon vos préférences.",
+        "Dégustez cette savoureuse piperade, un plat traditionnel des régions Occitanie et Nouvelle-Aquitaine, aux saveurs méditerranéennes !"
+      ]
+    },
+    {
+      "recette": "Aligot",
+      "region": "Occitanie",
+      "ingredients": [
+        "1 kg de pommes de terre",
+        "400 g de tome fraîche d'Aubrac",
+        "100 g de beurre",
+        "20 cl de crème fraîche",
+        "2 gousses d'ail",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Épluchez les pommes de terre, coupez-les en morceaux et faites-les cuire dans une grande casserole d'eau salée jusqu'à ce qu'elles soient bien tendres.",
+        "Pendant la cuisson des pommes de terre, râpez la tome fraîche d'Aubrac.",
+        "Égouttez les pommes de terre cuites et écrasez-les à la fourchette ou au presse-purée pour obtenir une purée bien lisse.",
+        "Ajoutez le beurre et la crème fraîche dans la purée de pommes de terre. Mélangez bien pour les incorporer.",
+        "Pelez et écrasez les gousses d'ail. Ajoutez-les à la purée.",
+        "Faites chauffer la purée à feu doux, en remuant constamment.",
+        "Incorporez la tome fraîche râpée à la purée, petit à petit, en continuant de remuer jusqu'à ce que le fromage soit complètement fondu et que le mélange soit bien homogène.",
+        "Continuez de remuer vigoureusement la préparation jusqu'à ce qu'elle devienne élastique et filante, formant de longs fils.",
+        "Assaisonnez avec du sel et du poivre selon votre goût. L'aligot doit être bien assaisonné.",
+        "Servez l'aligot bien chaud, en accompagnement de saucisses grillées, de viandes ou de charcuterie.",
+        "Dégustez cette délicieuse spécialité de la région Occitanie, célèbre pour sa texture filante !"
+      ]
+    },
+    {
+      "recette": "Brandade de morue",
+      "region": "Occitanie",
+      "ingredients": [
+        "500 g de morue salée",
+        "1 kg de pommes de terre",
+        "4 gousses d'ail",
+        "10 cl d'huile d'olive",
+        "10 cl de lait",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "La veille, faites dessaler la morue en la mettant dans un grand récipient d'eau froide. Changez l'eau régulièrement pendant environ 24 heures.",
+        "Le jour même, égouttez la morue et retirez la peau et les arêtes. Effeuillez-la en petits morceaux.",
+        "Épluchez les pommes de terre et faites-les cuire dans une grande casserole d'eau salée jusqu'à ce qu'elles soient bien tendres.",
+        "Pendant ce temps, faites bouillir de l'eau dans une autre casserole. Plongez-y la morue et laissez-la cuire pendant environ 5 minutes. Égouttez-la et réservez.",
+        "Égouttez les pommes de terre cuites et écrasez-les à la fourchette ou passez-les au presse-purée pour obtenir une purée lisse.",
+        "Dans une poêle, faites chauffer l'huile d'olive et ajoutez les gousses d'ail écrasées. Faites-les revenir légèrement pour parfumer l'huile.",
+        "Incorporez la morue émiettée dans la poêle et faites-la revenir quelques minutes en remuant.",
+        "Ajoutez ensuite la purée de pommes de terre et le lait. Mélangez bien tous les ingrédients.",
+        "Faites cuire le mélange à feu doux pendant environ 10 minutes, en remuant régulièrement, jusqu'à ce que la brandade soit bien chaude et onctueuse.",
+        "Assaisonnez avec du sel et du poivre selon votre goût. Attention, la morue est déjà salée, donc vérifiez bien l'assaisonnement avant d'ajouter du sel.",
+        "Servez la brandade de morue bien chaude, accompagnée de pain grillé ou de croûtons.",
+        "Dégustez cette délicieuse spécialité de la région Occitanie !"
+      ]
+    },
+    {
+      "recette": "Cassoulet",
+      "region": "Occitanie",
+      "ingredients": [
+        "400 g de haricots blancs secs",
+        "400 g de saucisse de Toulouse",
+        "4 cuisses de confit de canard",
+        "200 g de poitrine de porc fumée",
+        "1 oignon",
+        "2 gousses d'ail",
+        "2 carottes",
+        "2 branches de céleri",
+        "2 tomates",
+        "1 bouquet garni (thym, laurier, persil)",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "La veille, faites tremper les haricots blancs dans de l'eau froide.",
+        "Le lendemain, égouttez les haricots et rincez-les à l'eau froide.",
+        "Dans une grande cocotte, faites revenir la poitrine de porc fumée coupée en morceaux avec un peu d'huile d'olive. Ajoutez l'oignon émincé, l'ail écrasé, les carottes et le céleri coupés en dés. Faites revenir pendant quelques minutes jusqu'à ce que les légumes soient légèrement dorés.",
+        "Ajoutez les haricots blancs égouttés dans la cocotte, ainsi que les tomates coupées en dés et le bouquet garni. Assaisonnez avec du sel et du poivre.",
+        "Couvrez les haricots d'eau froide et portez à ébullition. Réduisez ensuite le feu et laissez mijoter doucement pendant environ 1 heure, en écumant régulièrement la surface pour enlever les impuretés.",
+        "Pendant ce temps, dans une poêle, faites dorer les cuisses de confit de canard et les saucisses de Toulouse.",
+        "Après 1 heure de cuisson des haricots, ajoutez les cuisses de confit de canard et les saucisses dans la cocotte. Poursuivez la cuisson pendant encore 1 heure, en ajoutant de l'eau si nécessaire pour garder une consistance légèrement épaisse.",
+        "Retirez le bouquet garni de la cocotte.",
+        "Servez le cassoulet chaud dans des assiettes creuses, en veillant à répartir les différents ingrédients (haricots, viandes) dans chaque assiette.",
+        "Dégustez ce délicieux plat traditionnel de la région Occitanie !"
+      ]
+    },
+    {
+      "recette": "Fougasse",
+      "region": "Occitanie",
+      "ingredients": [
+        "500 g de farine",
+        "300 ml d'eau tiède",
+        "10 g de levure de boulanger",
+        "2 cuillères à soupe d'huile d'olive",
+        "1 cuillère à café de sel",
+        "Garniture au choix (ex : olives, herbes de Provence, tomates séchées, fromage...)"
+      ],
+      "instructions": [
+        "Dans un petit bol, délayez la levure de boulanger dans l'eau tiède. Laissez reposer pendant environ 10 minutes, jusqu'à ce que la levure soit activée et commence à mousser.",
+        "Dans un grand bol, mélangez la farine et le sel. Faites un puits au centre et versez-y la levure activée et l'huile d'olive.",
+        "Mélangez les ingrédients avec une cuillère en bois jusqu'à obtenir une pâte homogène.",
+        "Transférez la pâte sur un plan de travail légèrement fariné et pétrissez-la pendant environ 10 minutes, jusqu'à ce qu'elle soit souple et élastique.",
+        "Replacez la pâte dans le bol, couvrez-la d'un linge propre et laissez-la reposer dans un endroit chaud pendant environ 1 heure, jusqu'à ce qu'elle double de volume.",
+        "Préchauffez votre four à 220°C (thermostat 7-8).",
+        "Sur une plaque de cuisson recouverte de papier sulfurisé, étalez la pâte en forme de fougasse. Vous pouvez lui donner la forme que vous souhaitez, comme une étoile ou une feuille.",
+        "Laissez reposer la fougasse pendant environ 15 minutes.",
+        "Ajoutez la garniture de votre choix sur la fougasse. Par exemple, vous pouvez ajouter des olives, des herbes de Provence, des tomates séchées, du fromage...",
+        "Enfournez la fougasse et laissez-la cuire pendant environ 15 à 20 minutes, jusqu'à ce qu'elle soit dorée et croustillante.",
+        "Sortez la fougasse du four et laissez-la refroidir légèrement avant de la déguster.",
+        "Dégustez cette délicieuse spécialité de la région Occitanie en accompagnement d'un repas ou en apéritif !"
+      ]
+    },
+    {
+      "recette": "Crème renversée",
+      "region": "Pays de la Loire",
+      "ingredients": [
+        "1 litre de lait",
+        "200 g de sucre",
+        "1 gousse de vanille",
+        "6 œufs",
+        "Caramel liquide"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Dans une casserole, faites chauffer le lait avec la gousse de vanille fendue en deux et grattée.",
+        "Dans un bol, battez les œufs avec le sucre jusqu'à obtenir un mélange homogène.",
+        "Versez le lait chaud sur le mélange d'œufs et de sucre tout en remuant constamment.",
+        "Retirez la gousse de vanille de la préparation.",
+        "Dans des ramequins individuels, versez un peu de caramel liquide au fond de chaque ramequin.",
+        "Versez la préparation à base de lait et d'œufs dans les ramequins, par-dessus le caramel.",
+        "Placez les ramequins dans un plat allant au four rempli d'eau chaude, afin de réaliser une cuisson au bain-marie.",
+        "Enfournez le plat au four et laissez cuire pendant environ 40 à 45 minutes, jusqu'à ce que les crèmes soient prises et légèrement dorées sur le dessus.",
+        "Sortez le plat du four et laissez les crèmes refroidir à température ambiante.",
+        "Une fois refroidies, placez les crèmes renversées au réfrigérateur pendant au moins 2 heures avant de les démouler.",
+        "Pour démouler les crèmes, passez une lame de couteau sur les bords des ramequins, puis retournez-les délicatement sur des assiettes de service.",
+        "Servez les crèmes renversées bien fraîches.",
+        "Dégustez cette délicieuse spécialité de la région des Pays de la Loire !"
+      ]
+    },
+    {
+      "recette": "Galette vendéenne",
+      "region": "Pays de la Loire",
+      "ingredients": [
+        "250 g de farine de blé",
+        "2 œufs",
+        "50 cl de lait",
+        "30 g de beurre fondu",
+        "1 pincée de sel",
+        "Sucre en poudre (pour saupoudrer)",
+        "Beurre (pour la cuisson)"
+      ],
+      "instructions": [
+        "Dans un grand bol, mélangez la farine avec les œufs et le sel.",
+        "Ajoutez le lait progressivement tout en continuant de mélanger jusqu'à obtenir une pâte lisse et homogène.",
+        "Incorporez le beurre fondu dans la pâte et mélangez bien.",
+        "Laissez reposer la pâte pendant environ 30 minutes à température ambiante.",
+        "Dans une poêle antiadhésive, faites fondre un peu de beurre à feu moyen.",
+        "Versez une louche de pâte dans la poêle chaude et inclinez la poêle pour bien répartir la pâte sur toute la surface.",
+        "Laissez cuire la galette pendant environ 2 minutes de chaque côté, jusqu'à ce qu'elle soit bien dorée.",
+        "Répétez l'opération avec le reste de la pâte jusqu'à épuisement.",
+        "Saupoudrez les galettes chaudes de sucre en poudre.",
+        "Servez les galettes vendéennes chaudes ou tièdes, accompagnées d'une garniture de votre choix (confiture, pâte à tartiner, fruits frais, etc.).",
+        "Dégustez ces délicieuses galettes traditionnelles de la Vendée !"
+      ]
+    },
+    {
+      "recette": "Sandre au beurre blanc",
+      "region": "Pays de la Loire",
+      "ingredients": [
+        "4 filets de sandre",
+        "100 g de beurre",
+        "1 échalote",
+        "20 cl de vin blanc sec",
+        "20 cl de crème fraîche",
+        "Le jus d'un demi-citron",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Épluchez et émincez finement l'échalote.",
+        "Dans une casserole, faites fondre 30 g de beurre à feu doux. Ajoutez l'échalote émincée et faites-la revenir jusqu'à ce qu'elle devienne translucide.",
+        "Versez le vin blanc dans la casserole et laissez réduire à feu moyen jusqu'à ce qu'il ne reste plus qu'un tiers du liquide.",
+        "Ajoutez la crème fraîche dans la casserole et laissez mijoter pendant quelques minutes.",
+        "Incorporez le reste du beurre coupé en petits morceaux, petit à petit, en fouettant continuellement pour obtenir une sauce onctueuse. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Pendant ce temps, assaisonnez les filets de sandre avec du sel, du poivre et le jus de citron.",
+        "Faites chauffer une poêle avec un peu d'huile d'olive à feu moyen. Faites cuire les filets de sandre dans la poêle, côté peau vers le bas, pendant environ 4 à 5 minutes, jusqu'à ce qu'ils soient bien dorés.",
+        "Retournez les filets de sandre et poursuivez la cuisson pendant environ 2 à 3 minutes de plus, jusqu'à ce qu'ils soient cuits à cœur.",
+        "Servez les filets de sandre chauds avec la sauce beurre blanc par-dessus.",
+        "Accompagnez le plat de pommes de terre vapeur ou de légumes de saison, selon vos préférences.",
+        "Dégustez ce délicieux plat de poisson typique de la région des Pays de la Loire !"
+      ]
+    },
+    {
+      "recette": "Tarte aux pruneaux",
+      "region": "Pays de la Loire",
+      "ingredients": [
+        "1 pâte brisée",
+        "500 g de pruneaux dénoyautés",
+        "100 g de sucre",
+        "2 œufs",
+        "20 cl de crème fraîche",
+        "1 cuillère à soupe de farine",
+        "1 sachet de sucre vanillé",
+        "Beurre pour le moule"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Beurrez un moule à tarte et étalez la pâte brisée dedans, en veillant à bien couvrir le fond et les bords.",
+        "Dans un bol, battez les œufs avec le sucre jusqu'à obtenir un mélange mousseux.",
+        "Ajoutez la crème fraîche, la farine et le sucre vanillé. Mélangez bien tous les ingrédients.",
+        "Disposez les pruneaux dénoyautés sur le fond de tarte.",
+        "Versez la préparation à base d'œufs, de sucre et de crème fraîche sur les pruneaux.",
+        "Enfournez la tarte et laissez cuire pendant environ 30 à 35 minutes, jusqu'à ce que le dessus soit doré et que la tarte soit bien cuite.",
+        "Une fois cuite, sortez la tarte du four et laissez-la refroidir avant de la démouler.",
+        "Servez la tarte aux pruneaux tiède ou à température ambiante.",
+        "Dégustez cette délicieuse tarte traditionnelle de la région des Pays de la Loire !"
+      ]
+    },
+    {
+      "recette": "Bouillabaisse",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "ingredients": [
+        "500 g de poissons variés (ex : lotte, rascasse, merlan)",
+        "500 g de fruits de mer (ex : crevettes, moules, calamars)",
+        "2 oignons",
+        "3 gousses d'ail",
+        "2 tomates",
+        "1 branche de céleri",
+        "1 bouquet garni (thym, laurier, persil)",
+        "1 dose de safran",
+        "1 pincée de piment de Cayenne",
+        "1 citron",
+        "4 tranches de pain rassis",
+        "Huile d'olive",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Préparez le bouillon en faisant chauffer 2 litres d'eau dans une grande casserole. Ajoutez les oignons émincés, l'ail écrasé, les tomates coupées en dés, le céleri coupé en tronçons et le bouquet garni. Assaisonnez avec du sel, du poivre, le safran et le piment de Cayenne. Laissez mijoter pendant environ 30 minutes.",
+        "Pendant ce temps, préparez les poissons en les nettoyant et en les coupant en morceaux. Réservez.",
+        "Dans une autre casserole, faites revenir les fruits de mer dans un peu d'huile d'olive pendant quelques minutes. Réservez.",
+        "Lorsque le bouillon est prêt, passez-le au chinois pour retirer les légumes et les aromates. Remettez le bouillon filtré sur le feu.",
+        "Ajoutez les poissons dans le bouillon et laissez cuire pendant environ 10 minutes, jusqu'à ce qu'ils soient bien tendres. Ajoutez ensuite les fruits de mer et laissez cuire encore 5 minutes.",
+        "Pendant ce temps, préparez la rouille en mixant le pain rassis avec une gousse d'ail écrasée et le jus d'un citron. Ajoutez progressivement de l'huile d'olive en filet tout en continuant de mixer, jusqu'à obtenir une consistance crémeuse.",
+        "Servez la bouillabaisse bien chaude accompagnée de tranches de pain et de la rouille.",
+        "Dégustez et savourez ce délicieux plat provençal !"
+      ]
+    },
+    {
+      "recette": "Navettes de Marseille",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "ingredients": [
+        "250 g de farine",
+        "100 g de sucre",
+        "100 g de beurre mou",
+        "2 œufs",
+        "1/2 cuillère à café de levure chimique",
+        "1 cuillère à café d'eau de fleur d'oranger",
+        "Zeste d'un citron",
+        "Une pincée de sel"
+      ],
+      "instructions": [
+        "Préchauffez votre four à 180°C (thermostat 6).",
+        "Dans un grand bol, mélangez la farine, le sucre, la levure chimique et le sel.",
+        "Ajoutez le beurre mou coupé en petits morceaux. Mélangez bien jusqu'à obtenir une consistance sableuse.",
+        "Ajoutez les œufs un par un et mélangez jusqu'à ce que la pâte soit homogène.",
+        "Incorporez l'eau de fleur d'oranger et le zeste de citron à la pâte. Mélangez à nouveau.",
+        "Sur un plan de travail légèrement fariné, formez des boudins de pâte d'environ 8 à 10 centimètres de long et 2 centimètres de large.",
+        "Déposez les boudins de pâte sur une plaque de cuisson recouverte de papier sulfurisé.",
+        "Enfournez les navettes et laissez-les cuire pendant environ 15 à 20 minutes, jusqu'à ce qu'elles soient légèrement dorées.",
+        "Sortez les navettes du four et laissez-les refroidir complètement avant de les déguster.",
+        "Les navettes de Marseille se conservent bien dans une boîte hermétique.",
+        "Dégustez ces délicieuses gourmandises provençales avec un bon thé ou café !"
+      ]
+    },
+    {
+      "recette": "Panisse",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "ingredients": [
+        "250 g de farine de pois chiches",
+        "500 ml d'eau",
+        "2 cuillères à soupe d'huile d'olive",
+        "2 gousses d'ail",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Dans une casserole, mélangez la farine de pois chiches avec l'eau froide, l'huile d'olive, l'ail écrasé, du sel et du poivre. Veillez à bien dissoudre la farine pour éviter les grumeaux.",
+        "Placez la casserole sur feu moyen et continuez à remuer constamment avec une cuillère en bois.",
+        "Continuez à cuire et à remuer jusqu'à ce que le mélange s'épaississe et se détache facilement des parois de la casserole. Cela prendra environ 15 à 20 minutes.",
+        "Versez la préparation dans un moule rectangulaire préalablement huilé, afin d'obtenir une épaisseur d'environ 2 à 3 centimètres.",
+        "Laissez refroidir à température ambiante pendant au moins 1 heure, puis placez au réfrigérateur pendant au moins 2 heures pour que la panisse durcisse.",
+        "Une fois bien refroidie, démoulez la panisse et découpez-la en rectangles ou en carrés.",
+        "Dans une poêle, faites chauffer de l'huile d'olive à feu moyen. Faites frire les morceaux de panisse des deux côtés jusqu'à ce qu'ils soient dorés et croustillants.",
+        "Servez chaud en accompagnement d'une salade verte ou en apéritif.",
+        "Dégustez cette spécialité provençale savoureuse !"
+      ]
+    },
+    {
+      "recette": "Ratatouille",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "ingredients": [
+        "2 courgettes",
+        "1 aubergine",
+        "1 poivron rouge",
+        "1 poivron jaune",
+        "1 oignon",
+        "2 gousses d'ail",
+        "4 tomates",
+        "2 cuillères à soupe d'huile d'olive",
+        "1 cuillère à café d'herbes de Provence",
+        "Sel et poivre"
+      ],
+      "instructions": [
+        "Lavez tous les légumes. Coupez les courgettes, l'aubergine, les poivrons et les tomates en cubes.",
+        "Dans une grande poêle, faites chauffer l'huile d'olive à feu moyen. Ajoutez l'oignon émincé et l'ail écrasé. Faites revenir pendant quelques minutes jusqu'à ce qu'ils soient légèrement dorés.",
+        "Ajoutez les poivrons dans la poêle et faites-les revenir pendant environ 5 minutes jusqu'à ce qu'ils soient tendres.",
+        "Ajoutez ensuite les courgettes et l'aubergine dans la poêle. Faites cuire pendant environ 10 minutes jusqu'à ce que les légumes commencent à ramollir.",
+        "Ajoutez les tomates, les herbes de Provence, du sel et du poivre. Mélangez bien tous les ingrédients.",
+        "Réduisez le feu à doux et laissez mijoter la ratatouille pendant environ 20 minutes, en remuant de temps en temps.",
+        "Une fois que les légumes sont bien cuits et fondants, retirez la poêle du feu.",
+        "Servez la ratatouille chaude en accompagnement de viandes, de volailles ou en plat principal avec du riz ou du pain.",
+        "Profitez de cette délicieuse spécialité provençale !"
+      ]
+    }
 
-        {
-            "name": "comment",
-            "ingredients": [
-                "how can i use your services?",
-                "comment vous pouvez m'aider",
-                "comment tu peux m'aider?",
-                "comment je peux trouver mes recettes?"
-            ],
-            "instructions": [
-                "Ecrivez ce que vous voulez cuisiner et je vous donnerai les recettes"
-            ],
-          "cooking_time": "20 minutes",
-  "difficulty_level": "Intermediate",
-          "region": "Ile de france"
-        }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]
+  ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
