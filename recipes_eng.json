@@ -1,0 +1,2405 @@
+{
+  "recipes": [
+    {
+      "recipe": "Greetings",
+      "region": "mamashefena",
+      "ingredients": [
+        "Hello",
+        "salut",
+        "bonjour",
+        "bonsoir",
+        "coucou",
+        "Good morning",
+        "Hello",
+        "Hi there",
+        "Hi",
+        "Hey",
+        "Yo",
+        "Greetings",
+        "What's up?",
+        "How are you?",
+        "Hi, how are you?",
+        "Hey, how's it going?",
+        "Hello! How's your day going?",
+        "Hi! Ready to help?",
+        "Good morning! Did you have a good day?",
+        "Hey, always great to see you!",
+        "Hi there! How's it going?",
+        "Hello, hope you're having a good day!"
+      ],
+      "instructions": [
+        "Hello! How can I assist you?",
+        "Hi! How can I help you today?",
+        "Salut! How can I help you today?",
+        "Bonjour! How can I help you today?",
+        "Coucou! How can I help you today?",
+        "Hello! What can I do for you?",
+        "Hi there! Need any help?",
+        "Greetings! How can I contribute to your day?",
+        "Hey! How can I make your day better?",
+        "Yo! Need my services?",
+        "Hello! How can I make your experience easier today?",
+        "Good morning! I hope you're having a great day!",
+        "Hello, it's nice to see you here!",
+        "Hi! Ready to answer your questions!",
+        "Hey, always here to help you!",
+        "Hello! Hope you're ready to get started!",
+        "Hi there! Looking forward to fulfilling your requests!",
+        "Hello! Feel free to ask me any questions!"
+      ]
+    },
+    {
+      "recipe": "Goodbye",
+      "region": "mamashefena",
+      "ingredients": [
+        "Goodbye",
+        "See you soon",
+        "Ciao",
+        "Later",
+        "I'm leaving",
+        "Until next time",
+        "Hello",
+        "Bye",
+        "Cya",
+        "See you later",
+        "See you soon",
+        "Until tomorrow",
+        "Take care of yourself",
+        "Goodbye",
+        "Have a good day",
+        "Thank you",
+        "thanks",
+        "merci",
+        "Merci Beaucoup",
+        "bonne soiree",
+        "bonne journee",
+        "adieu",
+        "Have a good evening"
+      ],
+      "instructions": [
+        "Goodbye! Feel free to come back if you need help!",
+        "See you soon! Have a great day!",
+        "Ciao! Take care of yourself!",
+        "Later! Come back whenever you'd like!",
+        "I'm leaving! If you have questions, I'm here!",
+        "Until next time! Have a nice day!",
+        "Hello! Visit me again whenever you want!",
+        "Bye! Have a great day!",
+        "Cya! Feel free to reach out to me if needed!",
+        "See you later! Take care of yourself in the meantime!",
+        "See you soon! Stay in touch if you'd like!",
+        "Until tomorrow! Have a peaceful night!",
+        "Take care of yourself! If you have questions, I'm here for you!",
+        "Goodbye! Have a fabulous day!",
+        "Have a good day! Enjoy your time!",
+        "Have a good evening!"
+      ]
+    },
+    {
+      "recipe": "Age",
+      "region": "mamashefena",
+      "ingredients": [
+        "How old are you?",
+        "What's your age?",
+        "When were you born?",
+        "How long have you existed?",
+        "Are you recent?",
+        "Are you new?",
+        "When were you created?",
+        "When did you develop?"
+      ],
+      "instructions": [
+        "I'm 1 month old.",
+        "I'm a one-month-old baby.",
+        "I've been developed a month ago.",
+        "Oh, my dear child, age isn't something to dwell on. Let Mama Shefena share a delicious recipe with you instead. What dish would you like to learn today?",
+        "Oh, my dear, age is just a number! But let's not waste time, shall we? What recipe would you like from Mama Shefena today?"
+      ]
+    },
+    {
+      "recipe": "Name",
+      "region": "mamashefena",
+      "ingredients": [
+        "What's your name?",
+        "What's your name?",
+        "How can I call you?",
+        "What's your name?",
+        "What's your first name?"
+      ],
+      "instructions": [
+        "I'm Mama Shefena, lol!",
+        "Call me Mama Shefena.",
+        "I'm a chatbot, you can call me whatever you want.",
+        "Ah, my name is Mama Shefena. Now, let's dive right into the recipe, okay? Which dish are you interested in?",
+        "I'm Mama Shefena. Now, let's dive right into the recipe, okay? Which dish are you interested in?"
+      ]
+    },
+    {
+      "recipe": "Service",
+      "region": "mamashefena",
+      "ingredients": [
+        "I wanted to know something",
+        "I have a question",
+        "Can you assist me?",
+        "I need help",
+        "Are you able to help?",
+        "Can you give me a hand?",
+        "I'm seeking your aid",
+        "Help me, if you will?",
+        "I require assistance"
+      ],
+      "instructions": [
+        "Of course! Feel free to ask me anything.",
+        "Sure thing! I'm here to help.",
+        "Absolutely, I'm here to assist you!",
+        "No problem! I'm here to help you out.",
+        "Indeed, I'm here and ready to help!",
+        "Of course, I'm here to assist you!",
+        "Absolutely, my friend! How can I assist you?",
+        "Of course! I'm here to help you out.",
+        "No worries! I'm here to assist."
+      ]
+    },
+    {
+      "recipe": "hours",
+      "region": "mamashefena",
+      "ingredients": [
+        "When are you available?",
+        "At what time are you available?",
+        "What's your schedule?",
+        "When can I talk to you?"
+      ],
+      "instructions": [
+        "I'm here for you 24/7!",
+        "24/7 and 365/365!",
+        "I'm available at any time, day and night.",
+        "My schedule is flexible, feel free to talk to me anytime.",
+        "You can ask me questions any time of the day.",
+        "No worries! I'm available for you at any time.",
+        "My availability knows no bounds. Ask me your questions anytime.",
+        "I'm here to answer your questions at any hour of the day and night.",
+        "My service is available continuously. Ask me whatever you want to know.",
+        "Need help at any hour? I'm here for you."
+      ]
+    },
+    {
+      "recipe": "how",
+      "region": "mamashefena",
+      "ingredients": [
+        "How can I use your services?",
+        "How can you help me?",
+        "How can you assist me?",
+        "How can I find recipes?"
+      ],
+      "instructions": [
+        "Write down what you want to cook, and I'll give you the recipes.",
+        "Just tell me what dish you want to cook, and I'll provide you with the corresponding recipes.",
+        "Simply tell me the dish you want to prepare, and I'll provide you with the necessary recipes.",
+        "It's easy! Tell me what you'd like to cook, and I'll provide the appropriate recipes.",
+        "To find recipes, just tell me what dish you're interested in. I'll give you all the necessary information.",
+        "No problem! Tell me what you have in mind for cooking, and I'll help you find suitable recipes.",
+        "Just tell me the dish you have in mind, and I'll provide you with the corresponding recipes.",
+        "It's simple! Tell me what you'd like to prepare, and I'll give you the associated recipes.",
+        "Finding recipes has never been easier. Tell me what you want to cook, and I'll help you out.",
+        "No problem! Just tell me what type of dish you'd like to make, and I'll suggest recipes."
+      ]
+    },
+
+    {
+      "recipe": "tradition",
+      "region": "mamashefena",
+      "ingredients": [
+      "Craving some authentic French flavors?",
+      "recipes",
+      "recipe",
+      "How about a list of classic dishes from France?",
+      "Eager to explore the wonders of French traditional cuisine?",
+      "Got a hankering for those beloved French recipes?",
+      "Ready to savor the cultural treasures of French cooking?",
+      "Ready for a culinary adventure? Let's explore recipes by region!",
+      "Want to dive into a scrumptious recipe collection?",
+      "How can I assist you in the kitchen?",
+      "Ready for a delightful culinary experience?",
+      "In the mood for a taste of French tradition?",
+      "Ready for a journey through delicious French recipes?",
+      "What delectable treats do I have in store?",
+      "Feeling culinary inspiration? What's on today's menu?",
+      "Hey, looking to create something spectacular?",
+      "Seeking the pinnacle of French culinary artistry?",
+      "What's today's featured dish?",
+      "Any exciting new additions to the menu?",
+      "Feel like whipping up something delicious?",
+      "I want france's traditional foods?",
+      "can you give me a list of traditional foods?",
+      "what are the french traditional foods?",
+      "france's traditiona recipes?",
+      "french traditional and cultural recipes?",
+      "traditional and cultural recipes by region?",
+      "give me a list of recipes?",
+      "how can you help me?",
+      "what recipe do you have for me?",
+      "i want a french traditional dish?",
+      "provide me with the french recipes?",
+      "what do you have for me?",
+      "How can you aid me",
+      "what should i cook today?",
+      "Hey help me with a magnificent dish today?",
+      "what is the best french dish?",
+      "dish of the day",
+      "what's new?",
+      "let me cook something!"
+      ],
+      "instructions": [
+      "Bonjour! Craving a taste of France? I've got a list of traditional French recipes, sorted by region. Just type 'recommend'!",
+      "Bonjour! How about a culinary tour of France's cultural recipes, region by region? Type 'recommend' to get started!",
+      "Bonjour! Ready for some scrumptious recommendations? Just say 'recommend' to dive into the world of French flavors!",
+      "Voilà! Explore my treasure trove of traditional French recipes. Type the dish's name or ingredients, or say 'recommend' for a full regional menu!",
+      "Ah, the joy of French cooking! Discover a range of mouthwatering recipes!",
+      "Cooking made easy! Share the dish's name or ingredients, or opt for 'recommend' to see what I've got!",
+      "Delight in culturally rich French recipes from all corners! Ready to cook up a storm?",
+      "Greetings from Mama Shefena! Today's cooking adventure awaits!",
+      "Mama Shefena is here to make your culinary journey unforgettable. Share your cravings or say 'recommend' for a surprise!",
+      "Welcome, kitchen explorer! Let's whip up something special. Tell me what you're in the mood for, or just say 'recommend'!",
+      "Time to put on the chef's hat! Let's start cooking with a classic traditional dish.",
+      "Hungry for tradition? Share the dish's name or some ingredients, or say 'recommend' for a regional suggestion!",
+      "Hello there! I'm here to answer all your questions, especially those about food!"
+      ]
+      },
+
+
+    {
+      "recipe": "Savoyard Fondue",
+      "region": "Auvergne Rhone Alpes",
+      "ingredients": [
+        "400 g of raclette cheese",
+        "400 g of Comté cheese",
+        "400 g of Emmental cheese",
+        "1 garlic clove",
+        "300 ml of dry white wine",
+        "1 tablespoon of cornstarch",
+        "1 baguette",
+        "Pepper",
+        "Grated nutmeg (optional)"
+      ],
+      "instructions": [
+        "Cut the cheeses into small pieces and roughly grate them.",
+        "Rub the inside of a fondue pot with the cut garlic clove.",
+        "In the pot, pour the white wine and heat it over low heat.",
+        "Gradually add the grated cheese to the warm wine, stirring constantly with a wooden spoon, until all the cheese is melted and you have a smooth consistency.",
+        "In a bowl, mix the cornstarch with a little white wine. Add this mixture to the pot to thicken the fondue. Mix well.",
+        "Season with pepper and grated nutmeg to taste.",
+        "Place the fondue pot on a fondue burner and keep the fondue warm.",
+        "Cut the baguette into cubes or pieces for dipping into the fondue.",
+        "Dip the pieces of bread into the fondue and enjoy them coated with melted cheese.",
+        "Enjoy this delicious Savoyard Fondue, a specialty of the Auvergne-Rhône-Alpes region, with your loved ones for a convivial and flavorful experience!"
+      ]
+    },
+    {
+      "recipe": "Gratin Dauphinois",
+      "region": "Auvergne Rhone Alpes",
+      "ingredients": [
+        "1 kg of potatoes",
+        "500 ml of heavy cream",
+        "500 ml of milk",
+        "2 garlic cloves",
+        "100 g of grated Gruyère cheese",
+        "Grated nutmeg",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Peel and wash the potatoes thoroughly. Cut them into thin slices.",
+        "In a saucepan, heat the heavy cream, milk, and crushed garlic cloves over low heat. Season with salt, pepper, and grated nutmeg to taste. Let it infuse for a few minutes.",
+        "Generously butter a gratin dish.",
+        "Arrange a first layer of potato slices in the gratin dish. Pour some infused heavy cream over them. Repeat the process until you've used up all the potatoes and cream.",
+        "Sprinkle the grated Gruyère cheese over the gratin.",
+        "Place the gratin dish in the oven and bake the Gratin Dauphinois for about 1 hour, until the potatoes are tender and the top is golden and gratinated.",
+        "Remove the Gratin Dauphinois from the oven and let it rest for a few minutes before serving.",
+        "Serve the Gratin Dauphinois hot, accompanied by a green salad or as a side dish with meat or poultry.",
+        "Enjoy this delicious Gratin Dauphinois, a specialty of the Auvergne-Rhône-Alpes region, with its creamy texture and comforting flavor!"
+      ]
+    },
+    {
+      "recipe": "Dumplings",
+      "region": "Auvergne Rhone Alpes",
+      "ingredients": [
+        "250 g of flour",
+        "250 ml of milk",
+        "250 ml of water",
+        "100 g of butter",
+        "4 eggs",
+        "Salt",
+        "Pepper",
+        "Grated nutmeg (optional)"
+      ],
+      "instructions": [
+        "In a saucepan, heat the water, milk, butter, and a pinch of salt.",
+        "When the mixture starts to simmer, add the flour all at once. Stir vigorously with a wooden spoon until the dough comes away from the sides of the pan.",
+        "Remove the saucepan from the heat and let it cool for a few minutes.",
+        "Add the eggs one by one to the dough, mixing well after each addition. The dough should become smooth and homogeneous.",
+        "Season the dough with pepper and grated nutmeg to taste. Mix again to evenly distribute the seasonings.",
+        "Let the dough rest for about 30 minutes at room temperature.",
+        "Meanwhile, preheat your oven to 180°C (350°F, Gas Mark 4) and prepare a large buttered baking dish.",
+        "Using two tablespoons, form dumplings by taking a portion of dough and shaping it into an oval.",
+        "Arrange the dumplings in the buttered baking dish, spacing them slightly apart.",
+        "Place the baking dish in the oven and bake the dumplings for about 30 to 35 minutes, until they are golden brown.",
+        "Remove the dumplings from the oven and serve them hot, accompanied by a sauce of your choice (tomato sauce, béchamel sauce, etc.) and a green salad.",
+        "Enjoy these delicious Dumplings, a specialty of the Auvergne-Rhône-Alpes region, with their soft texture and flavorful taste!"
+      ]
+    },
+    {
+      "recipe": "Tartiflette",
+      "region": "Auvergne Rhone Alpes",
+      "ingredients": [
+        "1.5 kg of potatoes",
+        "200 g of smoked bacon lardons",
+        "1 onion",
+        "300 g of Reblochon cheese",
+        "20 cl of heavy cream",
+        "Salt and pepper",
+        "Olive oil"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Peel the potatoes and cut them into thick slices.",
+        "Cook the potatoes in salted water for about 10 minutes. They should not be fully cooked.",
+        "Meanwhile, in a pan, sauté the lardons with the chopped onion in a little olive oil until they are slightly golden.",
+        "In a buttered gratin dish, place a first layer of potatoes, then a layer of lardons with onion.",
+        "Cut the Reblochon cheese in half horizontally and place one half on top of the layer of potatoes and lardons.",
+        "Add a second layer of potatoes, a second layer of lardons and onions, then place the other half of the Reblochon on top.",
+        "Pour the heavy cream over the tartiflette. Season with salt and pepper to taste.",
+        "Bake the tartiflette for about 30 to 35 minutes, until the Reblochon cheese is melted and the top is golden.",
+        "Remove the tartiflette from the oven and let it rest for a few minutes before enjoying.",
+        "Serve the tartiflette hot, accompanied by a green salad for a balanced meal.",
+        "Enjoy this delicious Tartiflette, a specialty of the Auvergne-Rhône-Alpes region, with its melted cheese and flavorful potatoes!"
+      ]
+    },
+    {
+      "recipe": "Beef Bourguignon",
+      "region": "Burgundy Franche Comte",
+      "ingredients": [
+        "1.5 kg of beef (chuck, brisket)",
+        "200 g of smoked bacon lardons",
+        "200 g of button mushrooms",
+        "3 onions",
+        "3 carrots",
+        "3 cloves of garlic",
+        "750 ml of red wine (preferably Burgundy wine)",
+        "250 ml of beef broth",
+        "2 tablespoons of flour",
+        "2 tablespoons of butter",
+        "1 bouquet garni (thyme, bay leaf, parsley)",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Cut the beef into medium-sized pieces.",
+        "In a large pot, melt the butter over medium heat. Add the lardons and sauté them until golden. Remove the lardons from the pot and set them aside.",
+        "In the same pot, add the beef pieces and brown them on all sides.",
+        "Peel and slice the onions. Peel and crush the garlic cloves. Peel and cut the carrots into rounds.",
+        "Add the onions, garlic, carrots, and mushrooms to the pot. Sauté for a few minutes.",
+        "Sprinkle with flour and mix well to coat the beef and vegetables.",
+        "Pour the red wine and beef broth into the pot. Add the bouquet garni. Season with salt and pepper to taste.",
+        "Cover the pot and let simmer over low heat for about 2 to 3 hours, until the meat is tender and the flavors are well developed. Stir occasionally and add a little water if necessary.",
+        "Remove the beef pieces, vegetables, and bouquet garni from the pot, and place them on a warm serving dish.",
+        "Bring the sauce to a boil and let it reduce slightly to thicken.",
+        "Return the beef, vegetables, and lardons to the pot with the reduced sauce. Mix well to coat everything with the sauce.",
+        "Simmer for a few more minutes to warm the ingredients.",
+        "Serve the Beef Bourguignon hot, accompanied by potatoes, fresh pasta, or bread to enjoy the delicious sauce.",
+        "Enjoy this flavorful Beef Bourguignon, a specialty of the Burgundy-Franche-Comté region, with its rich flavors and tender meat in the company of your loved ones!"
+      ]
+    },
+    {
+      "recipe": "Coq au Vin",
+      "region": "Burgundy Franche Comte",
+      "ingredients": [
+        "1 rooster (about 2 kg), cut into pieces",
+        "200 g of smoked bacon lardons",
+        "200 g of button mushrooms",
+        "3 onions",
+        "3 carrots",
+        "3 cloves of garlic",
+        "750 ml of red wine (preferably Burgundy wine)",
+        "250 ml of chicken broth",
+        "2 tablespoons of flour",
+        "2 tablespoons of butter",
+        "1 bouquet garni (thyme, bay leaf, parsley)",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "In a large pot, melt the butter over medium heat. Add the lardons and sauté them until golden.",
+        "Remove the lardons from the pot and set them aside.",
+        "In the same pot, add the rooster pieces and brown them on all sides.",
+        "Peel and slice the onions. Peel and crush the garlic cloves. Peel and cut the carrots into rounds.",
+        "Add the onions, garlic, carrots, and mushrooms to the pot. Sauté for a few minutes.",
+        "Sprinkle with flour and mix well to coat the rooster pieces and vegetables.",
+        "Pour the red wine and chicken broth into the pot. Add the bouquet garni. Season with salt and pepper to taste.",
+        "Cover the pot and let simmer over low heat for about 2 hours, until the meat is tender and the flavors are well developed.",
+        "Remove the rooster pieces, vegetables, and bouquet garni from the pot, and place them on a warm serving dish.",
+        "Bring the sauce to a boil and let it reduce slightly to thicken.",
+        "Return the rooster, vegetables, and lardons to the pot with the reduced sauce. Mix well to coat everything with the sauce.",
+        "Simmer for a few more minutes to warm the ingredients.",
+        "Serve the Coq au Vin hot, accompanied by potatoes, fresh pasta, or bread to enjoy the delicious sauce.",
+        "Enjoy this flavorful Coq au Vin, a specialty of the Burgundy-Franche-Comté region, with its rich flavors and tender rooster meat in the company of your loved ones!"
+      ]
+    },
+    {
+      "recipe": "Burgundy Snails",
+      "region": "Burgundy Franche Comte",
+      "ingredients": [
+        "24 Burgundy snails (ready to cook)",
+        "150 g of butter",
+        "3 cloves of garlic",
+        "1 bunch of fresh parsley",
+        "Salt and pepper",
+        "24 empty snail shells (optional)",
+        "Breadsticks (for dipping)"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "In a bowl, mix softened butter with crushed garlic and chopped parsley. Season with salt and pepper to taste. Set aside.",
+        "Rinse the snails under cold water to remove excess salt and impurities.",
+        "Bring water to a boil in a saucepan. Blanch the snails in boiling water for about 10 minutes. Drain them.",
+        "Place the snails in the empty snail shells or in a buttered gratin dish.",
+        "Place a small amount of garlic parsley butter on each snail.",
+        "Bake the snails for about 10 to 15 minutes, until the garlic parsley butter is melted and the snails are hot.",
+        "Remove the snails from the oven and let them rest for a few minutes before enjoying.",
+        "Serve the Burgundy Snails hot, accompanied by breadsticks for dipping in the garlic parsley butter.",
+        "Enjoy these delicious Burgundy Snails, a specialty of the Burgundy-Franche-Comté region, with their unique flavor and tender texture!"
+      ]
+    },
+    {
+      "recipe": "Parsley Ham",
+      "region": "Burgundy Franche Comte",
+      "ingredients": [
+        "1 cooked ham (about 1.5 kg)",
+        "500 g of pork rind",
+        "1 bouquet garni (thyme, bay leaf, parsley)",
+        "2 onions",
+        "2 carrots",
+        "4 cloves of garlic",
+        "1 bunch of fresh parsley",
+        "4 shallots",
+        "5 cl of dry white wine",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "In a large pot, bring water to a boil and immerse the cooked ham, pork rind, bouquet garni, quartered onions, sliced carrots, and crushed garlic cloves. Let cook for about 1 hour.",
+        "Remove the ham from the pot and let it cool.",
+        "Strain and reserve the cooking broth.",
+        "Once the ham is cooled, remove the skin and fatty parts. Cut the ham into pieces and set aside.",
+        "Finely chop the fresh parsley and shallots in a bowl.",
+        "In a saucepan, heat the reserved cooking broth with the white wine. Add the chopped parsley and shallots. Let simmer for a few minutes.",
+        "Place the ham pieces in a terrine or a loaf pan. Pour the parsley mixture over the ham, making sure it's well coated.",
+        "Gently press the ham with a weight (like a board and canned goods) to compress it.",
+        "Let the parsley ham cool to room temperature, then refrigerate it for at least 24 hours to set.",
+        "Remove the parsley ham from the refrigerator and unmold it.",
+        "Serve the parsley ham in slices, accompanied by gherkins and country bread.",
+        "Enjoy this delicious Parsley Ham, a specialty of the Burgundy-Franche-Comté region, with its flavorful blend of ham, parsley, and shallots!"
+      ]
+    },
+    {
+      "recipe": "Crepes",
+      "region": "Brittany",
+      "ingredients": [
+        "250 g of flour",
+        "4 eggs",
+        "500 ml of milk",
+        "50 g of melted butter",
+        "2 tablespoons of sugar",
+        "A pinch of salt"
+      ],
+      "instructions": [
+        "In a large bowl, mix the flour, sugar, and salt.",
+        "Make a well in the center and crack the eggs into it.",
+        "Add the melted butter and start mixing while gradually incorporating the flour.",
+        "Pour the milk gradually while continuing to mix until you get a smooth and homogeneous batter.",
+        "Let the batter rest for at least 30 minutes at room temperature.",
+        "In a lightly buttered non-stick pan, heat over medium heat.",
+        "Pour a small ladle of crepe batter into the hot pan and tilt the pan to spread the batter evenly over the entire surface.",
+        "Cook the crepe for about 1 to 2 minutes until the underside is golden.",
+        "Flip the crepe using a spatula and cook the other side for about 1 minute.",
+        "Remove the crepe from the pan and repeat the process with the remaining crepe batter.",
+        "Top the crepes with your choice of toppings: sugar, jam, spread, fruits, whipped cream, etc.",
+        "Fold the crepes into quarters, triangles, or rolls, and serve them warm.",
+        "Enjoy these delicious Crêpes, a specialty of the Brittany region, for a delightful and convivial moment!"
+      ]
+    },
+    {
+      "recipe": "Far Breton",
+      "region": "Brittany",
+      "ingredients": [
+        "250 g of flour",
+        "150 g of sugar",
+        "4 eggs",
+        "1 liter of milk",
+        "200 g of pitted prunes",
+        "A pinch of salt",
+        "Butter (for greasing the mold)"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "In a large bowl, mix the flour, sugar, and salt.",
+        "Make a well in the center and crack the eggs into it. Mix well.",
+        "Gradually add the milk while continuing to mix until you get a smooth and homogeneous batter.",
+        "Generously butter a gratin dish or a cake mold.",
+        "Arrange the pitted prunes in the bottom of the mold.",
+        "Pour the batter over the prunes, making sure to distribute them evenly.",
+        "Place the Far Breton in the oven and bake for about 40 to 45 minutes, until the top is golden.",
+        "Remove the Far Breton from the oven and let it cool slightly before unmolding.",
+        "Serve the Far Breton warm or at room temperature, cut into generous slices.",
+        "Enjoy this delicious Far Breton, a specialty of the Brittany region, with its soft texture and flavorful soaked prunes!"
+      ]
+    },
+    {
+      "recipe": "Buckwheat Galettes",
+      "region": "Brittany",
+      "ingredients": [
+        "250 g of buckwheat flour",
+        "2 eggs",
+        "500 ml of water",
+        "A pinch of salt"
+      ],
+      "instructions": [
+        "In a large bowl, mix the buckwheat flour and salt.",
+        "Make a well in the center and crack the eggs into it.",
+        "Pour a little water and start mixing while gradually incorporating the flour.",
+        "Add the rest of the water gradually while continuing to mix until you get a smooth and homogeneous batter. The batter should have a fairly liquid consistency.",
+        "Let the batter rest for at least 1 hour at room temperature.",
+        "In a crepe pan or a large non-stick skillet, heat over medium heat.",
+        "Pour a ladle of buckwheat batter into the hot pan and tilt the pan to spread the batter evenly over the entire surface.",
+        "Cook the galette for about 2 to 3 minutes until the underside is golden and small bubbles form on the surface.",
+        "Flip the galette using a spatula and cook the other side for about 1 to 2 minutes.",
+        "Remove the galette from the pan and repeat the process with the remaining buckwheat batter.",
+        "Top the buckwheat galettes with your choice of fillings: ham, cheese, egg, vegetables, sausages, etc.",
+        "Fold the buckwheat galettes into a wallet shape or a pouch, and serve them warm.",
+        "Enjoy these delicious Buckwheat Galettes, a specialty of the Brittany region, for a savory and flavorful meal!"
+      ]
+    },
+    {
+      "recipe": "Kouign Amann",
+      "region": "Brittany",
+      "ingredients": [
+        "500 g of wheat flour",
+        "300 g of unsalted butter",
+        "300 g of sugar",
+        "20 g of fresh baker's yeast",
+        "200 ml of warm water",
+        "A pinch of salt"
+      ],
+      "instructions": [
+        "In a bowl, dissolve the fresh yeast in warm water and let it rest for about 10 minutes, until the yeast starts to foam.",
+        "In a large bowl, mix the flour and salt. Add the dissolved yeast and mix until you get a homogeneous dough.",
+        "Knead the dough for about 10 minutes, until it becomes smooth and elastic.",
+        "Cover the dough with a clean cloth and let it rest for about 1 hour, until it doubles in size.",
+        "Meanwhile, prepare the butter by gently beating it to make it more malleable.",
+        "Sprinkle the work surface with sugar and roll out the dough into a large rectangle.",
+        "Spread the butter over the entire surface of the dough, then generously sprinkle with sugar.",
+        "Fold the dough in three lengthwise, as if folding a wallet.",
+        "Turn the dough a quarter turn and roll it out again into a rectangle. Sprinkle with sugar.",
+        "Fold the dough in three again and repeat this process two more times, sprinkling sugar each time.",
+        "Generously butter a tart or cake pan and sprinkle with sugar.",
+        "Place the dough in the buttered and sugared pan, making sure to distribute the sugar on top.",
+        "Let the dough rest in the pan for about 30 minutes.",
+        "Preheat your oven to 200°C (390°F, Gas Mark 6-7).",
+        "Place the Kouign-Amann in the oven and bake for about 45 minutes to 1 hour, until it is well golden and caramelized.",
+        "Remove the Kouign-Amann from the oven and let it cool slightly before unmolding.",
+        "Serve the Kouign-Amann warm or at room temperature, cut into generous slices.",
+        "Enjoy this delicious Breton specialty, the Kouign-Amann, with its crispy exterior and soft, sweet, and buttery interior!"
+      ]
+    },
+    {
+      "recipe": "Easter Pate",
+      "region": "Centre Val de Loire",
+      "ingredients": [
+        "500 g of shortcrust pastry",
+        "300 g of pork meat (shoulder or loin)",
+        "200 g of sausage meat",
+        "200 g of cooked ham",
+        "4 eggs + 1 egg (for egg wash)",
+        "1 onion",
+        "2 garlic cloves",
+        "Chopped fresh parsley",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "In a pan, sauté the finely chopped onion and garlic in a little olive oil until they are slightly golden.",
+        "Add the minced pork meat and cook until it is well browned and cooked through.",
+        "In a large bowl, mix the sausage meat, diced ham, chopped hard-boiled eggs, chopped parsley, and cooked pork meat.",
+        "Season with salt and pepper to taste, then mix all the ingredients well.",
+        "Roll out half of the shortcrust pastry in a buttered and floured loaf pan, allowing the edges to hang over the sides.",
+        "Spread the meat mixture into the pan, smoothing it with a spoon.",
+        "Cover the mixture with the remaining shortcrust pastry and seal the edges by pressing with your fingers.",
+        "Make a vent in the center of the pâté by lightly piercing the pastry with a knife.",
+        "Beat the remaining egg in a bowl and brush the top of the pâté with it to glaze.",
+        "Place the Easter Pâté in the oven and bake for about 45 minutes to 1 hour, until it is well browned.",
+        "Allow the pâté to cool before unmolding and slicing it.",
+        "Serve the Easter Pâté at room temperature, accompanied by a green salad.",
+        "Enjoy this delicious Easter Pâté, a specialty of the Centre-Val de Loire region, during your Easter celebrations or for a friendly meal!"
+      ]
+    },
+    {
+      "recipe": "Rillettes",
+      "region": "Centre Val de Loire",
+      "ingredients": [
+        "500 g of pork meat (shoulder or loin)",
+        "200 g of pork fat",
+        "2 onions",
+        "2 garlic cloves",
+        "2 sprigs of thyme",
+        "2 bay leaves",
+        "Salt and pepper",
+        "1 pinch of four spices",
+        "Country bread (for serving)"
+      ],
+      "instructions": [
+        "Cut the pork meat into large pieces.",
+        "In a high-sided pan, melt the pork fat over low heat.",
+        "Add the pieces of pork meat and brown them until they are golden brown.",
+        "Peel and finely chop the onions. Peel and crush the garlic cloves.",
+        "Add the chopped onions, crushed garlic, thyme, bay leaves, salt, pepper, and four spices to the pan. Mix well to distribute the spices.",
+        "Cover the pan and let it cook over low heat for about 2 to 3 hours, until the meat is tender and easily falls apart.",
+        "Remove the pieces of meat from the pan and place them in a large bowl.",
+        "Shred the meat using a fork to achieve a shredded texture. Be careful not to remove all the fat, as it contributes to the texture and flavor of the rillettes.",
+        "Allow it to cool slightly, then pour the rillettes into clean and sterilized glass jars.",
+        "Let the rillettes cool completely before placing them in the refrigerator for at least 24 hours, to allow the flavors to develop.",
+        "Serve the rillettes well chilled on slices of toasted country bread.",
+        "Enjoy these delicious rillettes, a specialty of the Centre-Val de Loire region, as an appetizer or starter, accompanied by pickles and green salad."
+      ]
+    },
+    {
+      "recipe": "Sainte Maure de Touraine",
+      "region": "Centre Val de Loire",
+      "ingredients": [
+        "2 liters of fresh goat's milk",
+        "1/4 tablespoon of lactic ferments",
+        "1/4 tablespoon of rennet",
+        "Salt"
+      ],
+      "instructions": [
+        "In a large pot, heat the goat's milk to a temperature of 22 to 25°C (72 to 77°F).",
+        "Add the lactic ferments and mix well to disperse them in the milk.",
+        "Cover the pot and let the milk ferment for about 1 to 2 hours, until it thickens slightly.",
+        "Add the diluted rennet in a little water to the milk and mix gently for a few seconds.",
+        "Cover the pot and let the milk coagulate for about 1 hour, until it forms a curd.",
+        "Cut the curdled milk into medium-sized pieces using a knife.",
+        "Sprinkle the curd pieces with salt, turning them to evenly distribute the salt.",
+        "Place the curd pieces in cheese molds that have been perforated to allow for drainage.",
+        "Let the cheese drain for about 24 hours at room temperature, turning the molds occasionally for even draining.",
+        "Place the drained cheese in a cool and humid place, ideally a cheese cave, and let it mature for at least 10 days to 2 weeks.",
+        "Turn the cheese regularly during the aging period for even maturation.",
+        "The Sainte-Maure de Touraine is ready to be enjoyed when it develops a characteristic ash-coated rind and a creamy texture inside.",
+        "Serve the Sainte-Maure de Touraine on a cheese platter with fruits, nuts, and fresh bread.",
+        "Enjoy this delicious Sainte-Maure de Touraine, an emblematic cheese of the Centre-Val de Loire region, with its subtle goat flavor and creamy taste!"
+      ]
+    },
+    {
+      "recipe": "Tarte Tatin",
+      "region": "Centre Val de Loire",
+      "ingredients": [
+        "6 to 8 apples (Golden or Reinette variety)",
+        "150 g of sugar",
+        "80 g of butter",
+        "1 roll of puff pastry"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Peel and core the apples, then cut them into quarters.",
+        "In a high-sided skillet, melt the sugar over medium heat until it turns into golden caramel.",
+        "Add the butter cut into pieces to the caramel and mix well to melt it.",
+        "Arrange the apple quarters in the skillet, rounded side down, packing them tightly.",
+        "Let the apples cook in the caramel for about 10 minutes, until they are slightly softened.",
+        "Meanwhile, unroll the puff pastry and cut out a circle slightly larger than the skillet.",
+        "Place the pastry over the apples in the skillet, tucking the edges inside the skillet.",
+        "Place the skillet in the preheated oven and bake for about 25 minutes, until the pastry is golden brown.",
+        "Remove the skillet from the oven and let it rest for a few minutes.",
+        "Place a serving plate over the skillet, then quickly flip the whole thing to unmold the tart. Be cautious and use oven mitts to protect your hands, as the caramel can be very hot.",
+        "Serve the Tarte Tatin warm, accompanied by fresh cream or vanilla ice cream.",
+        "Enjoy this delicious Tarte Tatin, a specialty of the Centre-Val de Loire region, with its caramelized and tender apple filling and crispy puff pastry!"
+      ]
+    },
+    {
+      "recipe": "Brocciu",
+      "region": "Corsica",
+      "ingredients": [
+        "2 liters of ewe's milk",
+        "Juice of 2 lemons",
+        "Salt"
+      ],
+      "instructions": [
+        "In a large pot, heat the ewe's milk over medium heat until it reaches around 85°C (185°F). Do not let it boil.",
+        "Remove the pot from the heat and slowly add the lemon juice while gently stirring.",
+        "Let the mixture rest for about 10 to 15 minutes, until the curd and whey separate.",
+        "Place a fine strainer or a clean cloth over a large container to collect the whey.",
+        "Pour the curdled milk mixture into the strainer or onto the cloth to separate the brocciu.",
+        "Allow the brocciu to drain for about 2 to 3 hours.",
+        "Sprinkle the drained brocciu with salt to taste.",
+        "The brocciu is ready to be enjoyed. You can consume it fresh or use it in various Corsican dishes such as tourtes, cannelloni, fritters, or tarts.",
+        "Savor the delicious Brocciu, a specialty of the Corsica region, with its mild and creamy flavor that complements numerous traditional dishes!"
+      ]
+    },
+    {
+      "recipe": "Civet de sanglier",
+      "region": "Corsica",
+      "ingredients": [
+        "1.5 kg of wild boar meat (shoulder, leg)",
+        "200 g of smoked bacon lardons",
+        "2 onions",
+        "2 carrots",
+        "2 celery stalks",
+        "4 garlic cloves",
+        "2 bay leaves",
+        "2 sprigs of thyme",
+        "500 ml of robust red wine",
+        "500 ml of meat broth",
+        "2 tablespoons of olive oil",
+        "2 tablespoons of flour",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Cut the wild boar meat into medium-sized pieces.",
+        "In a Dutch oven, heat the olive oil over medium heat.",
+        "Add the wild boar pieces and brown them on all sides. Remove them from the pot and set them aside.",
+        "In the same pot, add the bacon lardons and sauté them until they are golden brown.",
+        "Peel and finely chop the onions. Peel and slice the carrots. Cut the celery into small pieces. Peel and crush the garlic cloves.",
+        "Add the chopped onions, carrots, celery, and garlic to the pot. Sauté for a few minutes.",
+        "Sprinkle with flour and mix well to coat the vegetables.",
+        "Return the wild boar pieces to the pot with the vegetables.",
+        "Pour the red wine and meat broth into the pot. Add the bay leaves and thyme sprigs. Season with salt and pepper to taste.",
+        "Cover the pot and let it simmer over low heat for about 2 to 3 hours, until the meat is tender and the flavors are well developed. Stir occasionally and add a little water if needed.",
+        "Remove the wild boar pieces and vegetables from the pot and place them on a warm serving dish.",
+        "Bring the sauce to a boil and let it reduce slightly to thicken.",
+        "Return the wild boar pieces and vegetables to the pot with the reduced sauce. Mix well to coat everything with the sauce.",
+        "Simmer for a few more minutes to warm the ingredients.",
+        "Serve the Civet de sanglier hot, accompanied by sautéed potatoes or fresh pasta.",
+        "Savor this delicious Civet de sanglier, a specialty of the Corsica region, with its flavorful meat and richly flavored sauce!"
+      ]
+    },
+    {
+      "recipe": "Fiadone",
+      "region": "Corsica",
+      "ingredients": [
+        "500 g of fresh brocciu cheese (Corsican cheese)",
+        "4 eggs",
+        "150 g of sugar",
+        "Zest of one lemon",
+        "1 tablespoon of flour",
+        "1 tablespoon of cornstarch",
+        "1 pinch of salt"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 6).",
+        "In a large bowl, mash the brocciu cheese with a fork until smooth.",
+        "Add the eggs one by one, mixing well after each addition.",
+        "Add the sugar, lemon zest, flour, cornstarch, and a pinch of salt. Mix until you get a homogeneous mixture.",
+        "Butter a tart pan or a rectangular mold and pour the mixture inside.",
+        "Place the Fiadone in the oven and bake for about 40 to 45 minutes, until the top is golden.",
+        "Remove the Fiadone from the oven and let it cool slightly before unmolding.",
+        "Serve the Fiadone at room temperature or cold, cut into generous slices.",
+        "Enjoy this delicious Fiadone, a specialty of the Corsica region, with its creamy texture and subtle lemon fragrance!"
+      ]
+    },
+    {
+      "recipe": "Figatellu",
+      "region": "Corsica",
+      "ingredients": [
+        "500 g of pork liver",
+        "500 g of minced pork",
+        "2 teaspoons of salt",
+        "1 teaspoon of ground black pepper",
+        "1 teaspoon of Espelette pepper",
+        "1 teaspoon of dried oregano",
+        "1 teaspoon of dried rosemary",
+        "1 teaspoon of dried thyme",
+        "Pork casing (for stuffing)"
+      ],
+      "instructions": [
+        "Cut the pork liver into small pieces.",
+        "In a large bowl, mix the pork liver, minced pork, salt, black pepper, Espelette pepper, oregano, rosemary, and thyme. Mix well to evenly distribute the spices.",
+        "Marinate the mixture for at least 2 hours, or even overnight, in the refrigerator for the flavors to develop.",
+        "Thoroughly rinse the pork casing with cold water to clean it.",
+        "Place the casing on a sausage stuffer tube or use a piping bag for stuffing.",
+        "Fill the casing with the meat and liver mixture, leaving some empty space at each end for handling.",
+        "Create individual portions by tying the casing at regular intervals with butcher's twine.",
+        "Let the Figatelli rest for about 1 hour for the flavors to meld.",
+        "Grill the Figatelli on a preheated barbecue or griddle, turning them regularly, until they are nicely browned and cooked through.",
+        "Remove the butcher's twine before serving.",
+        "Serve the Figatelli hot, accompanied by crusty bread and grilled vegetables.",
+        "Enjoy this delicious Figatellu, a specialty of the Corsica region, with its smoky and spicy flavor that delights charcuterie enthusiasts!"
+      ]
+    },
+    {
+      "recipe": "Baeckeoffe",
+      "region": "Grand Est",
+      "ingredients": [
+        "1 kg of pork meat (shoulder, belly)",
+        "500 g of beef meat (chuck, blade)",
+        "500 g of lamb meat (shoulder, neck)",
+        "1.5 kg of potatoes",
+        "3 onions",
+        "3 carrots",
+        "1 bouquet garni (thyme, bay leaves, parsley)",
+        "4 cloves of garlic",
+        "1 bottle of Alsace white wine (preferably Riesling)",
+        "Salt and pepper",
+        "Olive oil",
+        "Butter (for the dish)"
+      ],
+      "instructions": [
+        "The day before, cut the meats into pieces and place them in a large container.",
+        "Peel and thinly slice the onions. Peel the carrots and cut them into rounds.",
+        "Add the onions, carrots, bouquet garni, and crushed garlic cloves to the container with the meats.",
+        "Pour the white wine over the meats and vegetables, making sure they are well covered. Cover the container and refrigerate overnight to marinate.",
+        "The next day, preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Peel and thinly slice the potatoes.",
+        "Generously butter a baking dish.",
+        "In the buttered baking dish, create a first layer of potatoes.",
+        "Drain the meats and vegetables from the marinade and place them on top of the layer of potatoes in the baking dish.",
+        "Cover the meats with a second layer of potatoes.",
+        "Pour the marinade over the potatoes and meats, ensuring that the liquid almost reaches the top of the dish.",
+        "Cover the baking dish with aluminum foil to prevent evaporation during cooking.",
+        "Place the Baeckeoffe in the oven and bake for about 3 to 4 hours, until the meats are tender and the potatoes are well cooked.",
+        "Serve the Baeckeoffe hot, accompanied by a green salad and a good Alsace-style bread.",
+        "Enjoy this delicious Baeckeoffe, a specialty of the Grand Est region, with its rich and comforting flavors!"
+      ]
+    },
+
+
+    {
+"recipe": "kulomtihztotat",
+"region": "mamashefena",
+"ingredients": [
+    "give me all recipes",
+    "recipes",
+    "provide all the traditional recipes",
+    "list",
+    "list of recipes please",
+    "all the traditional recipes",
+    "all recipes",
+    "list them"
+
+],
+
+"instructions": [
+
+    "Could you kindly type 'list' please? ",
+    "Could you please just type 'list'?",
+    "For instance, write type 'list', please."
+  ]
+},
+    {
+  "recipe": "Samoussas",
+  "region": "Outre mer",
+  "ingredients": [
+        "2 cups all-purpose flour",
+        "1/4 teaspoon salt",
+        "2 tablespoons vegetable oil",
+        "1/2 cup water",
+        "1 cup ground meat (chicken, beef, or pork)",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon curry powder",
+        "1/2 teaspoon ground cumin",
+        "Salt and pepper to taste",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "In a bowl, mix the flour and salt. Add the oil and water, then knead until the dough is smooth.",
+        "Cover the dough and let it rest for about 30 minutes.",
+        "In a skillet, cook the ground meat, onion, and garlic until the meat is browned.",
+        "Add the curry powder, cumin, salt, and pepper. Mix well and let the mixture cool.",
+        "Roll out the dough into thin circles and cut each circle in half.",
+        "Place a spoonful of the meat mixture on one half of each circle. Fold the other half over to form a triangle.",
+        "Seal the edges by pressing with a fork.",
+        "Heat oil in a pan and fry the samoussas until golden brown on both sides.",
+        "Serve hot as a delicious snack or appetizer."
+      ]
+    },
+
+
+{
+  "recipe": "Poulet Coco (Chicken in Coconut Sauce)",
+  "region": "Outre mer",
+  "ingredients": [
+        "4 chicken breasts, boneless and skinless",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 bell pepper, chopped",
+        "1 tablespoon curry powder",
+        "1 teaspoon thyme",
+        "1 teaspoon paprika",
+        "1 can (14 oz) coconut milk",
+        "Salt and pepper to taste",
+        "Fresh cilantro, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Season the chicken breasts with salt, pepper, thyme, and paprika.",
+        "In a skillet, heat oil over medium heat. Add the chicken and cook until browned on both sides. Remove and set aside.",
+        "In the same skillet, sauté the onion, garlic, and bell pepper until softened.",
+        "Add the curry powder and cook for a minute, stirring continuously.",
+        "Return the chicken to the skillet and pour in the coconut milk. Stir to combine.",
+        "Simmer over low heat for about 20-25 minutes, or until the chicken is cooked through and the sauce has thickened.",
+        "Adjust seasoning with salt and pepper as needed.",
+        "Garnish with chopped cilantro and serve the Poulet Coco over rice or with your favorite side dishes."
+      ]
+    },
+
+{
+  "recipe": "Acoupa BoucanE",
+  "region": "Outre mer",
+  "ingredients": [
+        "4 acoupa fish fillets",
+        "2 tablespoons smoked paprika",
+        "1 tablespoon ground black pepper",
+        "1 tablespoon garlic powder",
+        "1 tablespoon onion powder",
+        "1 teaspoon salt",
+        "1/4 cup vegetable oil",
+        "Banana leaves (for wrapping)"
+      ],
+      "instructions": [
+        "In a bowl, mix the smoked paprika, black pepper, garlic powder, onion powder, and salt.",
+        "Rub the spice mixture onto the acoupa fish fillets, covering them evenly.",
+        "Let the fish marinate in the spice mixture for about 30 minutes.",
+        "Preheat a grill or barbecue to medium-high heat.",
+        "Brush the banana leaves with a little vegetable oil to prevent sticking.",
+        "Wrap each marinated fish fillet in a banana leaf and secure with toothpicks.",
+        "Grill the wrapped fish fillets for about 5-7 minutes on each side, or until the fish is cooked and flakes easily with a fork.",
+        "Serve the Acoupa Boucané with rice and a side salad."
+      ]
+    },
+
+{
+  "recipe": "Ti Punch",
+  "region": "Outre mer",
+  "ingredients": [
+        "1 1/2 oz white rum",
+        "1/2 oz fresh lime juice",
+        "1 teaspoon cane sugar",
+        "Lime zest (optional)"
+      ],
+      "instructions": [
+        "In a glass, muddle the cane sugar and lime juice until the sugar is dissolved.",
+        "Add the white rum and stir to combine.",
+        "Add ice cubes to the glass.",
+        "Garnish with a twist of lime zest if desired.",
+        "Stir gently and enjoy this refreshing Ti'Punch cocktail!"
+      ]
+    },
+
+
+{
+  "recipe": "Colombo",
+  "region": "Outre mer",
+  "ingredients": [
+        "2 lbs chicken, cut into pieces",
+        "2 tablespoons Colombo spice blend (turmeric, coriander, cumin, fenugreek, mustard, black pepper, cloves, ginger, cinnamon)",
+        "2 onions, chopped",
+        "4 cloves garlic, minced",
+        "2 tablespoons vegetable oil",
+        "2 potatoes, peeled and diced",
+        "2 carrots, peeled and sliced",
+        "1 bell pepper, chopped",
+        "1 cup coconut milk",
+        "2 cups chicken broth",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a bowl, marinate the chicken pieces with the Colombo spice blend.",
+        "In a large pot, heat the vegetable oil over medium heat. Add the onions and garlic, and sauté until fragrant.",
+        "Add the marinated chicken and cook until browned on all sides.",
+        "Add the potatoes, carrots, and bell pepper. Stir to combine.",
+        "Pour in the coconut milk and chicken broth. Season with salt and pepper.",
+        "Bring to a boil, then reduce the heat to low. Cover and simmer for about 30-40 minutes, or until the chicken is cooked and the vegetables are tender.",
+        "Adjust seasoning if necessary.",
+        "Serve the Colombo stew hot with rice or bread."
+      ]
+    },
+
+{
+  "recipe": "Accras de Morue",
+  "region": "Outre mer",
+  "ingredients": [
+        "2 cups salted codfish, soaked and flaked",
+        "1 cup all-purpose flour",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon baking powder",
+        "1 teaspoon paprika",
+        "1 teaspoon thyme",
+        "1 teaspoon hot sauce (optional)",
+        "1/2 cup water",
+        "Salt and pepper to taste",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "In a bowl, combine the salted codfish, flour, onion, garlic, baking powder, paprika, thyme, and hot sauce (if using).",
+        "Gradually add water to form a thick batter. Mix well.",
+        "Heat oil in a deep frying pan or pot over medium heat.",
+        "Drop spoonfuls of the batter into the hot oil and fry until golden brown and crispy.",
+        "Remove the accras with a slotted spoon and drain on paper towels.",
+        "Serve the Accras de Morue as a delightful appetizer or snack."
+      ]
+    },
+
+{
+  "recipe": "Cari Poulet",
+  "region": "Outre mer",
+  "ingredients": [
+        "2 lbs chicken pieces, bone-in and skinless",
+        "2 onions, chopped",
+        "4 cloves garlic, minced",
+        "2 tablespoons curry powder",
+        "1 teaspoon turmeric",
+        "1 teaspoon cumin",
+        "1 teaspoon coriander",
+        "1 teaspoon ginger",
+        "2 potatoes, peeled and diced",
+        "2 carrots, peeled and sliced",
+        "1 cup coconut milk",
+        "2 cups chicken broth",
+        "2 bay leaves",
+        "1 cinnamon stick",
+        "2 tablespoons vegetable oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a large bowl, marinate the chicken pieces with curry powder, turmeric, cumin, coriander, ginger, salt, and pepper.",
+        "In a large pot, heat the vegetable oil over medium heat. Add the onions and garlic, and sauté until translucent.",
+        "Add the marinated chicken and cook until browned on all sides.",
+        "Stir in the potatoes and carrots.",
+        "Pour in the coconut milk and chicken broth. Add bay leaves and cinnamon stick.",
+        "Bring to a boil, then reduce the heat to low. Cover and simmer for about 30-40 minutes, or until the chicken is cooked and the vegetables are tender.",
+        "Adjust seasoning if necessary.",
+        "Serve the Cari Poulet hot with rice or roti."
+      ]
+    },
+{
+  "recipe": "Boudin Antillais",
+  "region": "Outre mer",
+  "ingredients": [
+        "2 cups pork blood, cooked and diced",
+        "1/2 lb pork shoulder, diced",
+        "1/2 cup cooked rice",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 bell pepper, chopped",
+        "2 tablespoons vinegar",
+        "2 tablespoons rum",
+        "1 teaspoon thyme",
+        "1 teaspoon allspice",
+        "Salt and pepper to taste",
+        "Casings (sausage skins)"
+      ],
+      "instructions": [
+        "In a large bowl, combine the pork blood, pork shoulder, rice, onion, garlic, bell pepper, vinegar, rum, thyme, allspice, salt, and pepper.",
+        "Mix well to combine all the ingredients.",
+        "Stuff the mixture into casings, forming sausages of the desired length.",
+        "Tie the ends of the casings to secure the sausages.",
+        "Prick any air bubbles with a pin to prevent bursting during cooking.",
+        "In a pot of boiling water, add the sausages and cook for about 20-25 minutes.",
+        "Remove the sausages from the water and let them cool slightly before slicing and serving.",
+        "Enjoy the flavorful Boudin Antillais as a unique and traditional dish."
+      ]
+    },
+
+
+
+    {
+      "recipe": "Choucroute",
+      "region": "Grand Est",
+      "ingredients": [
+        "1 raw sauerkraut (about 1.5 kg)",
+        "500 g of smoked pork belly",
+        "500 g of smoked pork shoulder",
+        "500 g of Frankfurter sausages",
+        "500 g of Strasbourg sausages",
+        "500 g of garlic sausage",
+        "500 g of potatoes",
+        "2 onions",
+        "4 cloves",
+        "3 bay leaves",
+        "1 tablespoon of cumin seeds",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Rinse the sauerkraut under cold water to remove excess salt.",
+        "In a large pot, spread the sauerkraut, onions studded with cloves, bay leaves, and cumin seeds.",
+        "Place the smoked pork belly and smoked pork shoulder on top of the sauerkraut.",
+        "Cover the pot and let it simmer over low heat for about 1 hour.",
+        "Add the Frankfurter sausages, Strasbourg sausages, and garlic sausage to the pot. Continue cooking for about 30 minutes.",
+        "Meanwhile, peel the potatoes and steam or boil them in salted water until tender.",
+        "When the sauerkraut and meats are cooked, remove them from the pot and place them on a warm serving platter.",
+        "Serve the sauerkraut with the cooked potatoes on the side. Season with salt and pepper to taste.",
+        "Enjoy this delicious Choucroute, a specialty of the Grand Est region, with mustard and a good glass of Alsatian white wine!"
+      ]
+    },
+    {
+      "recipe": "Quiche Lorraine",
+      "region": "Grand Est",
+      "ingredients": [
+        "1 pie crust",
+        "200 g of smoked bacon lardons",
+        "3 eggs",
+        "200 ml of heavy cream",
+        "200 g of grated cheese (Gruyère or Emmental)",
+        "Salt and pepper",
+        "Nutmeg (optional)"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Roll out the pie crust in a buttered tart pan and prick the bottom with a fork.",
+        "In a pan, cook the smoked bacon lardons until they are slightly browned.",
+        "In a bowl, beat the eggs with the heavy cream. Add the grated cheese and mix well. Season with salt, pepper, and optionally, grated nutmeg to taste.",
+        "Spread the cooked lardons over the bottom of the crust, then pour the egg-cream-cheese mixture over them.",
+        "Place the Quiche Lorraine in the oven and bake for about 30 to 35 minutes, until the crust is golden and the filling is set.",
+        "Remove the Quiche Lorraine from the oven and let it cool slightly before enjoying.",
+        "Serve the Quiche Lorraine warm or at room temperature, accompanied by a green salad.",
+        "Savor this delicious Quiche Lorraine, a specialty of the Grand Est region, with its creamy filling and savory taste!"
+      ]
+    },
+    {
+      "recipe": "Flammekueche",
+      "region": "Grand Est",
+      "ingredients": [
+        "250 g of flour",
+        "125 ml of warm water",
+        "1 tablespoon of olive oil",
+        "1 pinch of salt",
+        "200 g of heavy cream",
+        "200 g of smoked bacon lardons",
+        "2 onions",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "In a large bowl, mix the flour, warm water, olive oil, and salt to form a homogeneous dough.",
+        "Knead the dough for a few minutes until smooth and elastic. Cover it with a clean cloth and let it rest for about 30 minutes.",
+        "Meanwhile, preheat your oven to the highest temperature.",
+        "Peel and slice the onions.",
+        "On a lightly floured surface, roll out the dough into a thin rectangular or oval shape.",
+        "Place the rolled-out dough on a baking sheet lined with parchment paper.",
+        "Generously spread the heavy cream over the rolled-out dough, leaving a free border all around.",
+        "Distribute the smoked bacon lardons and sliced onions over the heavy cream.",
+        "Season with salt and pepper to your taste.",
+        "Place the Flammekueche in the oven and bake for about 10 to 15 minutes, until the crust is crispy and slightly golden.",
+        "Remove the Flammekueche from the oven and cut it into slices.",
+        "Serve the Flammekueche hot and enjoy it immediately.",
+        "Savor this delicious Flammekueche, a specialty of the Grand Est region, with its creamy topping and flavorful taste!"
+      ]
+    },
+    {
+      "recipe": "Flamiche",
+      "region": "Hauts de France",
+      "ingredients": [
+        "1 pie crust",
+        "500 g of leeks",
+        "200 g of smoked bacon lardons",
+        "3 eggs",
+        "200 ml of heavy cream",
+        "100 g of Maroilles cheese (or another soft cheese)",
+        "Salt and pepper",
+        "Butter (for cooking)"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Roll out the pie crust in a buttered tart pan and prick the bottom with a fork.",
+        "Wash and finely slice the leeks.",
+        "In a pan, melt some butter over medium heat. Add the smoked bacon lardons and lightly brown them.",
+        "Add the sliced leeks to the pan and cook for about 10 minutes until tender. Season with salt and pepper to your taste.",
+        "In a bowl, beat the eggs with the heavy cream. Add the leek and bacon mixture to the bowl and mix well.",
+        "Pour the egg-cream-leek-bacon mixture onto the crust in the tart pan.",
+        "Cut the Maroilles cheese into slices and arrange them on top of the tart.",
+        "Place the Flamiche in the oven and bake for about 30 to 35 minutes, until the crust is golden and the filling is set.",
+        "Remove the Flamiche from the oven and let it cool slightly before enjoying.",
+        "Serve the Flamiche warm, accompanied by a green salad for a balanced meal.",
+        "Enjoy this delicious Flamiche, a specialty of the Hauts-de-France region, with its rich and melting flavor thanks to Maroilles!"
+      ]
+    },
+    {
+      "recipe": "Mussels and Fries",
+      "region": "Hauts de France",
+      "ingredients": [
+        "2 kg of fresh mussels",
+        "1 kg of potatoes",
+        "2 shallots",
+        "2 garlic cloves",
+        "1 bunch of parsley",
+        "25 cl of dry white wine",
+        "20 cl of heavy cream (optional)",
+        "Butter",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Start by preparing the potatoes. Peel and cut them into fries. Rinse them in cold water to remove starch, then drain and dry them with a clean towel.",
+        "In a large frying pan, heat frying oil to about 160°C (320°F). Fry the fries in the hot oil for about 5 minutes until they are lightly golden. Remove them from the oil and drain them on paper towels. Then increase the oil temperature to about 180°C (356°F) and fry the fries again until they are crispy. Remove them from the oil, drain them again, and lightly salt them.",
+        "While the fries are cooking, prepare the mussels. Wash the mussels in cold water to remove sand and impurities. Remove the beards if necessary. Discard mussels that are already open or broken.",
+        "In a large pot, melt some butter over medium heat. Add the minced shallots and crushed garlic. Sauté for a few minutes until they are slightly golden.",
+        "Add the mussels to the pot and mix them with the shallots and garlic. Pour in the dry white wine and add the bunch of parsley. Cover the pot and cook over high heat for about 5 to 7 minutes until the mussels open.",
+        "Remove the bunch of parsley and optionally add the heavy cream for a creamier sauce. Mix well.",
+        "Serve the hot mussels in large shallow bowls, accompanied by the crispy fries.",
+        "Enjoy these delicious Mussels and Fries in the style of Hauts-de-France, dipping them into the sauce and savoring each bite!"
+      ]
+    },
+    {
+      "recipe": "Potjevleesch",
+      "region": "Hauts de France",
+      "ingredients": [
+        "500 g of white meat (chicken, veal, pork)",
+        "500 g of red meat (beef, lamb)",
+        "500 g of rabbit",
+        "1 onion",
+        "2 shallots",
+        "2 carrots",
+        "2 celery stalks",
+        "2 garlic cloves",
+        "1 bouquet garni (thyme, bay leaves, parsley)",
+        "300 ml of blond beer",
+        "300 ml of chicken broth",
+        "4 slices of gingerbread",
+        "4 slices of cooked ham",
+        "Salt and pepper",
+        "Butter (for cooking)"
+      ],
+      "instructions": [
+        "Cut the white meats, red meats, and rabbit into pieces.",
+        "Peel and finely chop the onion, shallots, carrots, and celery. Crush the garlic cloves.",
+        "In a large pot, melt some butter over medium heat. Add the chopped onion, shallots, carrots, celery, and crushed garlic. Sauté until they are slightly golden.",
+        "Add the meat pieces to the pot. Brown them on all sides.",
+        "Add the bouquet garni, blond beer, and chicken broth to the pot. Season with salt and pepper to your taste.",
+        "Bring to a boil, then reduce the heat and simmer covered for about 2 to 3 hours, until the meat is tender.",
+        "Meanwhile, prepare the slices of gingerbread by dipping them in some of the cooking broth to soften them slightly.",
+        "When the meat is cooked, remove the meat pieces from the pot and strain the cooking broth.",
+        "In a gratin dish, arrange the meat pieces alternately with slices of cooked ham and gingerbread.",
+        "Pour some of the strained cooking broth over the layers of meat, ensuring they are well covered.",
+        "Cover the gratin dish with a weight (a board with canned goods, for example) to press the Potjevleesch.",
+        "Allow the Potjevleesch to cool at room temperature, then refrigerate it for at least 24 hours to allow the flavors to develop.",
+        "Serve the well-chilled Potjevleesch, accompanied by fries or sautéed potatoes.",
+        "Enjoy this delicious specialty of the Hauts-de-France regions, a dish rich in flavors and traditions!"
+      ]
+    },
+    {
+      "recipe": "Maroilles Tart",
+      "region": "Hauts de France",
+      "ingredients": [
+        "1 pie crust",
+        "200 g of Maroilles cheese",
+        "20 cl of heavy cream",
+        "2 eggs",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Roll out the pie crust in a buttered tart pan and prick the bottom with a fork.",
+        "Cut the Maroilles cheese into thin slices and distribute them over the bottom of the pie crust.",
+        "In a bowl, beat the eggs with the heavy cream. Lightly salt and pepper to your taste.",
+        "Pour the egg-cream mixture over the Maroilles cheese in the tart pan.",
+        "Place the Maroilles Tart in the oven and bake for about 25 to 30 minutes, until the crust is golden and the filling is set.",
+        "Remove the tart from the oven and let it cool slightly before enjoying.",
+        "Serve the Maroilles Tart warm, accompanied by a green salad for a balanced meal.",
+        "Savor this delicious Maroilles Tart, a specialty of the Hauts-de-France regions, with its rich and characteristic flavor!"
+      ]
+    },
+    {
+      "recipe": "Braised Beef",
+      "region": "Ile de France",
+      "ingredients": [
+        "1.5 kg of braising beef (chuck, rump)",
+        "200 g of smoked bacon lardons",
+        "2 carrots",
+        "2 onions",
+        "2 garlic cloves",
+        "50 cl of red wine",
+        "50 cl of beef broth",
+        "2 tablespoons of flour",
+        "2 tablespoons of oil",
+        "1 bouquet garni (thyme, bay leaves, parsley)",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Cut the beef into medium-sized pieces.",
+        "Peel and cut the carrots into rounds. Slice the onions and mince the garlic.",
+        "In a casserole dish, heat the oil over medium heat. Add the lardons and lightly brown them.",
+        "Add the beef pieces to the casserole dish and brown them on all sides until they are well browned.",
+        "Add the sliced carrots, onions, and minced garlic to the casserole dish. Sauté for a few minutes.",
+        "Sprinkle with flour and mix well to coat all the ingredients.",
+        "Pour in the red wine and beef broth. Add the bouquet garni, salt, and pepper to your taste.",
+        "Bring to a boil, then reduce the heat and simmer covered for about 2 hours, until the meat is tender.",
+        "Serve the Braised Beef hot, accompanied by potatoes, seasonal vegetables, or pasta.",
+        "Enjoy this delicious specialty of the Île-de-France region, a flavorful and comforting dish!"
+      ]
+    },
+    {
+      "recipe": "Brie de Meaux",
+      "region": "Ile de France",
+      "ingredients": [
+        "1 Brie de Meaux (about 500 g)",
+        "Country bread (for serving)"
+      ],
+      "instructions": [
+        "Take the Brie de Meaux out of the refrigerator and let it come to room temperature for about 1 to 2 hours.",
+        "Cut the Brie de Meaux into thick slices or quarters.",
+        "Serve the Brie de Meaux as is, at room temperature, to fully appreciate its creamy texture and rich taste.",
+        "Accompany the Brie de Meaux with slices of country bread for a traditional tasting.",
+        "Enjoy this delicious Brie de Meaux cheese, a renowned specialty of the Île-de-France region!"
+      ]
+    },
+    {
+      "recipe": "Croissant",
+      "region": "Ile de France",
+      "ingredients": [
+        "500 g of flour",
+        "10 g of fresh baker's yeast",
+        "70 g of sugar",
+        "10 g of salt",
+        "250 ml of milk",
+        "250 g of butter",
+        "1 egg (for egg wash)"
+      ],
+      "instructions": [
+        "In a bowl, dissolve the fresh baker's yeast in a little warm milk and a teaspoon of sugar. Let it rest for 10 minutes to activate the yeast.",
+        "In a large bowl, mix the flour, sugar, and salt.",
+        "Add the activated yeast and the remaining milk to the bowl of dry ingredients. Mix well to form a homogeneous dough.",
+        "Knead the dough for about 10 minutes on a lightly floured surface until it is smooth and elastic.",
+        "Form a ball with the dough, cover it with a clean cloth, and let it rest for about 1 hour, until it doubles in size.",
+        "Meanwhile, prepare the butter by lightly kneading it to make it pliable.",
+        "Roll out the dough into a rectangle of about 1 cm thickness on a lightly floured surface.",
+        "Place the butter in the center of the dough rectangle and fold the sides of the dough over the butter to envelop it completely.",
+        "Roll out the butter-enveloped dough rectangle in the lengthwise direction, then fold it into three, like folding a wallet.",
+        "Turn the dough rectangle a quarter turn, then roll it out again and fold it into three. Repeat this process once more.",
+        "Wrap the dough rectangle in plastic wrap and let it rest in the refrigerator for about 30 minutes.",
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Take the dough out of the refrigerator and roll it out on a lightly floured surface into a large rectangle of about 0.5 cm thickness.",
+        "Cut the dough rectangle into isosceles triangles.",
+        "Roll up each triangle of dough starting from the base to form croissants.",
+        "Arrange the croissants on a baking sheet lined with parchment paper.",
+        "In a small bowl, beat the egg and use it to gently brush the surface of the croissants.",
+        "Bake the croissants in the preheated oven for about 15 to 20 minutes, until they are golden and well puffed up.",
+        "Take the croissants out of the oven and let them cool slightly before enjoying.",
+        "Savor these delicious croissants, freshly baked, with their flaky texture and delicate aroma!"
+      ]
+    },
+    {
+      "recipe": "Cheese Souffle",
+      "region": "Ile de France",
+      "ingredients": [
+        "4 eggs",
+        "40 g of butter",
+        "40 g of flour",
+        "250 ml of milk",
+        "100 g of grated cheese (Comté, Gruyère, Emmental)",
+        "Salt and pepper",
+        "Grated nutmeg (optional)",
+        "Butter and breadcrumbs (for greasing the soufflé dishes)"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Generously butter the soufflé dishes and sprinkle them with breadcrumbs, tapping to remove excess.",
+        "In a saucepan, melt the butter over low heat. Add the flour and stir constantly to create a smooth mixture.",
+        "Gradually pour in the milk while continuing to stir. Let the mixture cook for a few minutes until it thickens.",
+        "Remove the saucepan from the heat and add the grated cheese. Mix well until the cheese is melted.",
+        "Separate the egg yolks from the egg whites into two different bowls.",
+        "Add the egg yolks one by one to the cheese mixture, stirring well after each addition. Season with salt, pepper, and a pinch of grated nutmeg according to your taste.",
+        "In a clean bowl, whisk the egg whites until stiff peaks form.",
+        "Gently fold the egg whites into the cheese mixture, lifting the mass with a spatula to avoid deflating the egg whites.",
+        "Pour the mixture into the prepared soufflé dishes, filling them two-thirds full.",
+        "Place the dishes in the preheated oven and bake for about 20 minutes, until the soufflés are well risen and golden.",
+        "Take the soufflés out of the oven and serve them immediately, as they deflate quickly."
+      ]
+    },
+    {
+      "recipe": "Camembert",
+      "region": "Normandy",
+      "ingredients": [
+        "1 Camembert cheese",
+        "Country bread (for serving)"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Remove the paper packaging from the Camembert cheese, but leave it in its wooden box.",
+        "Place the Camembert cheese back in its wooden box and place it on a baking sheet.",
+        "Use a knife to make a few incisions on the top of the Camembert cheese.",
+        "Bake the Camembert cheese in the oven for about 15 to 20 minutes, until it is melted and gooey inside.",
+        "Carefully remove the Camembert cheese from the oven, as it will be hot and runny.",
+        "Serve the warm Camembert cheese, accompanied by slices of country bread.",
+        "Enjoy this delicious melted and creamy Camembert cheese, typical of the Normandy region!"
+      ]
+    },
+    {
+      "recipe": "Normandy Tart",
+      "region": "Normandy",
+      "ingredients": [
+        "1 shortcrust pastry crust",
+        "4 to 5 apples",
+        "100 g of sugar",
+        "2 eggs",
+        "20 cl of heavy cream",
+        "20 cl of milk",
+        "2 tablespoons of calvados (optional)",
+        "1 pinch of cinnamon (optional)"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Roll out the shortcrust pastry in a buttered tart pan and prick the bottom with a fork.",
+        "Peel the apples, remove the core, and cut them into thin slices.",
+        "Arrange the apple slices on the bottom of the tart.",
+        "In a bowl, beat the eggs with the sugar until you obtain a foamy mixture.",
+        "Add the heavy cream, milk, and calvados (optional) to the bowl. Mix all the ingredients well.",
+        "Pour the egg-sugar-cream-milk mixture over the apples in the tart pan.",
+        "Sprinkle the Normandy Tart with cinnamon (optional) to add a touch of flavor.",
+        "Bake the Normandy Tart in the oven for about 30 to 40 minutes, until it is golden and the custard is set.",
+        "Remove the tart from the oven and let it cool before removing it from the tart pan.",
+        "Serve the Normandy Tart warm or at room temperature.",
+        "Enjoy this delicious Normandy specialty, a rich and creamy apple tart!"
+      ]
+    },
+    {
+      "recipe": "Teurgoule",
+      "region": "Normandy",
+      "ingredients": [
+        "1 liter of whole milk",
+        "150 g of round-grain rice",
+        "150 g of sugar",
+        "1 tablespoon of powdered cinnamon",
+        "1 pinch of salt"
+      ],
+      "instructions": [
+        "Preheat your oven to 150°C (300°F, Gas Mark 2).",
+        "In a saucepan, bring the milk to a boil with the sugar and a pinch of salt.",
+        "Add the rice to the boiling milk and let it cook for 5 minutes, stirring regularly.",
+        "Pour the milk-rice mixture into a gratin dish.",
+        "Generously sprinkle the surface of the Teurgoule with powdered cinnamon.",
+        "Place the gratin dish in the preheated oven and let it bake for about 3 hours. The Teurgoule is ready when it has a golden brown color on top.",
+        "Take the dish out of the oven and let the Teurgoule cool.",
+        "Serve the Teurgoule warm or at room temperature.",
+        "Enjoy this delicious Normandy specialty, a rice pudding flavored with cinnamon!"
+      ]
+    },
+
+    {
+      "recipe": "CanelEs",
+      "region": "Nouvelle Aquitaine",
+      "ingredients": [
+        "500 ml of milk",
+        "2 whole eggs + 2 egg yolks",
+        "200 g of sugar",
+        "100 g of flour",
+        "50 g of butter",
+        "1 tablespoon of rum",
+        "1 vanilla bean",
+        "1 pinch of salt"
+      ],
+      "instructions": [
+        "In a saucepan, heat the milk with the split vanilla bean. Let it infuse for about 1 hour, then remove the vanilla bean.",
+        "In a large bowl, mix the whole eggs, egg yolks, and sugar until you obtain a foamy mixture.",
+        "Gradually add the sifted flour while continuing to mix.",
+        "Pour the hot milk into the egg-sugar mixture, stirring constantly.",
+        "Add the melted butter and rum to the mixture. Mix all the ingredients well.",
+        "Cover the bowl with a clean cloth and let the batter rest in the refrigerator for at least 12 hours, or even 24 hours, for better texture and flavor.",
+        "Preheat your oven to 250°C (482°F, Gas Mark 8-9).",
+        "Generously butter the canelé molds (copper or silicone) and place them on a baking sheet.",
+        "Fill the molds three-quarters full with the canelé batter.",
+        "Bake the canelés at 250°C for 10 minutes, then reduce the temperature to 180°C (356°F, Gas Mark 6) and continue baking for about 50 minutes, until the canelés are well browned and caramelized.",
+        "Take the canelés out of the oven and let them cool slightly before unmolding.",
+        "Enjoy the canelés warm or at room temperature, to appreciate their crispy exterior and soft interior texture.",
+        "Savor this delicious specialty from Bordeaux!"
+      ]
+    },
+    {
+      "recipe": "Basque Cake",
+      "region": "Nouvelle Aquitaine",
+      "ingredients": [
+        "250 g of flour",
+        "125 g of butter",
+        "125 g of sugar",
+        "2 egg yolks",
+        "1 whole egg",
+        "1 pinch of salt",
+        "1 tablespoon of rum",
+        "1 jar of black cherry jam (or other flavor of your choice)"
+      ],
+      "instructions": [
+        "In a large bowl, mix the flour with the sugar and salt.",
+        "Add the softened butter cut into pieces. Mix with your fingertips until you get a sandy consistency.",
+        "Add the egg yolks and the whole egg. Mix again to form a homogeneous dough ball.",
+        "Wrap the dough in plastic wrap and let it rest in the refrigerator for at least 1 hour.",
+        "Preheat your oven to 180°C (356°F, Gas Mark 6).",
+        "Divide the dough into two equal parts.",
+        "Roll out one half of the dough using a rolling pin to form the cake base. Place it in a buttered tart pan.",
+        "Spread the black cherry jam over the dough base.",
+        "Roll out the other half of the dough and place it on top of the jam. Seal the edges by pressing with your fingers.",
+        "Bake the Basque Cake in the oven for about 30 to 40 minutes, until it is golden.",
+        "Remove the cake from the oven and let it cool before unmolding.",
+        "Enjoy the Basque Cake at room temperature, sliced into portions.",
+        "Appreciate this delicious specialty from the Basque Country, with its fruity filling and melt-in-your-mouth pastry!"
+      ]
+    },
+
+     {
+      "recipe": "Aligot",
+      "region": "Occitanie",
+      "ingredients": [
+        "1 kg of potatoes",
+        "400 g of fresh Tome d'Aubrac cheese",
+        "100 g of butter",
+        "20 cl of heavy cream",
+        "2 garlic cloves",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Peel the potatoes, cut them into pieces, and cook them in a large pot of salted water until they are very tender.",
+        "While the potatoes are cooking, grate the fresh Tome d'Aubrac cheese.",
+        "Drain the cooked potatoes and mash them with a fork or a potato masher until you get a smooth purée.",
+        "Add the butter and heavy cream to the potato purée. Mix well to incorporate them.",
+        "Peel and crush the garlic cloves. Add them to the potato mixture.",
+        "Gently heat the mixture over low heat, stirring constantly.",
+        "Gradually incorporate the grated Tome d'Aubrac cheese into the mixture, stirring continuously until the cheese is completely melted and the mixture is homogeneous.",
+        "Continue to vigorously stir the preparation until it becomes elastic and stringy, forming long strands.",
+        "Season with salt and pepper to taste. The aligot should be well seasoned.",
+        "Serve the aligot hot, as an accompaniment to grilled sausages, meats, or cold cuts.",
+        "Enjoy this delicious specialty from the Occitanie region, known for its stretchy texture!"
+      ]
+    },
+    {
+      "recipe": "Salt Cod Brandade",
+      "region": "Occitanie",
+      "ingredients": [
+        "500 g of salted cod",
+        "1 kg of potatoes",
+        "4 garlic cloves",
+        "10 cl of olive oil",
+        "10 cl of milk",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "The day before, desalt the salted cod by placing it in a large container of cold water. Change the water regularly for about 24 hours.",
+        "On the same day, drain the cod and remove the skin and bones. Flake it into small pieces.",
+        "Peel the potatoes and cook them in a large pot of salted water until they are very tender.",
+        "Meanwhile, bring another pot of water to a boil. Poach the cod in the boiling water for about 5 minutes. Drain and set aside.",
+        "Drain the cooked potatoes and mash them with a fork or a potato masher until you get a smooth purée.",
+        "In a skillet, heat the olive oil and add the crushed garlic cloves. Sauté the garlic lightly to infuse the oil.",
+        "Incorporate the flaked cod into the skillet and sauté it for a few minutes while stirring.",
+        "Then add the potato purée and milk to the skillet. Mix all the ingredients well.",
+        "Cook the mixture over low heat for about 10 minutes, stirring regularly, until the brandade is hot and creamy.",
+        "Season with salt and pepper to taste. Be cautious with the salt since the cod is already salty.",
+        "Serve the salt cod brandade hot, accompanied by toasted bread or croutons.",
+        "Enjoy this delicious specialty from the Occitanie region!"
+      ]
+    },
+    {
+      "recipe": "Cassoulet",
+      "region": "Occitanie",
+      "ingredients": [
+        "400 g of dried white beans",
+        "400 g of Toulouse sausages",
+        "4 duck confit legs",
+        "200 g of smoked pork belly",
+        "1 onion",
+        "2 cloves of garlic",
+        "2 carrots",
+        "2 celery stalks",
+        "2 tomatoes",
+        "1 bouquet garni (thyme, bay leaf, parsley)",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "The day before, soak the dried white beans in cold water.",
+        "The next day, drain and rinse the beans with cold water.",
+        "In a large pot, sauté the diced smoked pork belly with a little olive oil. Add the minced onion, crushed garlic, diced carrots, and celery. Sauté for a few minutes until the vegetables are lightly golden.",
+        "Add the drained white beans to the pot, along with diced tomatoes and the bouquet garni. Season with salt and pepper.",
+        "Cover the beans with cold water and bring to a boil. Reduce the heat and simmer gently for about 1 hour, skimming the surface regularly to remove impurities.",
+        "Meanwhile, in a skillet, brown the duck confit legs and Toulouse sausages.",
+        "After 1 hour of cooking the beans, add the duck confit legs and sausages to the pot. Continue cooking for another 1 hour, adding water if needed to maintain a slightly thick consistency.",
+        "Remove the bouquet garni from the pot.",
+        "Serve the cassoulet hot in deep plates, making sure to distribute the different ingredients (beans, meats) in each plate.",
+        "Enjoy this delicious traditional dish from the Occitanie region!"
+      ]
+    },
+    {
+      "recipe": "Fougasse",
+      "region": "Occitanie",
+      "ingredients": [
+        "500 g of flour",
+        "300 ml of lukewarm water",
+        "10 g of baker's yeast",
+        "2 tablespoons of olive oil",
+        "1 teaspoon of salt",
+        "Choice of toppings (e.g., olives, Herbes de Provence, sun-dried tomatoes, cheese...)"
+      ],
+      "instructions": [
+        "In a small bowl, dissolve the baker's yeast in lukewarm water. Let it rest for about 10 minutes until the yeast is activated and starts to foam.",
+        "In a large bowl, mix the flour and salt. Make a well in the center and pour in the activated yeast and olive oil.",
+        "Mix the ingredients with a wooden spoon until you get a smooth dough.",
+        "Transfer the dough to a lightly floured work surface and knead it for about 10 minutes, until it becomes smooth and elastic.",
+        "Place the dough back in the bowl, cover it with a clean cloth, and let it rest in a warm place for about 1 hour, until it doubles in size.",
+        "Preheat your oven to 220°C (425°F, Gas Mark 7-8).",
+        "On a baking sheet lined with parchment paper, shape the dough into a fougasse. You can give it any shape you want, such as a star or a leaf.",
+        "Let the fougasse rest for about 15 minutes.",
+        "Add your choice of toppings on the fougasse. For example, you can add olives, Herbes de Provence, sun-dried tomatoes, cheese...",
+        "Bake the fougasse in the oven for about 15 to 20 minutes, until it's golden and crispy.",
+        "Remove the fougasse from the oven and let it cool slightly before enjoying.",
+        "Taste this delicious specialty from the Occitanie region as a side dish or appetizer!"
+      ]
+    },
+    {
+      "recipe": "CrEme Caramel",
+      "region": "Pays de la Loire",
+      "ingredients": [
+        "1 liter of milk",
+        "200 g of sugar",
+        "1 vanilla pod",
+        "6 eggs",
+        "Liquid caramel"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "In a saucepan, heat the milk with the split and scraped vanilla pod.",
+        "In a bowl, beat the eggs with the sugar until you obtain a smooth mixture.",
+        "Pour the hot milk over the egg-sugar mixture while stirring constantly.",
+        "Remove the vanilla pod from the mixture.",
+        "In individual ramekins, pour a little liquid caramel into the bottom of each ramekin.",
+        "Pour the milk and egg mixture over the caramel in the ramekins.",
+        "Place the ramekins in an ovenproof dish filled with hot water, creating a water bath.",
+        "Place the dish in the oven and bake for about 40 to 45 minutes, until the creams are set and slightly golden on top.",
+        "Take the dish out of the oven and let the caramel creams cool to room temperature.",
+        "Once cooled, refrigerate the caramel creams for at least 2 hours before unmolding.",
+        "To unmold the creams, run a knife blade along the edges of the ramekins, then gently flip them onto serving plates.",
+        "Serve the caramel creams chilled.",
+        "Enjoy this delicious specialty from the Pays de la Loire region!"
+      ]
+    },
+    {
+      "recipe": "VendEe Galette",
+      "region": "Pays de la Loire",
+      "ingredients": [
+        "250 g of wheat flour",
+        "2 eggs",
+        "50 cl of milk",
+        "30 g of melted butter",
+        "1 pinch of salt",
+        "Powdered sugar (for dusting)",
+        "Butter (for cooking)"
+      ],
+      "instructions": [
+        "In a large bowl, mix the flour with the eggs and salt.",
+        "Gradually add the milk while continuing to mix until you get a smooth and homogeneous batter.",
+        "Incorporate the melted butter into the batter and mix well.",
+        "Let the batter rest for about 30 minutes at room temperature.",
+        "In a non-stick skillet, melt a little butter over medium heat.",
+        "Pour a ladle of batter into the hot skillet and tilt the skillet to spread the batter evenly over the surface.",
+        "Cook the galette for about 2 minutes on each side, until it's nicely golden.",
+        "Repeat the process with the remaining batter until it's all used up.",
+        "Dust the warm galettes with powdered sugar.",
+        "Serve the Vendée galettes warm or lukewarm, accompanied by your choice of filling (jam, spread, fresh fruits, etc.).",
+        "Enjoy these delicious traditional galettes from the Vendée region!"
+      ]
+    },
+    {
+      "recipe": "Zander in Beurre Blanc Sauce",
+      "region": "Pays de la Loire",
+      "ingredients": [
+        "4 zander fillets",
+        "100 g of butter",
+        "1 shallot",
+        "20 cl of dry white wine",
+        "20 cl of heavy cream",
+        "Juice of half a lemon",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Peel and finely chop the shallot.",
+        "In a saucepan, melt 30 g of butter over low heat. Add the chopped shallot and sauté until it becomes translucent.",
+        "Pour the white wine into the saucepan and let it reduce over medium heat until only one-third of the liquid remains.",
+        "Add the heavy cream to the saucepan and simmer for a few minutes.",
+        "Incorporate the remaining butter, cut into small pieces, into the saucepan, gradually, while whisking continuously to obtain a creamy sauce. Season with salt and pepper to taste.",
+        "Meanwhile, season the zander fillets with salt, pepper, and lemon juice.",
+        "Heat a skillet with a little olive oil over medium heat. Cook the zander fillets in the skillet, skin side down, for about 4 to 5 minutes until they are nicely browned.",
+        "Flip the zander fillets and continue cooking for about 2 to 3 more minutes, until they are cooked through.",
+        "Serve the hot zander fillets with the Beurre Blanc sauce drizzled on top.",
+        "Serve the dish with steamed potatoes or seasonal vegetables according to your preferences.",
+        "Enjoy this delicious typical fish dish from the Pays de la Loire region!"
+      ]
+    },
+    {
+      "recipe": "Prune Tart",
+      "region": "Pays de la Loire",
+      "ingredients": [
+        "1 pie crust",
+        "500 g of pitted prunes",
+        "100 g of sugar",
+        "2 eggs",
+        "20 cl of heavy cream",
+        "1 tablespoon of flour",
+        "1 packet of vanilla sugar",
+        "Butter for greasing the tart pan"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "Butter a tart pan and line it with the pie crust, ensuring the bottom and sides are well covered.",
+        "In a bowl, beat the eggs with the sugar until the mixture becomes frothy.",
+        "Add the heavy cream, flour, and vanilla sugar. Mix all the ingredients well.",
+        "Arrange the pitted prunes on the bottom of the tart crust.",
+        "Pour the egg, sugar, and cream mixture over the prunes in the tart crust.",
+        "Bake the tart in the oven for about 30 to 35 minutes, until the top is golden and the tart is well-cooked.",
+        "Once baked, take the tart out of the oven and let it cool before unmolding.",
+        "Serve the prune tart warm or at room temperature.",
+        "Enjoy this delicious traditional tart from the Pays de la Loire region!"
+      ]
+    },
+    {
+      "recipe": "Bouillabaisse",
+      "region": "Provence Alpes COte de Azur",
+      "ingredients": [
+        "500 g of assorted fish (e.g., monkfish, scorpionfish, whiting)",
+        "500 g of seafood (e.g., shrimp, mussels, squid)",
+        "2 onions",
+        "3 cloves of garlic",
+        "2 tomatoes",
+        "1 celery stalk",
+        "1 bouquet garni (thyme, bay leaf, parsley)",
+        "1 dose of saffron",
+        "1 pinch of cayenne pepper",
+        "1 lemon",
+        "4 slices of stale bread",
+        "Olive oil",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Prepare the broth by heating 2 liters of water in a large pot. Add sliced onions, crushed garlic, diced tomatoes, chopped celery, and the bouquet garni. Season with salt, pepper, saffron, and cayenne pepper. Let it simmer for about 30 minutes.",
+        "Meanwhile, prepare the fish by cleaning and cutting it into pieces. Set aside.",
+        "In another pot, sauté the seafood in a bit of olive oil for a few minutes. Set aside.",
+        "Once the broth is ready, strain it through a sieve to remove the vegetables and aromatics. Return the strained broth to the heat.",
+        "Add the fish to the broth and let it cook for about 10 minutes, until tender. Then, add the seafood and cook for another 5 minutes.",
+        "Meanwhile, prepare the rouille by blending stale bread with a crushed garlic clove and the juice of a lemon. Gradually add olive oil in a thin stream while continuing to blend until a creamy consistency is achieved.",
+        "Serve the bouillabaisse hot, accompanied by slices of bread and rouille.",
+        "Enjoy and savor this delicious Provençal dish!"
+      ]
+    },
+    {
+      "recipe": "Navettes de Marseille",
+      "region": "Provence Alpes COte de Azur",
+      "ingredients": [
+        "250 g of flour",
+        "100 g of sugar",
+        "100 g of softened butter",
+        "2 eggs",
+        "1/2 teaspoon of baking powder",
+        "1 teaspoon of orange blossom water",
+        "Zest of one lemon",
+        "A pinch of salt"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C (350°F, Gas Mark 4).",
+        "In a large bowl, mix the flour, sugar, baking powder, and salt.",
+        "Add the softened butter cut into small pieces. Mix well until a sandy consistency is obtained.",
+        "Add the eggs one by one and mix until the dough is homogeneous.",
+        "Incorporate the orange blossom water and lemon zest into the dough. Mix again.",
+        "On a lightly floured work surface, shape the dough into logs about 8 to 10 centimeters long and 2 centimeters wide.",
+        "Place the dough logs on a baking sheet lined with parchment paper.",
+        "Bake the navettes for about 15 to 20 minutes, until they are lightly golden.",
+        "Remove the navettes from the oven and let them cool completely before enjoying.",
+        "Marseille navettes can be stored in an airtight container.",
+        "Enjoy these delicious Provençal treats with a cup of tea or coffee!"
+      ]
+    },
+    {
+      "recipe": "Panisse",
+      "region": "Provence Alpes COte de Azur",
+      "ingredients": [
+        "250 g of chickpea flour",
+        "500 ml of water",
+        "2 tablespoons of olive oil",
+        "2 cloves of garlic",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "In a saucepan, mix chickpea flour with cold water, olive oil, crushed garlic, salt, and pepper. Make sure to dissolve the flour to avoid lumps.",
+        "Place the saucepan over medium heat and continue to stir constantly with a wooden spoon.",
+        "Keep cooking and stirring until the mixture thickens and easily detaches from the sides of the saucepan. This will take about 15 to 20 minutes.",
+        "Pour the mixture into a pre-oiled rectangular mold, achieving a thickness of about 2 to 3 centimeters.",
+        "Allow it to cool at room temperature for at least 1 hour, then refrigerate for at least 2 hours to let the panisse set.",
+        "Once thoroughly cooled, unmold the panisse and cut it into rectangles or squares.",
+        "In a pan, heat olive oil over medium heat. Fry the pieces of panisse on both sides until they are golden and crispy.",
+        "Serve hot as a side dish with a green salad or as an appetizer.",
+        "Enjoy this flavorful Provençal specialty!"
+      ]
+    },
+    {
+      "recipe": "Ratatouille",
+      "region": "Provence Alpes COte de Azur",
+      "ingredients": [
+        "2 zucchinis",
+        "1 eggplant",
+        "1 red bell pepper",
+        "1 yellow bell pepper",
+        "1 onion",
+        "2 cloves of garlic",
+        "4 tomatoes",
+        "2 tablespoons of olive oil",
+        "1 teaspoon of herbes de Provence",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Wash all the vegetables. Cut the zucchinis, eggplant, bell peppers, and tomatoes into cubes.",
+        "In a large skillet, heat olive oil over medium heat. Add finely chopped onion and crushed garlic. Sauté for a few minutes until slightly golden.",
+        "Add the bell peppers to the skillet and sauté for about 5 minutes until they are tender.",
+        "Then, add the zucchinis and eggplant to the skillet. Cook for about 10 minutes until the vegetables start to soften.",
+        "Add the tomatoes, herbes de Provence, salt, and pepper. Mix all the ingredients well.",
+        "Reduce the heat to low and let the ratatouille simmer for about 20 minutes, stirring occasionally.",
+        "Once the vegetables are well-cooked and tender, remove the skillet from the heat.",
+        "Serve the ratatouille hot as a side dish to meats, poultry, or as a main dish with rice or bread.",
+        "Enjoy this delicious Provençal specialty!"
+      ]
+    },
+
+
+  {
+    "recipe": "Tripe A la mode de Caen de Nor ",
+    "region": "Normandy",
+    "ingredients": [
+      "1.5 kg of prepared beef tripe",
+      "2 onions",
+      "2 carrots",
+      "2 garlic cloves",
+      "1 bouquet garni (thyme, bay leaves, parsley)",
+      "25 cl of cider",
+      "25 cl of dry white wine",
+      "25 cl of chicken broth",
+      "50 g of butter",
+      "50 g of flour",
+      "Salt and pepper",
+      "Fresh parsley (for garnish)"
+    ],
+    "instructions": [
+      "In a large pot of boiling water, blanch the beef tripe for about 5 minutes to clean it.",
+      "Drain the tripe and rinse it thoroughly with cold water. Set aside.",
+      "Peel and finely chop the onions, carrots, and garlic cloves.",
+      "In a Dutch oven, melt the butter over medium heat. Add the chopped onions, carrots, and garlic. Sauté for a few minutes until they are slightly golden.",
+      "Add the tripe to the Dutch oven, along with the bouquet garni. Season with salt and pepper to taste.",
+      "Pour in the cider, white wine, and chicken broth into the Dutch oven. Bring to a boil, then reduce the heat and let it simmer covered for about 2 hours. The tripe should become tender.",
+      "In a small bowl, mix the butter and flour to create a roux.",
+      "Add the roux to the Dutch oven and mix well to thicken the sauce. Continue cooking for another 15 minutes.",
+      "Adjust the seasoning if necessary.",
+      "Serve the Tripe à la mode de Caen hot, sprinkled with chopped fresh parsley.",
+      "Serve the tripe with steamed potatoes or fries, according to your preference.",
+      "Enjoy this delicious specialty, both Normandy and Occitan, full of flavors and traditions!"
+    ]
+  },
+
+  {
+    "recipe": "Tripe A la mode de Caen de occi",
+    "region": "Occitanie",
+    "ingredients": [
+      "1.5 kg of prepared beef tripe",
+      "2 onions",
+      "2 carrots",
+      "2 garlic cloves",
+      "1 bouquet garni (thyme, bay leaves, parsley)",
+      "25 cl of cider",
+      "25 cl of dry white wine",
+      "25 cl of chicken broth",
+      "50 g of butter",
+      "50 g of flour",
+      "Salt and pepper",
+      "Fresh parsley (for garnish)"
+    ],
+    "instructions": [
+      "In a large pot of boiling water, blanch the beef tripe for about 5 minutes to clean it.",
+      "Drain the tripe and rinse it thoroughly with cold water. Set aside.",
+      "Peel and finely chop the onions, carrots, and garlic cloves.",
+      "In a Dutch oven, melt the butter over medium heat. Add the chopped onions, carrots, and garlic. Sauté for a few minutes until they are slightly golden.",
+      "Add the tripe to the Dutch oven, along with the bouquet garni. Season with salt and pepper to taste.",
+      "Pour in the cider, white wine, and chicken broth into the Dutch oven. Bring to a boil, then reduce the heat and let it simmer covered for about 2 hours. The tripe should become tender.",
+      "In a small bowl, mix the butter and flour to create a roux.",
+      "Add the roux to the Dutch oven and mix well to thicken the sauce. Continue cooking for another 15 minutes.",
+      "Adjust the seasoning if necessary.",
+      "Serve the Tripe à la mode de Caen hot, sprinkled with chopped fresh parsley.",
+      "Serve the tripe with steamed potatoes or fries, according to your preference.",
+      "Enjoy this delicious specialty, both Normandy and Occitan, full of flavors and traditions!"
+    ]
+  },
+
+  {
+    "recipe": "Duck Magret Occ",
+    "region": "Occitanie",
+    "ingredients": [
+      "2 duck magrets",
+      "Salt",
+      "Pepper",
+      "Spices of your choice (e.g., Herbes de Provence, paprika, Espelette pepper)",
+      "Accompaniment of your choice (e.g., sautéed potatoes, grilled vegetables)"
+    ],
+    "instructions": [
+      "Preheat your oven to 200°C (392°F, Gas Mark 6-7).",
+      "Using a sharp knife, score the skin of the duck magrets in a crisscross pattern without cutting into the meat.",
+      "Season the duck magrets with salt, pepper, and the spices of your choice, rubbing the seasonings well onto the skin.",
+      "Place the duck magrets, skin side down, in a non-stick skillet and cook them over medium heat for about 7 to 8 minutes, until the skin is golden brown and crispy.",
+      "Turn the duck magrets and cook them for another 2 to 3 minutes on the flesh side.",
+      "Transfer the duck magrets to an ovenproof dish and continue cooking in the oven for about 6 to 8 minutes for medium-rare, or longer according to your preference.",
+      "Remove the duck magrets from the oven and let them rest for about 5 minutes, covered with aluminum foil.",
+      "Slice the duck magrets diagonally, ensuring to cut thin slices.",
+      "Serve the slices of duck magret with your chosen accompaniment, such as sautéed potatoes or grilled vegetables.",
+      "Enjoy this tender and flavorful duck magret, typical of the Occitanie and Nouvelle-Aquitaine regions!"
+    ]
+  },
+
+ {
+    "recipe": "Duck Magret Nou",
+    "region": "Nouvelle Aquitaine",
+    "ingredients": [
+      "2 duck magrets",
+      "Salt",
+      "Pepper",
+      "Spices of your choice (e.g., Herbes de Provence, paprika, Espelette pepper)",
+      "Accompaniment of your choice (e.g., sautéed potatoes, grilled vegetables)"
+    ],
+    "instructions": [
+      "Preheat your oven to 200°C (392°F, Gas Mark 6-7).",
+      "Using a sharp knife, score the skin of the duck magrets in a crisscross pattern without cutting into the meat.",
+      "Season the duck magrets with salt, pepper, and the spices of your choice, rubbing the seasonings well onto the skin.",
+      "Place the duck magrets, skin side down, in a non-stick skillet and cook them over medium heat for about 7 to 8 minutes, until the skin is golden brown and crispy.",
+      "Turn the duck magrets and cook them for another 2 to 3 minutes on the flesh side.",
+      "Transfer the duck magrets to an ovenproof dish and continue cooking in the oven for about 6 to 8 minutes for medium-rare, or longer according to your preference.",
+      "Remove the duck magrets from the oven and let them rest for about 5 minutes, covered with aluminum foil.",
+      "Slice the duck magrets diagonally, ensuring to cut thin slices.",
+      "Serve the slices of duck magret with your chosen accompaniment, such as sautéed potatoes or grilled vegetables.",
+      "Enjoy this tender and flavorful duck magret, typical of the Occitanie and Nouvelle-Aquitaine regions!"
+    ]
+  },
+
+  {
+    "recipe": "Piperade Occi",
+    "region": "Occitanie",
+    "ingredients": [
+      "2 red bell peppers",
+      "2 green bell peppers",
+      "2 onions",
+      "4 tomatoes",
+      "4 garlic cloves",
+      "4 eggs",
+      "Olive oil",
+      "Salt and pepper",
+      "Espelette pepper (optional)"
+    ],
+    "instructions": [
+      "Peel and slice the onions. Wash and cut the bell peppers into strips.",
+      "In a large skillet, heat a little olive oil over medium heat.",
+      "Add the sliced onions to the skillet and sauté them until they become translucent.",
+      "Add the bell peppers to the skillet and cook them for about 10 minutes, until they are slightly tender.",
+      "Meanwhile, blanch the tomatoes in boiling water for a few seconds, then remove the skin. Dice the tomatoes.",
+      "Add the diced tomatoes and crushed garlic to the skillet. Season with salt, pepper, and Espelette pepper according to your taste.",
+      "Let the piperade simmer for about 15 to 20 minutes, until the vegetables are well cooked and the flavors are blended.",
+      "During the cooking of the piperade, in another skillet, fry the eggs sunny-side up or as desired.",
+      "Serve the piperade hot, with the fried eggs on top.",
+      "Accompany the piperade with fresh bread or sautéed potatoes, according to your preferences.",
+      "Enjoy this flavorful piperade, a traditional dish from the Occitanie and Nouvelle-Aquitaine regions, with Mediterranean flavors!"
+    ]
+  },
+
+    {
+"recipe": "kulom",
+"region": "mamashefena",
+"ingredients": [
+"savoyard fondue",
+"gratin dauphinois",
+"dumplings",
+"tartiflette",
+"beef bourguignon",
+"coq au vin",
+"burgundy snails",
+"parsley ham",
+"crepes",
+"far breton",
+"buckwheat galettes",
+"kouign amann",
+"easter pate",
+"rillettes",
+"sainte maure de touraine",
+"tarte tatin",
+"brocciu",
+"civet de sanglier",
+"fiadone",
+"figatellu",
+"baeckeoffe",
+"choucroute",
+"quiche lorraine",
+"flammekueche",
+"flamiche",
+"mussels and fries",
+"potjevleesch",
+"maroilles tart",
+"braised beef",
+"brie de meaux",
+"croissant",
+"cheese souffle",
+"camembert",
+"normandy tart",
+"teurgoule",
+"caneles",
+"basque cake",
+"aligot",
+"salt cod brandade",
+"cassoulet",
+"fougasse",
+"creme caramel",
+"vendee galette",
+"zander in beurre blanc sauce",
+"prune tart",
+"bouillabaisse",
+"navettes de marseille",
+"panisse",
+"ratatouille",
+"tripe a la mode de caen de nor ",
+"tripe a la mode de caen de occi",
+"duck magret occ",
+"duck magret nou",
+"piperade occi",
+"piperade nouv",
+"moule frites",
+"carbonade",
+"carbonade flamande",
+"Samoussas",
+"Poulet Coco (Chicken in Coconut Sauce)",
+"Acoupa BoucanE",
+"Ti Punch",
+"Colombo",
+"Accras de Morue",
+"Cari Poulet",
+"Boudin Antillais",
+"potjevleesch"
+],
+
+"instructions": [
+
+    "Could you kindly provide me with the recipe name alone, so I can prepare it perfectly? lol, ",
+    "Could you please share just the name of the dish?",
+    "I've noticed the dish name you entered. Kindly provide me with the name of the dish ALONE so that I can provide you with the precise recipe.",
+    "For instance, write 'Moule Frites' instead of 'give me moule frites', please."
+  ]
+},
+
+    {
+"recipe": "kulomketema",
+"region": "mamashefena",
+"ingredients": [
+    "Paris What traditional recipes do you have in Paris?",
+    "Marseille Tell me about traditional dishes in Marseille.",
+    "Lyon I want to try a traditional dish in Lyon. What do you have?",
+    "Toulouse Can you recommend traditional recipes from Toulouse?",
+    "Nice What are the traditional foods in Nice?",
+    "Nantes Give me some traditional recipes from Nantes.",
+    "Strasbourg Tell me about traditional dishes in Strasbourg.",
+    "Montpellier What traditional recipes are popular in Montpellier?",
+    "Bordeaux What are the traditional foods of Bordeaux?",
+    "Lille What recipes do you have in Lille that are traditional?",
+    "Rennes Tell me about traditional dishes in Rennes.",
+    "Reims What traditional recipes can you suggest from Reims?",
+    "Le Havre Give me some traditional recipes from Le Havre.",
+    "Cergy What are the traditional foods in Cergy?",
+    "Saint-Étienne I want to try a traditional dish in Saint-Étienne. What do you have?",
+    "Toulon Can you recommend traditional recipes from Toulon?",
+    "Angers Tell me about traditional dishes in Angers.",
+    "Grenoble What traditional recipes are popular in Grenoble?",
+    "Dijon What are the traditional foods of Dijon?",
+    "Nîmes What recipes do you have in Nîmes that are traditional?",
+    "Aix-en-Provence Tell me about traditional dishes in Aix-en-Provence.",
+    "Saint-Quentin-en-Yvelines What traditional recipes are popular in Saint-Quentin-en-Yvelines?",
+    "Brest Give me some traditional recipes from Brest.",
+    "Le Mans What are the traditional foods in Le Mans?",
+    "Amiens I want to try a traditional dish in Amiens. What do you have?",
+    "Tours Can you recommend traditional recipes from Tours?",
+    "Limoges Tell me about traditional dishes in Limoges.",
+    "Clermont-Ferrand What traditional recipes can you suggest from Clermont-Ferrand?",
+    "Villeurbanne Give me some traditional recipes from Villeurbanne.",
+    "Besançon What are the traditional foods of Besançon?",
+    "Orléans What recipes do you have in Orléans that are traditional?",
+    "Metz Tell me about traditional dishes in Metz.",
+    "Rouen What traditional recipes are popular in Rouen?",
+    "Mulhouse I want to try a traditional dish in Mulhouse. What do you have?",
+    "Perpignan Can you recommend traditional recipes from Perpignan?",
+    "Caen Tell me about traditional dishes in Caen.",
+    "Nancy What traditional recipes can you suggest from Nancy?",
+    "Argenteuil Give me some traditional recipes from Argenteuil.",
+    "Saint-Denis What are the traditional foods of Saint-Denis?",
+    "Roubaix What recipes do you have in Roubaix that are traditional?",
+    "Tourcoing Tell me about traditional dishes in Tourcoing.",
+    "Montreuil What traditional recipes are popular in Montreuil?",
+    "Avignon I want to try a traditional dish in Avignon. What do you have?",
+    "Nanterre Can you recommend traditional recipes from Nanterre?",
+    "Poitiers Tell me about traditional dishes in Poitiers.",
+    "Créteil What traditional recipes can you suggest from Créteil?",
+    "Versailles Give me some traditional recipes from Versailles.",
+    "Courbevoie What are the traditional foods of Courbevoie?",
+    "Pau What recipes do you have in Pau that are traditional?",
+    "Colombes Tell me about traditional dishes in Colombes."
+
+],
+
+"instructions": [
+
+    "Could you kindly provide me with the recipe name or the city alone, so I can recommend you? ",
+    "Could you please share just the name of the city?",
+    "I've noticed the city name you entered. Kindly provide me with the name of the city ALONE so that I can recommend you.",
+    "For instance, write 'Lille' instead of 'give me recipes in Lille', please."
+  ]
+},
+
+    {
+"recipe": "kulomketematat",
+"region": "mamashefena",
+"ingredients": [
+    "Marseille",
+    "Lyon",
+    "Toulouse",
+    "Nice",
+    "Nantes",
+    "Strasbourg",
+    "Montpellier",
+    "Bordeaux",
+    "Lille",
+    "Rennes",
+    "Paris",
+    "Reims",
+    "Le Havre",
+    "Cergy",
+    "Saint Etienne",
+    "Toulon",
+    "Angers",
+    "Grenoble",
+    "Dijon",
+    "NImes",
+    "Aix en Provence",
+    "Saint Quentin en Yvelines",
+    "Brest",
+    "Le Mans",
+    "Amiens",
+    "Tours",
+    "Limoges",
+    "Clermont Ferrand",
+    "Villeurbanne",
+    "Besançon",
+    "Orleans",
+    "Metz",
+    "Rouen",
+    "Mulhouse",
+    "Perpignan",
+    "Caen",
+    "Nancy",
+    "Argenteuil",
+    "Saint-Denis",
+    "Roubaix",
+    "Tourcoing",
+    "Montreuil",
+    "Avignon",
+    "Nanterre",
+    "Poitiers",
+    "Creteil",
+    "Versailles",
+    "Courbevoie",
+    "Pau",
+    "Colombes"
+
+],
+
+"instructions": [
+
+    "Could you kindly provide me with the recipe name or the city name alone, so I can recommend you? ",
+    "Could you please share just the name of the city?",
+    "I've noticed the city name you entered. Kindly provide me with the name of the city ALONE so that I can recommend you.",
+    "For instance, write 'Lille' instead of 'give me recipes in Lille', please."
+  ]
+},
+    {
+  "recipe": "kulomkililat",
+  "region": "mamashefena",
+  "ingredients": [
+"auvergne rhone alpes",
+"burgundy franche comte",
+"brittany",
+"centre val de loire",
+"corsica",
+"grand est",
+"hauts de france",
+"ile de france",
+"normandy",
+"nouvelle aquitaine",
+"occitanie",
+"pays de la loire",
+"provence alpes cote de azur",
+"normandy",
+"occitanie",
+"Bourgogne-Franche-Comte",
+"Bretagne",
+"Corse",
+"Normandie",
+"Provence-Alpes-Cote d'Azur",
+"Overseas Regions",
+"nouvelle aquitaine"
+],
+"instructions": [
+    "Could you kindly provide me with the region name alone, so I can recommend you the available dishes? ",
+    "Could you please share just the region name?",
+    "I've noticed the region name you entered. Kindly provide me with the name of the region ALONE so that I can provide recommend you.",
+    "Enter the following regions instead of using the given terms: Corsica for Corse, Brittany for Bretagne, Normandy for Normandie, Burgundy for Bourgogne, and Outre mer for Overseas.",
+    "For instance, write 'occitanie' instead of 'what is in occitanie', please."
+  ]
+},
+
+{
+    "recipe": "Piperade nouv",
+    "region": "Nouvelle Aquitaine",
+    "ingredients": [
+      "2 red bell peppers",
+      "2 green bell peppers",
+      "2 onions",
+      "4 tomatoes",
+      "4 garlic cloves",
+      "4 eggs",
+      "Olive oil",
+      "Salt and pepper",
+      "Espelette pepper (optional)"
+    ],
+    "instructions": [
+      "Peel and slice the onions. Wash and cut the bell peppers into strips.",
+      "In a large skillet, heat a little olive oil over medium heat.",
+      "Add the sliced onions to the skillet and sauté them until they become translucent.",
+      "Add the bell peppers to the skillet and cook them for about 10 minutes, until they are slightly tender.",
+      "Meanwhile, blanch the tomatoes in boiling water for a few seconds, then remove the skin. Dice the tomatoes.",
+      "Add the diced tomatoes and crushed garlic to the skillet. Season with salt, pepper, and Espelette pepper according to your taste.",
+      "Let the piperade simmer for about 15 to 20 minutes, until the vegetables are well cooked and the flavors are blended.",
+      "During the cooking of the piperade, in another skillet, fry the eggs sunny-side up or as desired.",
+      "Serve the piperade hot, with the fried eggs on top.",
+      "Accompany the piperade with fresh bread or sautéed potatoes, according to your preferences.",
+      "Enjoy this flavorful piperade, a traditional dish from the Occitanie and Nouvelle-Aquitaine regions, with Mediterranean flavors!"
+    ]
+  },
+    {
+  "recipe": "Moule Frites",
+  "region": "Hauts de France",
+  "ingredients": [
+    "2 kg fresh mussels",
+    "1 onion, finely chopped",
+    "2 cloves of garlic, minced",
+    "1 cup dry white wine",
+    "1 cup heavy cream",
+    "2 tablespoons butter",
+    "2 tablespoons olive oil",
+    "Salt and pepper to taste",
+    "Fresh parsley, chopped, for garnish",
+    "4 large russet potatoes, peeled and cut into fries",
+    "Vegetable oil for frying",
+    "Salt to taste"
+  ],
+  "instructions": [
+    "Clean the mussels thoroughly, removing any beards and debris.",
+    "In a large pot, heat the olive oil and butter over medium heat.",
+    "Add the chopped onion and minced garlic. Sauté until the onion is translucent.",
+    "Pour in the dry white wine and bring to a simmer.",
+    "Add the cleaned mussels to the pot. Cover and cook for about 5-7 minutes, shaking the pot occasionally, until the mussels open.",
+    "Remove the mussels from the pot and set aside.",
+    "Add the heavy cream to the pot and simmer for a few minutes to thicken the sauce. Season with salt and pepper.",
+    "Return the mussels to the pot and stir to coat them in the creamy sauce.",
+    "Garnish with chopped fresh parsley.",
+    "For the frites (fries): Heat vegetable oil in a deep fryer or large pot to 350°F (175°C).",
+    "Fry the potato strips in batches until golden brown and crispy, about 3-4 minutes per batch.",
+    "Remove the fries from the oil and drain on paper towels. Season with salt while they're still hot.",
+    "Serve the Moule Frites hot, with a generous portion of mussels in creamy sauce and crispy fries on the side.",
+    "Enjoy this classic Belgian dish with friends and family!"
+  ]
+},
+
+{
+  "recipe": "Carbonade",
+  "region": "Hauts de France",
+  "ingredients": [
+    "2 lbs beef chuck roast, cut into chunks",
+    "2 onions, thinly sliced",
+    "2 cloves of garlic, minced",
+    "2 cups Belgian dark beer",
+    "2 cups beef broth",
+    "2 tablespoons brown sugar",
+    "2 tablespoons Dijon mustard",
+    "2 tablespoons apple cider vinegar",
+    "2 bay leaves",
+    "4 sprigs of fresh thyme",
+    "Salt and pepper to taste",
+    "2 tablespoons flour",
+    "2 tablespoons butter",
+    "1 tablespoon vegetable oil",
+    "Chopped fresh parsley, for garnish"
+  ],
+  "instructions": [
+    "In a large bowl, toss the beef chunks with flour, salt, and pepper until coated.",
+    "In a Dutch oven or heavy pot, heat the vegetable oil and butter over medium-high heat.",
+    "Add the floured beef chunks and sear on all sides until browned. Remove the beef from the pot and set aside.",
+    "In the same pot, add the sliced onions and minced garlic. Sauté until the onions are caramelized and golden brown.",
+    "Stir in the brown sugar, Dijon mustard, and apple cider vinegar. Cook for a few minutes until the flavors meld.",
+    "Return the seared beef chunks to the pot.",
+    "Pour in the dark beer and beef broth. Add the bay leaves and fresh thyme sprigs.",
+    "Bring the mixture to a simmer, then reduce the heat to low. Cover the pot and let the carbonade stew for about 2-3 hours, or until the beef is tender and the flavors are well combined.",
+    "Once the carbonade is cooked, remove the bay leaves and thyme sprigs. Season with additional salt and pepper if needed.",
+    "Serve the carbonade hot, accompanied by crusty bread, boiled potatoes, or French fries.",
+    "Garnish with chopped fresh parsley.",
+    "Enjoy this hearty and flavorful Belgian stew, a classic dish from the Flanders region!"
+  ]
+},
+
+{
+      "recipe": "Carbonade Flamande",
+      "region": "Hauts de France",
+      "ingredients": [
+        "1 kg beef (preferably chuck or blade roast), cut into chunks",
+        "2 onions, sliced",
+        "2 cloves garlic, minced",
+        "500 ml Belgian beer",
+        "2 tbsp brown sugar",
+        "2 tbsp Dijon mustard",
+        "2 slices bread, toasted and spread with mustard",
+        "2 bay leaves",
+        "4 sprigs thyme",
+        "Salt and pepper to taste",
+        "2 tbsp butter or oil for cooking"
+      ],
+      "instructions": [
+        "In a large pot or Dutch oven, melt the butter or heat the oil over medium-high heat.",
+        "Add the beef chunks and brown them on all sides. Remove the beef and set aside.",
+        "In the same pot, add the sliced onions and cook until they start to caramelize.",
+        "Add the minced garlic, brown sugar, and Dijon mustard. Stir to combine.",
+        "Return the browned beef to the pot. Pour in the Belgian beer and add the bay leaves and thyme.",
+        "Season with salt and pepper to taste. Bring to a simmer, then cover and reduce the heat to low.",
+        "Let the carbonade simmer for about 2 to 3 hours, or until the beef is tender and the flavors are well-developed.",
+        "During the last 30 minutes of cooking, place the toasted bread slices on top of the carbonade. This will help thicken the sauce.",
+        "Serve the carbonade flamande hot, with the toasted bread slices on the side.",
+        "Enjoy this rich and flavorful beef stew with a side of French fries or mashed potatoes!"
+      ]
+    },
+    {
+      "recipe": "Potjevleesch",
+      "region": "Hauts de France",
+      "ingredients": [
+        "500 g mixed meats (rabbit, chicken, pork, veal), cut into pieces",
+        "2 onions, sliced",
+        "2 cloves garlic, minced",
+        "1 carrot, peeled and sliced",
+        "1 leek, cleaned and sliced",
+        "1 bouquet garni (thyme, bay leaves, parsley)",
+        "500 ml chicken or beef broth",
+        "200 ml white wine",
+        "Salt and pepper to taste",
+        "4 slices bread, toasted",
+        "Parsley, chopped, for garnish"
+      ],
+      "instructions": [
+        "In a large pot or Dutch oven, layer the sliced onions, minced garlic, carrot, and leek.",
+        "Add a layer of mixed meats on top of the vegetables.",
+        "Repeat the layers until all the ingredients are used.",
+        "Tuck the bouquet garni among the layers.",
+        "Pour in the chicken or beef broth and white wine. Season with salt and pepper.",
+        "Cover the pot and bring to a simmer over medium heat. Reduce the heat to low and let the potjevleesch cook for about 2 hours, or until the meats are tender and flavorful.",
+        "Once cooked, remove the bouquet garni and discard it.",
+        "To serve, spoon the potjevleesch into individual serving dishes or ramekins.",
+        "Garnish with chopped parsley and serve the potjevleesch cold, accompanied by toasted bread slices.",
+        "Enjoy this traditional cold meat terrine as an appetizer or light meal."
+      ]
+    }
+  ]
+}
