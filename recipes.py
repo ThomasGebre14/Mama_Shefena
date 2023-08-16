@@ -135,6 +135,29 @@ def chat():
 
         if inp.lower() == "quit":
             break
+        if inp.lower() == "comment":
+            def sentiment_analysis(comment):
+                analysis = TextBlob(comment)
+                sentiment = analysis.sentiment.polarity
+                if sentiment > 0:
+                    return "Positive sentiment"
+                elif sentiment < 0:
+                    return "Negative sentiment"
+                else:
+                    return "Neutral sentiment"
+
+            user_input = input("Enter your comment: ")
+            sentiment_result = sentiment_analysis(user_input)
+            print("Sentiment:", sentiment_result)
+
+            if sentiment_result == "Positive sentiment":
+                print("Bot: Thank you for your positive feedback!")
+            elif sentiment_result == "Negative sentiment":
+                print("Bot: We're sorry to hear that. Please let us know how we can improve.")
+            else:
+                print("Bot: Let's continue the conversation.")
+
+
         results = model.predict([bag_of_words(inp, words)])
         results_index = numpy.argmax(results)
         name = labels[results_index]
