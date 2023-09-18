@@ -2,6 +2,8 @@
 #tf.disable_v2_behavior()
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
+#from nltk.stem import WordNetLemmatizer
+
 import numpy
 import tflearn
 import tensorflow as tf
@@ -13,12 +15,21 @@ from textblob import TextBlob
 #from termcolor import colored
 import re
 import unicodedata
+import smtplib
+from email.message import EmailMessage
+
+from sklearn.cluster import AgglomerativeClustering
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load and preprocess data
 stemmer = LancasterStemmer()
+#lemmatizer = WordNetLemmatizer()
 
 with open(r'C:\Users\WalidGebre\PycharmProjects\chapter2\MamaShefena\recipes_eng.json') as file:
     data = json.load(file)
+    all_recipes = data['recipes']
+    recipes = [recipe for recipe in all_recipes if recipe['recipe'] not in ["Greetings", "Goodbye", "Age", "Name", "Service", "hours", "how", "tradition",
+                                        "kulomkililat", "kulom", "kulomketematat", "kulomketema", "kulomtihztotat"]]
 
 try:
     with open(r'C:\Users\WalidGebre\PycharmProjects\chapter2\MamaShefena\dataengf.pickle', "rb") as f:
@@ -79,10 +90,11 @@ net = tflearn.fully_connected(net, 8)
 net = tflearn.fully_connected(net, 8)
 net = tflearn.fully_connected(net, len(output[0]), activation="softmax")
 net = tflearn.regression(net)
+#net = tflearn.regression(net, optimizer='adam', metric=metrics.F1())
 
 model = tflearn.DNN(net)
 try:
-    model.load(r'C:\Users\WalidGebre\PycharmProjects\chapter2\MamaShefena\modeleng.tflearn')
+    model.load(r'C:\Users\WalidGebre\PycharmProjects\chapter2\MamaShefena\modelengf.tflearn')
 except:
     model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
     # Save the trained model
@@ -133,10 +145,60 @@ def remove_special_characters(input_string):
 
     return cleaned_string
 
+####################################################################################
+
+def send_email(comment):
+    # Set up the email details
+    sender_email = "gidey.gebre17@gmail.com"
+    sender_password = "xxxxxxxxxxx"
+    recipient_email = "walidgebre@gmail.com"
+
+    # Create the email message
+    message = EmailMessage()
+    message.set_content(comment)
+    message["Subject"] = "New Comment from Mama Shefena User"
+    message["From"] = sender_email
+    message["To"] = recipient_email
+
+    # Establish a secure connection with the SMTP server
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+        server.login(sender_email, sender_password)
+        server.send_message(message)
+
+    print("Your comment has been sent. Thank you for your feedback!")
+
+
 #####################################################################################
 
-# Implement the chatbot functionality
+########################################################################################################################
+#### USING Agglomerative Hierarchical Clustering algorithm
+########################################################################################################################
+    # Extract recipe names and ingredients
+recipe_names = [recipe['recipe'] for recipe in recipes if recipe['recipe'] not in ["Greetings", "Goodbye", "Age", "Name", "Service", "hours", "how", "tradition", "kulomkililat", "kulom", "kulomketematat", "kulomketema", "kulomtihztotat"]]
+recipe_ingredients = [' '.join(recipe['ingredients']) for recipe in recipes if recipe['recipe'] not in ["Greetings", "Goodbye", "Age", "Name", "Service", "hours", "how", "tradition", "kulomkililat", "kulom", "kulomketematat", "kulomketema", "kulomtihztotat"]]
 
+# Vectorize recipe ingredients using TF-IDF
+tfidf_vectorizer = TfidfVectorizer()
+tfidf_matrix = tfidf_vectorizer.fit_transform(recipe_ingredients)
+
+# Perform Agglomerative Hierarchical Clustering
+num_clusters = 10  # You can adjust the number of clusters
+agg_clustering = AgglomerativeClustering(n_clusters=num_clusters)
+recipe_clusters = agg_clustering.fit_predict(tfidf_matrix.toarray())
+
+# Function to suggest a recipe from a specific cluster
+def suggest_recipe_from_cluster(cluster_id):
+    cluster_recipes = [recipe for i, recipe in enumerate(recipes) if recipe_clusters[i] == cluster_id]
+    return random.choice(cluster_recipes)
+
+# Function to find the cluster for a given recipe
+def find_cluster_for_recipe(recipe_text):
+    recipe_vector = tfidf_vectorizer.transform([recipe_text])
+    return agg_clustering.fit_predict(tfidf_matrix.toarray())[0]
+########################################################################################################################
+########################################################################################################################
+
+# Implement the chatbot functionality
 def shefena():
     print("start talking with MAMA SHEFENA to discover delightful French traditional recipes, or type 'quit' to stop!")
     allrecipes = []
@@ -290,6 +352,15 @@ def shefena():
                                 break
             continue
 
+        if inpu.lower() == "suggest recipe":
+            cluster_id = random.randint(0, num_clusters - 1)
+            recipe = suggest_recipe_from_cluster(cluster_id)
+            print("Chatbot: Here's a recipe for you:")
+            print(f"Name: {recipe['recipe']}")
+            print(f"Ingredients: {', '.join(recipe['ingredients'])}")
+            print(f"Instructions: {recipe['instructions']}")
+            continue
+
         if inpu.lower() == "comment":
             user_input = input("Provide your comment : ")
             sentiment_result = sentiment_analysis(user_input)
@@ -297,12 +368,15 @@ def shefena():
                 continue
             elif sentiment_result == "Positive sentiment":
                 print("Thank you for your positive feedback!")
+                continue
             elif sentiment_result == "Negative sentiment":
                 print("We're sorry to hear that. Please let us know how we can improve.")
                 print("Share with us your suggestions for improvement.")
                 user_opinion = input("Provide your suggestions please : - ")
                 if user_opinion != "":
                     print("Thank you for providing your suggestions. We will carefully consider them.")
+                    #send_email(user_opinion)
+                    continue
                 else:
                     continue
             else:
@@ -343,6 +417,16 @@ def shefena():
                     print("\033[3m Remember to type 'recommend' if you'd like a recommendation, and use 'comment' to share your thoughts. \033[0m")
                     print()
             else:
-                print("I'm sorry, I didn't quite catch that. Could you please try again?")
+                #print("I'm sorry, I didn't quite catch that. Could you please try again?")
+                # Check if the user input is a recipe the bot has not explicitly learned
+                user_cluster_id = find_cluster_for_recipe(inpu)
+                if user_cluster_id >= 0 and user_cluster_id < num_clusters:
+                    recipe = suggest_recipe_from_cluster(user_cluster_id)
+                    print("Chatbot: I found a similar recipe for you:")
+                    print(f"Name: {recipe['recipe']}")
+                    print(f"Ingredients: {', '.join(recipe['ingredients'])}")
+                    print(f"Instructions: {recipe['instructions']}")
+                else:
+                    print("Chatbot: I'm not familiar with that recipe. You can ask for a random recipe.")
 
 shefena()
